@@ -1,0 +1,18 @@
+# Gitignore file
+# Byte‑compiled / optimized files
+/.env
+__pycache__/
+/Procfile
+/filters/__pycache__/
+/keyboards/__pycache__/
+*.py[cod]
+*$py.class
+/bot_privacy.py
+/handlers/vovan.py
+/handlers/different_types.py
+/keyboards/train.py
+/filters/chat_type.py
+/filters/find_usernames.py
+/.idea
+/.venv
+/vovan/

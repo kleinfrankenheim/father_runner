@@ -1,0 +1,1272 @@
+[
+    {
+        "command": "2+3",
+        "hit level": "m",
+        "damage": "12 (12)",
+        "startup": "i16",
+        "block": "+1",
+        "hit": "+2c",
+        "counter hit": "",
+        "notes": "* Heat BurstPower crush"
+    },
+    {
+        "command": "H.2+3",
+        "hit level": "m",
+        "damage": "50 (25)",
+        "startup": "i15",
+        "block": "+6",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": "* Heat Smash* Balcony Break* Alternate input: H.HRM.2+3* Also possible after Twin Dragon Gate is successful* Transition to HRM on block"
+    },
+    {
+        "command": "R.df+1+2",
+        "hit level": "m,t",
+        "damage": "55+",
+        "startup": "i20",
+        "block": "-15",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+    },
+    {
+        "command": "1",
+        "hit level": "h",
+        "damage": "5",
+        "startup": "i10",
+        "block": "+1",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1,1",
+        "hit level": "h, m",
+        "damage": "5, 7",
+        "startup": "i10, i18~19",
+        "block": "-9~-8",
+        "hit": "+2~+3",
+        "counter hit": "",
+        "notes": "Combo from 1st hit CHslightly delayable"
+    },
+    {
+        "command": "1,1,1+2",
+        "hit level": "h, m, h",
+        "damage": "5, 7, 12",
+        "startup": "i10, ,i19~20",
+        "block": "-9~-8",
+        "hit": "-2~-1",
+        "counter hit": "",
+        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 2nd hit"
+    },
+    {
+        "command": "1,1,1+2,1",
+        "hit level": "h, m, h, m",
+        "damage": "5, 7, 12, 15",
+        "startup": "i10, ,i23~24",
+        "block": "-16~-15",
+        "hit": "+20a(+15)~+21a(+17)",
+        "counter hit": "",
+        "notes": "Combo from 3rd hit"
+    },
+    {
+        "command": "1,2",
+        "hit level": "h, h",
+        "damage": "5, 9",
+        "startup": "i10, i12",
+        "block": "-3",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1,2,1",
+        "hit level": "h, h, h",
+        "damage": "5, 9, 17",
+        "startup": "i10, ,i27~28",
+        "block": "-6~-5",
+        "hit": "+8~+9",
+        "counter hit": "",
+        "notes": "* Follow-up after successful parry with input 1 or 2* Partially restores remaining Heat time when successful during Heat* Delayable* Combo from 2nd hit CHParry state 10~24"
+    },
+    {
+        "command": "1,2,3",
+        "hit level": "h, h, h",
+        "damage": "5, 9, 21",
+        "startup": "i10, ,i23~24",
+        "block": "-6~-5",
+        "hit": "+20a(+11)~+21a(+13)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combo from 2nd hit CHLow crush"
+    },
+    {
+        "command": "1,2,4",
+        "hit level": "h, h, m",
+        "damage": "5, 9, 11",
+        "startup": "i10, ,i16",
+        "block": "-9",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combo from 1st hit"
+    },
+    {
+        "command": "1+3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2 to Chain Punch: BranchParry state 20~100"
+    },
+    {
+        "command": "2",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "0",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "2,1",
+        "hit level": "h, m",
+        "damage": "10, 12",
+        "startup": "i12, i12~13",
+        "block": "-7~-6",
+        "hit": "+4~+5",
+        "counter hit": "",
+        "notes": "Elbow"
+    },
+    {
+        "command": "2,1,2",
+        "hit level": "h, m, h",
+        "damage": "10, 12, 17",
+        "startup": "i12, ,i20~21",
+        "block": "-7~-6",
+        "hit": "+4~+5",
+        "counter hit": "",
+        "notes": "Elbow* Follow-up after successful parry with input 1 or 2* Partially restores remaining Heat time when successful during Heat* Delayable* Combo from 2nd hit CHParry state 2~16"
+    },
+    {
+        "command": "2,1,2,1",
+        "hit level": "h, m, h, m",
+        "damage": "10, 12, 17, 21",
+        "startup": "i12, ,i21~23",
+        "block": "-13~-11",
+        "hit": "+16a(-1)~+18a(+3)",
+        "counter hit": "+30a(+20)",
+        "notes": "* Balcony Break* Tornado* Elbow* Combo from 3rd hit* Delayable"
+    },
+    {
+        "command": "2,2",
+        "hit level": "h, h",
+        "damage": "10, 20",
+        "startup": "i12, i25~26",
+        "block": "-7~-6",
+        "hit": "+7~+8",
+        "counter hit": "",
+        "notes": "* Elbow* chip damage on block"
+    },
+    {
+        "command": "3",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i15",
+        "block": "-8",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "3,3",
+        "hit level": "m, l",
+        "damage": "14, 13",
+        "startup": "i15, i18",
+        "block": "-14",
+        "hit": "+2",
+        "counter hit": "+15d",
+        "notes": "* Delayable* Combo from 1st hit"
+    },
+    {
+        "command": "4",
+        "hit level": "h",
+        "damage": "15",
+        "startup": "i12",
+        "block": "-11",
+        "hit": "0",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "4,4",
+        "hit level": "h, m",
+        "damage": "15, 13",
+        "startup": "i12, i15~16",
+        "block": "-13~-12",
+        "hit": "+3~+4",
+        "counter hit": "",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "1+2",
+        "hit level": "h,h,h",
+        "damage": "9",
+        "startup": "i14",
+        "block": "-2",
+        "hit": "4",
+        "counter hit": "",
+        "notes": "* Power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "1+2,1+2",
+        "hit level": "h,h,h, h,h,h",
+        "damage": "9, 9",
+        "startup": "i14, i9",
+        "block": "-2",
+        "hit": "7",
+        "counter hit": "",
+        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 1st hit* jails"
+    },
+    {
+        "command": "1+2,1+2,1",
+        "hit level": "h,h,h, h,h,h, m",
+        "damage": "9, 9, 20",
+        "startup": "i14, ,i17~18",
+        "block": "-17~-16",
+        "hit": "+7a(-2) / HE",
+        "counter hit": "",
+        "notes": "* Heat Engager* Balcony Break* Elbow* Combo from 1st hit* Delayable* jails"
+    },
+    {
+        "command": "1+4",
+        "hit level": "l",
+        "damage": "16",
+        "startup": "i100~279",
+        "block": "-26",
+        "hit": "+24",
+        "counter hit": "",
+        "notes": "Power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Auto low parry* Partially restores remaining Heat time upon successful parry during Heat* Transition to n with HRM.3+4Parry state 3"
+    },
+    {
+        "command": "3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Auto low parry starting of frame 3* Partially restores remaining Heat time upon successful parry during Heat* Transition to n with HRM.3+4Parry state"
+    },
+    {
+        "command": "f+2",
+        "hit level": "h",
+        "damage": "15",
+        "startup": "i14~16",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "Elbow"
+    },
+    {
+        "command": "f+2,3",
+        "hit level": "h, m",
+        "damage": "15, 15",
+        "startup": "i14~16, i18",
+        "block": "-10",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "f+2,3,4",
+        "hit level": "h, m, m",
+        "damage": "15, 15, 20",
+        "startup": "i14~16, ,i21~22",
+        "block": "-9",
+        "hit": "+8",
+        "counter hit": "+38d (+30)",
+        "notes": "* Knee* Transition to HRM* Combo from 2nd hit CH"
+    },
+    {
+        "command": "f+3",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i14~15",
+        "block": "-7~-6",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* KneeAlternative input: ws3"
+    },
+    {
+        "command": "f+3,1+2",
+        "hit level": "m, h",
+        "damage": "14, 15",
+        "startup": "i14~15,",
+        "block": "-8",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": "* jail from 1st hit* power up during Heat (partially uses remaining Heat time)* Combo from 1st hit CH"
+    },
+    {
+        "command": "f+3,1+2,4",
+        "hit level": "m, h, m",
+        "damage": "14, 15, 20",
+        "startup": "i14~15, i20~21",
+        "block": "-16~-15",
+        "hit": "+13a (+6)",
+        "counter hit": "",
+        "notes": "* Tornado* Natural combo from 2nd hit"
+    },
+    {
+        "command": "f+4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i16~17",
+        "block": "-9~-8",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f+4,4",
+        "hit level": "m, h",
+        "damage": "14, 24",
+        "startup": "i16~17, i28~30",
+        "block": "-6",
+        "hit": "+20a (+11) / HE",
+        "counter hit": "",
+        "notes": "* Heat Engager* Balcony Break* Combo from 1st hit* Slighly delayableLow crush"
+    },
+    {
+        "command": "f+1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i17~18",
+        "block": "-13",
+        "hit": "+20a (+15)",
+        "counter hit": "",
+        "notes": "* Balcony Break* ElbowPower crush"
+    },
+    {
+        "command": "f+2+3",
+        "hit level": "m",
+        "damage": "35",
+        "startup": "i22~23",
+        "block": "-7",
+        "hit": "+73a",
+        "counter hit": "",
+        "notes": "* Weapon* Only once per match* chip damage on block"
+    },
+    {
+        "command": "df+1",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i13~14",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+1,4",
+        "hit level": "m, m",
+        "damage": "10, 16",
+        "startup": "i13~14, i18",
+        "block": "-9",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combo from 1st hit"
+    },
+    {
+        "command": "df+1,1+2",
+        "hit level": "m, h",
+        "damage": "10, 9",
+        "startup": "i13~14,",
+        "block": "-2",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 1st hit"
+    },
+    {
+        "command": "df+1,1+2,2",
+        "hit level": "m, h",
+        "damage": "10, 9, 17",
+        "startup": "i13~14, i24",
+        "block": "-10",
+        "hit": "+3",
+        "counter hit": "+33d (-25)",
+        "notes": "* Partially restores remaining Heat time when successful during Heat* Combos from 1st hit CHParry state 4~12"
+    },
+    {
+        "command": "df+2",
+        "hit level": "m",
+        "damage": "7",
+        "startup": "i15~16",
+        "block": "-6",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+2,1+2",
+        "hit level": "m, hm",
+        "damage": "7, 5,10",
+        "startup": "i15~16,",
+        "block": "-18",
+        "hit": "+33 (+23)",
+        "counter hit": "",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "df+3",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i16",
+        "block": "-11",
+        "hit": "0",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+3,1",
+        "hit level": "m, h",
+        "damage": "14, 12",
+        "startup": "i16, i16~17",
+        "block": "0",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "df+3,1,1+2",
+        "hit level": "m, h, m",
+        "damage": "14, 12, 25",
+        "startup": "i16, ,i20~21",
+        "block": "-13",
+        "hit": "+34 (+13)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combo from 2nd hit CH* Delayable"
+    },
+    {
+        "command": "df+4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i13",
+        "block": "-6",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "Transition to HRM"
+    },
+    {
+        "command": "df+4,3",
+        "hit level": "m, m",
+        "damage": "14, 14",
+        "startup": "i13, i20~21",
+        "block": "-9",
+        "hit": "+7",
+        "counter hit": "+37d (+29)",
+        "notes": "* Knee* Combo from 1st hit CH* Delayable"
+    },
+    {
+        "command": "df+3+4",
+        "hit level": "h",
+        "damage": "23",
+        "startup": "i18~19",
+        "block": "-9",
+        "hit": "+70a(+54)~+71a(+55)",
+        "counter hit": "",
+        "notes": "* Tornado* chip damage on blockHigh crush , Low crush"
+    },
+    {
+        "command": "d+1",
+        "hit level": "sl",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "High crush"
+    },
+    {
+        "command": "d+1,2",
+        "hit level": "sl, m",
+        "damage": "5, 8",
+        "startup": "i10, i15~16",
+        "block": "-10~-9",
+        "hit": "-1~0",
+        "counter hit": "",
+        "notes": "Combos from 1st hit CH"
+    },
+    {
+        "command": "d+1,2,4",
+        "hit level": "sl, m, m",
+        "damage": "5, 8, 11",
+        "startup": "i10, ,i15",
+        "block": "-9",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combos from 2nd hit"
+    },
+    {
+        "command": "d+2",
+        "hit level": "l",
+        "damage": "11",
+        "startup": "i15~16",
+        "block": "-13~-12",
+        "hit": "-2~-1",
+        "counter hit": "+3~+4",
+        "notes": "High crush"
+    },
+    {
+        "command": "d+2,4",
+        "hit level": "l, l",
+        "damage": "11, 11",
+        "startup": "i15~16, i24~25",
+        "block": "-13~-12",
+        "hit": "-2c",
+        "counter hit": "+38d",
+        "notes": "High crush"
+    },
+    {
+        "command": "d+3",
+        "hit level": "l",
+        "damage": "8",
+        "startup": "i16",
+        "block": "-13",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "d+3,2",
+        "hit level": "l, h",
+        "damage": "8, 8",
+        "startup": "i16, i24~25",
+        "block": "-3~-2",
+        "hit": "+8~+9",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combos from 1st hit"
+    },
+    {
+        "command": "d+4",
+        "hit level": "l",
+        "damage": "9",
+        "startup": "i14~15",
+        "block": "-12~-11",
+        "hit": "-1~0",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "d+4,4",
+        "hit level": "l, m",
+        "damage": "9, 16",
+        "startup": "i14~15, i18~19",
+        "block": "-11~-10",
+        "hit": "+1~+2",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combos from 1st hit CH"
+    },
+    {
+        "command": "d+1+2",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i17~18",
+        "block": "-4~-3",
+        "hit": "+6c / HE",
+        "counter hit": "",
+        "notes": "* Heat Engager"
+    },
+    {
+        "command": "db+1",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i16~17",
+        "block": "-9~-8",
+        "hit": "+1~+2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "db+1,2",
+        "hit level": "m, m",
+        "damage": "12, 20",
+        "startup": "i16~17, i21~22",
+        "block": "-12~-11",
+        "hit": "+17a(+0)",
+        "counter hit": "",
+        "notes": "* Tornado* Balcony Break* Combo from 1st hit"
+    },
+    {
+        "command": "db+1,3",
+        "hit level": "m, h",
+        "damage": "12, 17",
+        "startup": "i16~17, i18~19",
+        "block": "0~+1",
+        "hit": "+8~+9",
+        "counter hit": "+31a",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "db+1,1+2",
+        "hit level": "m, m",
+        "damage": "12, 25",
+        "startup": "i16~17, i21~22",
+        "block": "-10~-9",
+        "hit": "+23a (+18)",
+        "counter hit": "+41a",
+        "notes": "* Balcony Break* Combo from 1st hit CH"
+    },
+    {
+        "command": "db+3",
+        "hit level": "l",
+        "damage": "12",
+        "startup": "i20~21",
+        "block": "-8~-7",
+        "hit": "+5~+6",
+        "counter hit": "+14c",
+        "notes": "Transition to HRMHigh crush"
+    },
+    {
+        "command": "db+4",
+        "hit level": "l",
+        "damage": "13",
+        "startup": "i17",
+        "block": "-15",
+        "hit": "-4c",
+        "counter hit": "+36d",
+        "notes": "High crush"
+    },
+    {
+        "command": "db+1+2",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i32~33",
+        "block": "-11~-10",
+        "hit": "+36d (+15)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Balcony Break* Sabaki (partially restores remaining Heat time when successful during Heat)* chip damage on blockParry state 4~20"
+    },
+    {
+        "command": "db+2+3",
+        "hit level": "lm",
+        "damage": "10,14 (9)",
+        "startup": "i20~21",
+        "block": "-14",
+        "hit": "+67a (+51)",
+        "counter hit": "",
+        "notes": "* Weapon* Tornado* Only once per match* chip damage on block* Tracks to both sides effectively homing"
+    },
+    {
+        "command": "b+1",
+        "hit level": "h",
+        "damage": "17",
+        "startup": "i13",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "Shifts to throw \"Knee Snap\" on front grounded CH"
+    },
+    {
+        "command": "b+2",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Parry (partially restores remaining Heat time when successful during Heat)* Becomes Superior Twin Dragon Gate upon perfect parry* Is ps3~15 from HRM.b+2Parry state 5~15"
+    },
+    {
+        "command": "b+3",
+        "hit level": "h",
+        "damage": "27",
+        "startup": "i22~23",
+        "block": "+9",
+        "hit": "+16c",
+        "counter hit": "",
+        "notes": "* Balcony Break* Homing* Transition to HRM* Cancel into HRM with input b+3,3+4* chip damage on block"
+    },
+    {
+        "command": "b+4",
+        "hit level": "m",
+        "damage": "16",
+        "startup": "i17~18",
+        "block": "-9",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "Homing"
+    },
+    {
+        "command": "b+1+2",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i12",
+        "block": "-10",
+        "hit": "+2",
+        "counter hit": "+60",
+        "notes": ""
+    },
+    {
+        "command": "b+3+4",
+        "hit level": "m,th",
+        "damage": "21,25",
+        "startup": "i18~19",
+        "block": "-14",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Balcony Break* Shifts to throw on hit from the front"
+    },
+    {
+        "command": "ub+2",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i20",
+        "block": "-10",
+        "hit": "+3",
+        "counter hit": "+33d (+25)",
+        "notes": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)Parry state 4~12"
+    },
+    {
+        "command": "uf+1",
+        "hit level": "h",
+        "damage": "17",
+        "startup": "i16~17",
+        "block": "-9",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2Parry state 6~13"
+    },
+    {
+        "command": "uf+2",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i24~25",
+        "block": "+1",
+        "hit": "+10a (+1)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Alternate input: u+2* chip damage on blockLow crush"
+    },
+    {
+        "command": "uf+3",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i20~24",
+        "block": "-8",
+        "hit": "+14a (+5)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Alternate input: ub+3 or u+3Low crush"
+    },
+    {
+        "command": "uf+4",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i23~25",
+        "block": "-8~-6",
+        "hit": "+21a",
+        "counter hit": "",
+        "notes": "Alternate input: ub+4 or u+4Low crush 9"
+    },
+    {
+        "command": "uf+3+4",
+        "hit level": "m,m",
+        "damage": "8,10",
+        "startup": "i14~15,i10~11",
+        "block": "-14",
+        "hit": "+16a",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "uf+3+4,1+2",
+        "hit level": "m,m, m",
+        "damage": "8,10, 17 (11)",
+        "startup": "i14~15,i10~11, i30~31",
+        "block": "-13",
+        "hit": "+23a (+13)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos from 1st hit"
+    },
+    {
+        "command": "1+2+3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "CH b+1",
+        "hit level": "h,th",
+        "damage": "20,25",
+        "startup": "i13",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "P:b+2",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Alternate input: P:HRM.b+2* Parry (partially restores remaining Heat time when successful during Heat)"
+    },
+    {
+        "command": "P:b+2,1",
+        "hit level": "m",
+        "damage": "40",
+        "startup": "i13",
+        "block": "",
+        "hit": "+29a",
+        "counter hit": "",
+        "notes": "* Alternate input: P:b+2,2* power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "d,df,f+2",
+        "hit level": "h",
+        "damage": "20",
+        "startup": "i16~17",
+        "block": "-6~-5",
+        "hit": "+29a (+22)",
+        "counter hit": "",
+        "notes": "chip damage on block"
+    },
+    {
+        "command": "d,df,f+3+4,F",
+        "hit level": "ub(m)",
+        "damage": "80",
+        "startup": "i56~57",
+        "block": "",
+        "hit": "-1~0d",
+        "counter hit": "",
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2 to Chain Punch: BranchParry state 20~60"
+    },
+    {
+        "command": "f,F+2",
+        "hit level": "m",
+        "damage": "8",
+        "startup": "i14~15",
+        "block": "-11~-10",
+        "hit": "0~+1",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f,F+2,2",
+        "hit level": "m, m",
+        "damage": "8, 13",
+        "startup": "i14~15, i17~18",
+        "block": "-15~-14",
+        "hit": "+55~+56",
+        "counter hit": "",
+        "notes": "Combos from 1st hit"
+    },
+    {
+        "command": "f,F+3",
+        "hit level": "h",
+        "damage": "23",
+        "startup": "i18~23",
+        "block": "-2~+3",
+        "hit": "+33d(+25)~+38d(+30)",
+        "counter hit": "",
+        "notes": "* Balcony Break* chip damage on blockLow crush"
+    },
+    {
+        "command": "f,F+4",
+        "hit level": "m",
+        "damage": "16",
+        "startup": "i16~17",
+        "block": "-4~-3",
+        "hit": "+9~+10g",
+        "counter hit": "",
+        "notes": "Transition to HRM"
+    },
+    {
+        "command": "f,F+4,2",
+        "hit level": "m, m",
+        "damage": "16, 21",
+        "startup": "i16~17, i27~28",
+        "block": "-14~-13",
+        "hit": "+34a (+19)",
+        "counter hit": "+43a (-33)",
+        "notes": "* Tornado* Combos from 1st hit* Has evasive properties"
+    },
+    {
+        "command": "uf,n,4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i23~25",
+        "block": "-13",
+        "hit": "+32a (+22)",
+        "counter hit": "",
+        "notes": "Low crush"
+    },
+    {
+        "command": "f,f,F+3",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i24~27",
+        "block": "+6~+9",
+        "hit": "+41d(-17)~+44(-11)",
+        "counter hit": "",
+        "notes": "* Balcony Break* chip damage on blockLow crush"
+    },
+    {
+        "command": "ws1",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i13~14",
+        "block": "-7",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "Elbow"
+    },
+    {
+        "command": "ws1,4",
+        "hit level": "m, m",
+        "damage": "14, 16",
+        "startup": "i13~14, i21",
+        "block": "-9",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Transition to HRM* Combos from 1st hit"
+    },
+    {
+        "command": "ws2",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i15~16",
+        "block": "-14",
+        "hit": "+51a",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ws4",
+        "hit level": "m",
+        "damage": "16",
+        "startup": "i11~12",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "SS.4",
+        "hit level": "l",
+        "damage": "17",
+        "startup": "i18~19",
+        "block": "-12",
+        "hit": "+4",
+        "counter hit": "+12",
+        "notes": "* Can be delayed"
+    },
+    {
+        "command": "SS.1+2",
+        "hit level": "h",
+        "damage": "26",
+        "startup": "i14",
+        "block": "+7",
+        "hit": "+30g",
+        "counter hit": "",
+        "notes": "* chip damage on block* power up during Heat (partially uses remaining Heat time)* Can be delayed"
+    },
+    {
+        "command": "FC.df+4",
+        "hit level": "l",
+        "damage": "14",
+        "startup": "i15~16",
+        "block": "-13~-12",
+        "hit": "-2~-1",
+        "counter hit": "+3~+4",
+        "notes": "High crush"
+    },
+    {
+        "command": "FC.df+4,1",
+        "hit level": "l, m",
+        "damage": "14, 15",
+        "startup": "i15~16, i20~21",
+        "block": "-13~-12",
+        "hit": "+31a (+21)",
+        "counter hit": "",
+        "notes": "Combos from 1st hit CH"
+    },
+    {
+        "command": "HRM.1",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i24~25",
+        "block": "-10~-9",
+        "hit": "0~+1",
+        "counter hit": "",
+        "notes": "* Parry* Partially restores remaining Heat time upon successful parry during HeatParry state 3~12"
+    },
+    {
+        "command": "HRM.2",
+        "hit level": "h",
+        "damage": "14",
+        "startup": "i12~13",
+        "block": "-6~-5",
+        "hit": "+5~+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "HRM.2,3",
+        "hit level": "h, h",
+        "damage": "14, 23",
+        "startup": "i12~13, i24~25",
+        "block": "-9~-8",
+        "hit": "+16a (+9)",
+        "counter hit": "",
+        "notes": "* Tornado* chip damage on block* Combos from 1st hit* DelayableLow crush"
+    },
+    {
+        "command": "HRM.3",
+        "hit level": "l",
+        "damage": "8",
+        "startup": "i16",
+        "block": "-13",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "HRM.3,4",
+        "hit level": "l, m",
+        "damage": "8, 16",
+        "startup": "i16, i22~23",
+        "block": "-15~-14",
+        "hit": "+1~+2",
+        "counter hit": "",
+        "notes": "Combo from 1st hit"
+    },
+    {
+        "command": "HRM.4",
+        "hit level": "m",
+        "damage": "13",
+        "startup": "i11~12",
+        "block": "-7~-6",
+        "hit": "+7~+8",
+        "counter hit": "",
+        "notes": "Transition to HRM"
+    },
+    {
+        "command": "HRM.4,1+2",
+        "hit level": "m, m",
+        "damage": "13, 25",
+        "startup": "i11~12, i24~25",
+        "block": "-14~-13",
+        "hit": "+27a (+12)",
+        "counter hit": "",
+        "notes": "Tornado"
+    },
+    {
+        "command": "HRM.1+2",
+        "hit level": "m,h,h,h",
+        "damage": "3,3,3,3",
+        "startup": "i14",
+        "block": "-2",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "{{Plainlist* 12 damage total* Power up during Heat (partially uses remaining Heat time)}}"
+    },
+    {
+        "command": "HRM.1+2,1",
+        "hit level": "m,h,h,h, m",
+        "damage": "3,3,3,3, 20",
+        "startup": "i14, i17~18",
+        "block": "-17",
+        "hit": "+7a(-2)/HE",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5g +36a(+26)* Balcony Break* Elbow* Jailing* Delayable"
+    },
+    {
+        "command": "HRM.SS",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "HRM.SS.1+2",
+        "hit level": "h",
+        "damage": "26",
+        "startup": "i14",
+        "block": "+7",
+        "hit": "+30g",
+        "counter hit": "",
+        "notes": "* chip damage on block* power up during Heat (partially uses remaining Heat time)* Delayable"
+    },
+    {
+        "command": "HRM.b+1",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i20~22",
+        "block": "+4",
+        "hit": "+7c",
+        "counter hit": "+52a",
+        "notes": "chip damage on block"
+    },
+    {
+        "command": "HRM.b+3",
+        "hit level": "l",
+        "damage": "12",
+        "startup": "i20~21",
+        "block": "-31",
+        "hit": "-9",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "HRM.b+3,1+2",
+        "hit level": "l, m",
+        "damage": "12, 27",
+        "startup": "i20~21, i31~32",
+        "block": "-16",
+        "hit": "+0a (-1)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combo from 1st hit* Combo deals [30; 12] damage"
+    },
+    {
+        "command": "HRM.b+4",
+        "hit level": "l",
+        "damage": "17",
+        "startup": "i20~21",
+        "block": "-13",
+        "hit": "+4c",
+        "counter hit": "+28a",
+        "notes": "HomingHigh crush"
+    },
+    {
+        "command": "HRM.f+1",
+        "hit level": "h",
+        "damage": "17",
+        "startup": "i14~15",
+        "block": "+0",
+        "hit": "+15g",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "HRM.f+4",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i26~29",
+        "block": "+0",
+        "hit": "+40a",
+        "counter hit": "",
+        "notes": "chip damage on blockLow crush"
+    },
+    {
+        "command": "OTG.db+2",
+        "hit level": "l",
+        "damage": "",
+        "startup": "i17~18",
+        "block": "-16",
+        "hit": "-5",
+        "counter hit": "",
+        "notes": "Power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "OTG.db+2,1+2",
+        "hit level": "l, l",
+        "damage": "",
+        "startup": "i17~18,",
+        "block": "-13",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "P.b+2,1",
+        "hit level": "m",
+        "damage": "35",
+        "startup": "i13",
+        "block": "",
+        "hit": "+21g",
+        "counter hit": "",
+        "notes": "* Balcony Break* Alternate input: P.b+2,2* power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "1+3",
+        "hit level": "th(h)",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Spike* Throw break: 1 or 2* Opponent status on hit: FUFT perpendicular"
+    },
+    {
+        "command": "2+4",
+        "hit level": "th(h)",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Throw break: 1 or 2* Opponent status on hit: FUFA* Side switch on hit"
+    },
+    {
+        "command": "Back throw",
+        "hit level": "th(h)",
+        "damage": "50",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Spike* Throw break: none* Opponent status on hit: FDFA"
+    },
+    {
+        "command": "Left throw",
+        "hit level": "th(h)",
+        "damage": "40",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Spike* Throw break: 1* Opponent status on hit: FUFT perpendicular"
+    },
+    {
+        "command": "Right throw",
+        "hit level": "th(h)",
+        "damage": "40",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Throw break: 2* Opponent status on hit: FUFA* Side switch on hit"
+    },
+    {
+        "command": "uf+1+2",
+        "hit level": "th(h)",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Throw break: 1+2* Opponent status on hit: FUFA off-axis to the left"
+    }
+]
