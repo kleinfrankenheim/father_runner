@@ -31,8 +31,7 @@ async def answer_frame(message: Message):
 
     returned_data = open_frame_data(path)
 
-    compare_inputs(returned_data, move)
-    found_move = compare_inputs(returned_data, move)
+    found_move = compare_inputs(returned_data, character, move)
     try:
         notes = found_move['notes'].split('*')
     except TypeError:
