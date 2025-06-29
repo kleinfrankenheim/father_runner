@@ -2,7 +2,7 @@
 
 Fatherrunner - is open-source Telegram bot that provides Tekken 8 frame data.
 Bot is built using python and aiogram.
-[Try it out](t.me/fatherrunner_bot)
+[Try it out](https://t.me/fatherrunner_bot)
 
 How to:
 - Type **!fd 'character' 'move'** - to get frame data for your move and character.
