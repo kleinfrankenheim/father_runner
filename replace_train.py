@@ -16,6 +16,7 @@ class CharacterName(enum.Enum):
     DEVIL_JIN = 'devil_jin'
     DRAGUNOV = 'dragunov'
     EDDY = 'eddy'
+    FAHKUMRAM = 'fahkumram'
     FENG = 'feng'
     HEIHACHI = 'heihachi'
     HWOARANG = 'hwoarang'
@@ -56,6 +57,7 @@ Character_alias = {
     CharacterName.DEVIL_JIN: ['deviljin', 'dvj', 'dj', 'djin'],
     CharacterName.DRAGUNOV: ['drag', 'draga', 'sergei'],
     CharacterName.EDDY: ['capoeira'],
+    CharacterName.FAHKUMRAM: ['fahk, fakhumram', 'fakh'],
     CharacterName.FENG: ['fengwei'],
     CharacterName.HEIHACHI: ['heihach', 'hachi'],
     CharacterName.HWOARANG: ['hwo'],

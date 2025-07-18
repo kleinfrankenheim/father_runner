@@ -980,7 +980,7 @@
         "notes": "Transition to +12cg ZEN with F on hit High crush 1~57"
     },
     {
-        "command": "CD.4",
+        "command": "CD.DF+4",
         "hit level": "l",
         "damage": "12",
         "startup": "i20~i21",
@@ -990,7 +990,7 @@
         "notes": ""
     },
     {
-        "command": "CD.4,2",
+        "command": "CD.DF+4,2",
         "hit level": "l, M",
         "damage": "12, 28",
         "startup": "i20~i21, i31~i32",
@@ -1000,7 +1000,7 @@
         "notes": "* Balcony Break * Spike * Combo from 1st hit * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 8~28 * fs29~31&lt;/div&gt;"
     },
     {
-        "command": "CD.:1",
+        "command": "CD.df:1",
         "hit level": "M",
         "damage": "22",
         "startup": "i16~i17",
@@ -1010,7 +1010,7 @@
         "notes": "* Tornado * Chip damage on block"
     },
     {
-        "command": "CD:2",
+        "command": "CD.df:2",
         "hit level": "h",
         "damage": "25",
         "startup": "i11~i12",
@@ -1020,7 +1020,7 @@
         "notes": "* Balcony Break * Recovers 3f faster on hit or block (t36 r24)"
     },
     {
-        "command": "CD1",
+        "command": "CD.df+1",
         "hit level": "m",
         "damage": "20",
         "startup": "i16~i17",
@@ -1030,7 +1030,7 @@
         "notes": "* Tornado * Turns into CD.df#1 while in heat"
     },
     {
-        "command": "CD2",
+        "command": "CD.df+2",
         "hit level": "h",
         "damage": "20",
         "startup": "i11~12",
