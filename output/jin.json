@@ -7,7 +7,7 @@
         "block": "+1",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat Burst* Cancel to r45 with b,b* 3 chip damage on block* 12 chip damage on hit* Only deals recoverable damage* Cannot cause a K.O.Power crush 7~16"
+        "notes": "* Heat Burst * Cancel to r45 with b,b on frame 42 * 2 chip damage on block * 12 chip damage on hit * Only deals recoverable damage * Cannot cause a K.O. Power crush 7~16"
     },
     {
         "command": "H.db+1+2",
@@ -17,67 +17,17 @@
         "block": "+4",
         "hit": "+23g~+38g",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Balcony Break* Enter Awakened Breaking Step r10 on hit or block* Unparryable by traditional parries, Asuka, Nina, etc* Partially uses remaining Heat time* Causes wall splat on hit* Opponent recovers crouchingPower crush 6~18"
+        "notes": "* Strong Aerial Tailspin * Balcony Break * Transition to DVS r10 on hit or block * Unparryable by traditional parries, Asuka, Nina, etc * Partially uses remaining Heat time * Causes wall splat on hit * Opponent recovers crouching Power crush 6~18"
     },
     {
-        "command": "H.db+1+2,1",
-        "hit level": "M, m",
-        "damage": "0, 25",
-        "startup": "i19~34, i20~22",
-        "block": "-13",
-        "hit": "+72a (+56)",
+        "command": "H.f,F+1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i25~27",
+        "block": "+5",
+        "hit": "+18g",
         "counter hit": "",
-        "notes": "* Tornado* 10 chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 22~43* fs44~46&lt;/div&gt;"
-    },
-    {
-        "command": "H.db+1+2,2",
-        "hit level": "M, sm",
-        "damage": "0, 23",
-        "startup": "i19~34, i11~12",
-        "block": "+4",
-        "hit": "+38a (+28)",
-        "counter hit": "",
-        "notes": "* 9 chip damage on block"
-    },
-    {
-        "command": "H.db+1+2,3",
-        "hit level": "M, M",
-        "damage": "0, 25",
-        "startup": "i19~34, i26~28",
-        "block": "+2c",
-        "hit": "+22a",
-        "counter hit": "",
-        "notes": "* Spike* 10 chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 5~25* fs26~28&lt;/div&gt;"
-    },
-    {
-        "command": "H.db+1+2,4",
-        "hit level": "M, L",
-        "damage": "0, 10",
-        "startup": "i19~34, i16",
-        "block": "-23",
-        "hit": "+22a",
-        "counter hit": "",
-        "notes": "* 4 chip damage on block"
-    },
-    {
-        "command": "H.db+1+2,4,4",
-        "hit level": "M, L, m",
-        "damage": "0, 10, 28",
-        "startup": "i19~34, ,i25~26",
-        "block": "-23",
-        "hit": "+20d (-15)",
-        "counter hit": "",
-        "notes": "* Spike"
-    },
-    {
-        "command": "H.db+1+2,DF+3",
-        "hit level": "M, L",
-        "damage": "0, 24",
-        "startup": "i19~34, i33~34",
-        "block": "-23",
-        "hit": "-2a",
-        "counter hit": "",
-        "notes": "* 10 chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 5~25* fs26~28&lt;/div&gt;"
+        "notes": "* Balcony Break * Transitions to CD on hit or block * Cancel transition and recover Standing +18g, -1 with B * 6 chip damage on block Low crush"
     },
     {
         "command": "H.2+3",
@@ -87,7 +37,7 @@
         "block": "+3",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Heat Smash* Reversal Break* Balcony Break* Transition to attack throw after 1st hit* Transitions to Breaking Step automatically on block* Cancel Breaking Step transition with B* Chip damage on block* Jail from 1st attack* Ends Heat"
+        "notes": "* Heat Smash * Reversal Break * Balcony Break * Transition to attack throw after 1st hit * Transitions to Breaking Step automatically on block * Cancel Breaking Step transition with B * 6 Chip damage on block * Jail from 1st attack * Ends Heat"
     },
     {
         "command": "H.2+3,4",
@@ -97,7 +47,7 @@
         "block": "+9",
         "hit": "+32a (-4)",
         "counter hit": "",
-        "notes": "* Heat Smash* Wall Crush +21g on block* Reversal Break* Balcony Break* Chip damage on block* Jail from 1st attack* Ends Heat"
+        "notes": "* Heat Smash * Reversal Break * Balcony Break * 7 Chip damage on block * Jail from 1st attack * Ends Heat"
     },
     {
         "command": "R.df+1+2",
@@ -107,7 +57,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -137,7 +87,7 @@
         "block": "-16",
         "hit": "+31a (+21)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 2nd CH with 7f delay* Input can be delayed 9f* Move can be delayed 4f* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 20~49* fs50~52&lt;/div&gt;"
+        "notes": "* Tornado * Combo from 2nd CH with 7f delay * Input can be delayed 9f * Move can be delayed 4f * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 20~49 * fs50~52&lt;/div&gt;"
     },
     {
         "command": "1,2,3",
@@ -147,7 +97,7 @@
         "block": "+0",
         "hit": "+31d",
         "counter hit": "",
-        "notes": "* Spike* Interrupt with i10 from 2nd block* Input can be delayed 9f* Move can be delayed 4f"
+        "notes": "* Spike * Interrupt with i10 from 2nd block * Input can be delayed 9f * Move can be delayed 4f"
     },
     {
         "command": "1,2,4",
@@ -157,7 +107,7 @@
         "block": "-4",
         "hit": "+23a (+14)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 3rd hit with 7f delay* Input can be delayed 9f* Move can be delayed 4f"
+        "notes": "* Balcony Break * Combo from 3rd hit with 7f delay * Input can be delayed 9f * Move can be delayed 4f"
     },
     {
         "command": "1,3",
@@ -167,7 +117,7 @@
         "block": "-12",
         "hit": "-1",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 4f delay* Grounded hit can be inconsistent"
+        "notes": "* Combo from 1st hit with 4f delay * Grounded hit can be inconsistent"
     },
     {
         "command": "1,3,4",
@@ -177,7 +127,7 @@
         "block": "-13",
         "hit": "+3",
         "counter hit": "+29a",
-        "notes": "* Combo from 2nd CH with 7f delay* Input can be delayed 12f"
+        "notes": "* Combo from 2nd CH with 7f delay * Input can be delayed 12f"
     },
     {
         "command": "1+3+4",
@@ -207,24 +157,24 @@
         "block": "-3",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Jail from 1st attack with 2f delay* Same animation as df+1"
+        "notes": "* Jail from 1st attack with 2f delay * Same animation as df+1"
     },
     {
         "command": "2,1,4",
         "hit level": "h, m, m",
         "damage": "9, 9, 18",
         "startup": "i10, ,i18~20",
-        "block": "-9",
-        "hit": "+4",
-        "counter hit": "+27a",
-        "notes": "* Combo from 2nd CH with 8f delay* Input can be delayed 10f"
+        "block": "-10",
+        "hit": "+3",
+        "counter hit": "+19a",
+        "notes": "* Balcony Break on CH * Combo from 2nd CH with 8f delay * Input can be delayed 10f"
     },
     {
         "command": "2,1,4~4",
         "hit level": "h, m, l",
         "damage": "9, 9, 20",
         "startup": "i10, ,i20~21",
-        "block": "-31",
+        "block": "-12",
         "hit": "+16a",
         "counter hit": "",
         "notes": "Interrupt with i16 from 2nd block"
@@ -234,15 +184,15 @@
         "hit level": "h, h",
         "damage": "9, 20",
         "startup": "i10, i24~27",
-        "block": "-9",
-        "hit": "+11",
+        "block": "-13",
+        "hit": "+7",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit with 2f delay* Enter ZEN -6 +14 r26 with F"
+        "notes": "* Balcony Break * Strong Aerial Tailspin * Combo from 1st hit with 2f delay * Enter ZEN -6, +14g r26 with F"
     },
     {
         "command": "3",
         "hit level": "h",
-        "damage": "19",
+        "damage": "17",
         "startup": "i14",
         "block": "-7",
         "hit": "+4",
@@ -252,22 +202,22 @@
     {
         "command": "3,1",
         "hit level": "h, h",
-        "damage": "19, 7",
+        "damage": "17, 7",
         "startup": "i14, i20",
         "block": "-1",
         "hit": "+7",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Enter ZEN +4 +12 r15 with F"
+        "notes": "* Combo from 1st hit * Enter ZEN +4 +12 r15 with F"
     },
     {
         "command": "3,1,4",
         "hit level": "h, h, l",
-        "damage": "19, 7, 18",
+        "damage": "17, 7, 18",
         "startup": "i14, ,i18",
         "block": "-13",
         "hit": "+3",
         "counter hit": "+29a",
-        "notes": "* Combo from 2nd CH with 9f delay* Input can be delayed 14f* Move can be delayed 12f"
+        "notes": "* Combo from 2nd CH with 9f delay * Input can be delayed 14f * Move can be delayed 12f"
     },
     {
         "command": "4",
@@ -277,27 +227,27 @@
         "block": "-9",
         "hit": "+10g",
         "counter hit": "+13c",
-        "notes": "* Homing* Balcony Break"
+        "notes": "* Homing * Balcony Break"
     },
     {
         "command": "4~3",
-        "hit level": "m",
+        "hit level": "M",
         "damage": "27",
         "startup": "i24~34",
         "block": "-11~-2",
         "hit": "+2a~+12a",
         "counter hit": "",
-        "notes": "* Spike&lt;div class=&quot;plainlist&quot;&gt;* Low crush 12~31* fs32~&lt;/div&gt;"
+        "notes": "* Spike &lt;div class=&quot;plainlist&quot;&gt; * Low crush 12~31 * fs32~&lt;/div&gt;"
     },
     {
         "command": "1+2",
-        "hit level": "m,m,h",
+        "hit level": "m,m,m",
         "damage": "4,4,16",
         "startup": "i13 i8 i12",
         "block": "-14",
         "hit": "+12a (+3)",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Heat Dash +43a (+35), +5"
+        "notes": "* Balcony Break * Heat Engager * Heat Dash +43a (+35), +5"
     },
     {
         "command": "f+3",
@@ -317,7 +267,7 @@
         "block": "-12",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +36a (+26), +5* Combo from 1st hit* Balcony break on airborne hit"
+        "notes": "* Heat Engager * Heat Dash +36a (+26), +5 * Combo from 1st hit * Balcony break on airborne hit"
     },
     {
         "command": "f+3,3",
@@ -327,7 +277,7 @@
         "block": "-8",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Enter ZEN -7 +9 r26 with F* Transition to backdash with B"
+        "notes": "* Enter ZEN -7 +9 r26 with F * Transition to backdash with B"
     },
     {
         "command": "f+4",
@@ -337,7 +287,7 @@
         "block": "-8",
         "hit": "+4",
         "counter hit": "+42a",
-        "notes": "* Enter ZEN -1 +11 +49a r26 with F* Balcony break on airborne hit"
+        "notes": "* Enter ZEN -1 +11 +49a r26 with F * Balcony break on airborne hit"
     },
     {
         "command": "f+1+2",
@@ -347,7 +297,7 @@
         "block": "-6",
         "hit": "+21a (+11)",
         "counter hit": "",
-        "notes": "* Balcony Break* Jail from 1st attack* Chip damage on block"
+        "notes": "* Balcony Break * Jail from 1st attack * Chip damage on block"
     },
     {
         "command": "f+3+4",
@@ -357,7 +307,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Enter Breaking Step r20 with DF* Steps forward* Actionable after 10fHigh crush 10~39"
+        "notes": "* Enter Breaking Step r20 with DF * Steps forward * Actionable after 10f High crush 10~39"
     },
     {
         "command": "df+1",
@@ -377,7 +327,7 @@
         "block": "-9",
         "hit": "+10g",
         "counter hit": "+17a (+8)",
-        "notes": "* Balcony Break* Combo from 1st hit with 5f delay* Input can be delayed 10f* Move can be delayed 9f"
+        "notes": "* Balcony Break * Combo from 1st hit with 5f delay * Input can be delayed 10f * Move can be delayed 9f"
     },
     {
         "command": "df+1,4~4",
@@ -397,7 +347,17 @@
         "block": "-9",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Balcony Break* Enter Breaking Step -2 +13g r23 with df* Chip damage on block"
+        "notes": "* Balcony Break * Enter Breaking Step -2 +13g r23 with df * Chip damage on block"
+    },
+    {
+        "command": "df+2,4",
+        "hit level": "m, m",
+        "damage": "12, 19",
+        "startup": "i16~17, i26~27",
+        "block": "-12",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Balcony Break * Strong Aerial Tailspin * Combo from 1st hit * Chip damage on block"
     },
     {
         "command": "df+3",
@@ -417,7 +377,7 @@
         "block": "+6c",
         "hit": "+13c",
         "counter hit": "",
-        "notes": "* Spike* Enter Breaking Step +2c +9c r27 with df"
+        "notes": "* Spike * Enter Breaking Step +2c +9c r27 with df"
     },
     {
         "command": "df+4",
@@ -427,7 +387,7 @@
         "block": "+0",
         "hit": "+8c",
         "counter hit": "",
-        "notes": "* Spike* Heat Engager* Heat Dash +67a (+50), +5"
+        "notes": "* Spike * Heat Engager * Heat Dash +67a (+50), +5"
     },
     {
         "command": "d+1",
@@ -437,7 +397,7 @@
         "block": "-13",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Balcony break on airborne hit* Transition to attack throw on standing hit* -9 on block after absorbing an attack and 8 chip damage on blockPower crush 7~20"
+        "notes": "* Balcony break on airborne hit * Transition to attack throw on standing hit * -9 on block after absorbing an attack and 8 chip damage on block Power crush 7~20"
     },
     {
         "command": "d+2",
@@ -446,8 +406,8 @@
         "startup": "i22~23",
         "block": "-14",
         "hit": "+4c",
-        "counter hit": "+71a (+55)",
-        "notes": "* Balcony break on airborne hitHigh crush 8~55"
+        "counter hit": "",
+        "notes": "* Balcony break on airborne hit High crush 8~55"
     },
     {
         "command": "d+3",
@@ -477,7 +437,7 @@
         "block": "-12",
         "hit": "+31d (+23)",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Combo from 2nd CH with 2f delay* Input can be delayed 10f"
+        "notes": "* Tornado * Balcony Break * Combo from 2nd CH with 2f delay * Input can be delayed 10f"
     },
     {
         "command": "d+3,4~4",
@@ -497,7 +457,7 @@
         "block": "-12",
         "hit": "-1",
         "counter hit": "",
-        "notes": "Flips over on grounded hitHigh crush 6~31"
+        "notes": "Flips over on grounded hit High crush 6~31"
     },
     {
         "command": "d+3+4",
@@ -507,7 +467,7 @@
         "block": "-19",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 16~31* fs32~34&lt;/div&gt;"
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt; * Low crush 16~31 * fs32~34&lt;/div&gt;"
     },
     {
         "command": "db+2",
@@ -557,7 +517,7 @@
         "block": "-10~-8",
         "hit": "+17a",
         "counter hit": "",
-        "notes": "Balcony break on airborne hitHigh crush 4~21"
+        "notes": "Balcony break on airborne hit High crush 4~21"
     },
     {
         "command": "db+4",
@@ -577,7 +537,7 @@
         "block": "-11~+4",
         "hit": "+17g~+32g",
         "counter hit": "",
-        "notes": "* Balcony Break* +4a (-5) on BT hit* Unparryable by traditional parries, Asuka, Nina, etc* Opponent recovers crouching* Power up in Heat"
+        "notes": "* Balcony Break * +4a (-5) on BT hit * Unparryable by traditional parries, Asuka, Nina, etc * Opponent recovers crouching * Power up in Heat"
     },
     {
         "command": "b+1",
@@ -597,7 +557,7 @@
         "block": "-10",
         "hit": "+32a (+17)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 1st hit with 8f delay"
+        "notes": "* Tornado * Combo from 1st hit with 8f delay"
     },
     {
         "command": "b+1+3",
@@ -607,7 +567,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Strong parry: parries all highs or mids except throws, unblockables and charge moves* r14 after parrying* Plus frames after parrying depend on the recovery of the parried moveParry state 3~9"
+        "notes": "* Strong parry: parries all highs or mids except throws, unblockables and charge moves * r14 after parrying * Plus frames after parrying depend on the recovery of the parried move Parry state 3~9"
     },
     {
         "command": "b+2",
@@ -627,7 +587,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 1f delay* Combo from 1st CH with 13f delay"
+        "notes": "* Combo from 1st hit with 1f delay * Combo from 1st CH with 13f delay"
     },
     {
         "command": "b+3",
@@ -637,7 +597,7 @@
         "block": "-6",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* Knee* Enter ZEN -2 +9 r20 with F"
+        "notes": "* Knee * Enter ZEN -2 +9 r20 with F"
     },
     {
         "command": "b+3,2",
@@ -647,7 +607,7 @@
         "block": "-9",
         "hit": "+9g +21w",
         "counter hit": "",
-        "notes": "* Wall Crush +21g on hit* Balcony break on airborne hit"
+        "notes": "* Wall Crush +21g on hit * Balcony break on airborne hit"
     },
     {
         "command": "b+4",
@@ -667,7 +627,7 @@
         "block": "-12",
         "hit": "+6",
         "counter hit": "",
-        "notes": "Punch sabaki: balcony break and +34d (+26) on hitParry state 3~10"
+        "notes": "Punch sabaki: balcony break and +34d (+26) on hit Parry state 3~10"
     },
     {
         "command": "b+3+4",
@@ -677,7 +637,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Can perform all attacks from ZEN Stance* Enter Breaking Step with DF* Cancel on any frame with f* Transition to dash with f* Steps backward* Actionable after 5fHigh crush 6~39"
+        "notes": "* Can perform all attacks from ZEN Stance * Enter Breaking Step with DF * Cancel on any frame with f * Transition to dash with f * Steps backward * Actionable after 5f High crush 6~39"
     },
     {
         "command": "ub+4",
@@ -687,7 +647,7 @@
         "block": "-13",
         "hit": "+19a (+9)",
         "counter hit": "+33a (+23a)",
-        "notes": "Balcony Break&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~20* fs21~23&lt;/div&gt;"
+        "notes": "Balcony Break &lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~20 * fs21~23&lt;/div&gt;"
     },
     {
         "command": "ub+1+2",
@@ -697,17 +657,17 @@
         "block": "",
         "hit": "+9a (+0)",
         "counter hit": "",
-        "notes": "* Balcony Break* Cancel to r50 with b,b"
+        "notes": "* Balcony Break * Cancel to r50 with b,b"
     },
     {
         "command": "uf+2",
         "hit level": "m",
         "damage": "18",
         "startup": "i15~i16",
-        "block": "-7~-6",
+        "block": "-10~-9",
         "hit": "+6~+7",
         "counter hit": "+19a (+10)",
-        "notes": "* Balcony break on CH* Evasive, can avoid some attacks due to built-in sidestep"
+        "notes": "* Balcony break on CH * Evasive, can avoid some attacks due to built-in sidestep"
     },
     {
         "command": "uf+3",
@@ -717,7 +677,7 @@
         "block": "-9",
         "hit": "+6",
         "counter hit": "+59a",
-        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~23* fs24~26&lt;/div&gt;"
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~23 * fs24~26&lt;/div&gt;"
     },
     {
         "command": "uf+4",
@@ -727,7 +687,7 @@
         "block": "-13",
         "hit": "+33a (+23a)",
         "counter hit": "",
-        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~20* fs21~23&lt;/div&gt;"
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~20 * fs21~23&lt;/div&gt;"
     },
     {
         "command": "uf+1+2",
@@ -737,7 +697,7 @@
         "block": "+0",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Floor Break* Throw break 1+2"
+        "notes": "* Floor Break * Throw break 1+2"
     },
     {
         "command": "1+2+3+4",
@@ -747,7 +707,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Can't block for 5 seconds* CH state for 5 seconds"
+        "notes": "* Can't block for 5 seconds * CH state on you for 5 seconds ''(Tekken 7 and prior games)'' * 50% damage increase on the next attack for 5 seconds ''(Tekken 8 season 2 patch onward)''"
     },
     {
         "command": "b,f+2",
@@ -767,7 +727,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "+9",
-        "notes": "* Combo from 1st hit with 8f delay* Input can be delayed 12f"
+        "notes": "* Combo from 1st hit with 8f delay * Input can be delayed 12f"
     },
     {
         "command": "b,f+2,1,2",
@@ -777,7 +737,7 @@
         "block": "-5",
         "hit": "+18a (+9)",
         "counter hit": "+50a (+3)",
-        "notes": "* Balcony Break* Combo from 2nd CH with 15f* Input can be delayed 16f* Move can be delayed 10f"
+        "notes": "* Balcony Break * Combo from 2nd CH with 15f * Input can be delayed 16f * Move can be delayed 10f"
     },
     {
         "command": "b,f+2,1,df+2",
@@ -787,7 +747,7 @@
         "block": "-14",
         "hit": "+37a (+27)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 2nd CH* Input can be delayed 16f* Move can be delayed 10f"
+        "notes": "* Tornado * Combo from 2nd CH * Input can be delayed 16f * Move can be delayed 10f"
     },
     {
         "command": "b,f+2,3",
@@ -797,7 +757,7 @@
         "block": "-9",
         "hit": "+6",
         "counter hit": "+59a",
-        "notes": "* Combo from 1st hit with 4f delay* Input can be delayed 9f* Enter ZEN +2 +17g +71a r20 with F"
+        "notes": "* Combo from 1st hit with 4f delay * Input can be delayed 9f * Enter ZEN +2 +17g +71a r20 with F"
     },
     {
         "command": "f,F+2",
@@ -807,7 +767,7 @@
         "block": "-8",
         "hit": "+15a (+6)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +36a (+26), +5* Balcony Break* Cannot be buffered* 6 chip damage on block"
+        "notes": "* Heat Engager * Heat Dash +36a (+26), +5 * Balcony Break * Cannot be buffered * 6 chip damage on block"
     },
     {
         "command": "f,F+3",
@@ -817,7 +777,7 @@
         "block": "-4",
         "hit": "+24a",
         "counter hit": "",
-        "notes": "* Spike* Cannot be buffered"
+        "notes": "* Spike * Cannot be buffered"
     },
     {
         "command": "f,F+3,1",
@@ -832,7 +792,7 @@
     {
         "command": "f,F+4",
         "hit level": "m",
-        "damage": "28",
+        "damage": "32",
         "startup": "i17~i18",
         "block": "-7",
         "hit": "+22a (+12)",
@@ -847,7 +807,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cannot be buffered* Stance moves can be buffered out of heat dash* Cancel to sidestep with u* Cancel to block with b"
+        "notes": "* Cannot be buffered * Stance moves can be buffered out of heat dash * Cancel to sidestep with u * Cancel to block with b"
     },
     {
         "command": "f,n,d,df,UF",
@@ -857,7 +817,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Can access wr3 by inputting 3 on frames 1~2* Can access uf1+2 by inputting 1+2 on frames 1~2* Unable to act from frames 3~26&lt;div class=&quot;plainlist&quot;&gt;* Low crush 1~20* fs21~23&lt;/div&gt;"
+        "notes": "* Can access wr3 by inputting 3 on frames 1~2 * Can access uf1+2 by inputting 1+2 on frames 1~2 * Unable to act from frames 3~26 &lt;div class=&quot;plainlist&quot;&gt; * Low crush 1~20 * fs21~23&lt;/div&gt;"
     },
     {
         "command": "qcb+1+3",
@@ -867,7 +827,7 @@
         "block": "-2",
         "hit": "0",
         "counter hit": "",
-        "notes": "* Throw break 1* Opponent recovers FUFA"
+        "notes": "* Throw break 1 * Opponent recovers FUFA"
     },
     {
         "command": "uf,n,4",
@@ -877,7 +837,7 @@
         "block": "-13",
         "hit": "+32a (+22a)",
         "counter hit": "",
-        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~30* fs31~33&lt;/div&gt;"
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~30 * fs31~33&lt;/div&gt;"
     },
     {
         "command": "f,f,F+3",
@@ -887,7 +847,7 @@
         "block": "+6",
         "hit": "+13a~+14a (+3~+4)",
         "counter hit": "",
-        "notes": "* Balcony Break* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 3~25* fs26~28&lt;/div&gt;"
+        "notes": "* Balcony Break * Transition to +6 +13a ZEN with F * 9 Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 3~25 * fs26~28&lt;/div&gt;"
     },
     {
         "command": "ws1",
@@ -907,7 +867,7 @@
         "block": "-8",
         "hit": "+3c",
         "counter hit": "",
-        "notes": "* Spike* Combo from 1st hit with 1f delay* Combo from 1st CH with 10f delay* Input can be delayed 13f* Enter ZEN -9 +2 r27 with F"
+        "notes": "* Spike * Combo from 1st hit with 1f delay * Combo from 1st CH with 10f delay * Input can be delayed 13f * Enter ZEN -9 +2 r27 with F"
     },
     {
         "command": "ws1,3",
@@ -917,7 +877,7 @@
         "block": "-6",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Jail from 1st attack* Transition to r25 backdash with B"
+        "notes": "* Jail from 1st attack * Transition to r25 backdash with B"
     },
     {
         "command": "ws1,3,2",
@@ -957,7 +917,7 @@
         "block": "-16",
         "hit": "-8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Spike&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 8~28* fs29~31&lt;/div&gt;"
+        "notes": "* Combo from 1st hit * Spike &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 8~28 * fs29~31&lt;/div&gt;"
     },
     {
         "command": "ws1,3~3",
@@ -967,7 +927,7 @@
         "block": "+6",
         "hit": "+13c",
         "counter hit": "",
-        "notes": "* Spike* Enter Breaking Step +2 +9c with DF* +16a on BT hit"
+        "notes": "* Spike * Enter Breaking Step +2 +9c with DF * +16a on BT hit"
     },
     {
         "command": "ws2",
@@ -987,7 +947,7 @@
         "block": "-9",
         "hit": "+10g",
         "counter hit": "+22a",
-        "notes": "* Homing* Balcony Break"
+        "notes": "* Homing * Balcony Break"
     },
     {
         "command": "ws4",
@@ -1013,14 +973,14 @@
         "command": "FC.df+4",
         "hit level": "L",
         "damage": "20",
-        "startup": "i25~i26",
+        "startup": "i21~i22",
         "block": "-26",
-        "hit": "+22a",
-        "counter hit": "",
-        "notes": "High crush 1~57"
+        "hit": "+2c",
+        "counter hit": "+69a (+53)",
+        "notes": "Transition to +12cg ZEN with F on hit High crush 1~57"
     },
     {
-        "command": "CD.DF+4",
+        "command": "CD.4",
         "hit level": "l",
         "damage": "12",
         "startup": "i20~i21",
@@ -1030,54 +990,114 @@
         "notes": ""
     },
     {
-        "command": "CD.DF+4,2",
+        "command": "CD.4,2",
         "hit level": "l, M",
         "damage": "12, 28",
         "startup": "i20~i21, i31~i32",
         "block": "-16",
         "hit": "+21a",
         "counter hit": "",
-        "notes": "* Balcony Break* Spike* Combo from 1st hit* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 8~28* fs29~31&lt;/div&gt;"
+        "notes": "* Balcony Break * Spike * Combo from 1st hit * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 8~28 * fs29~31&lt;/div&gt;"
     },
     {
-        "command": "CD.df:1",
+        "command": "CD.:1",
         "hit level": "M",
         "damage": "22",
         "startup": "i16~i17",
         "block": "-13",
         "hit": "+36a (+26)",
         "counter hit": "",
-        "notes": "* Tornado* Chip damage on block"
+        "notes": "* Tornado * Chip damage on block"
     },
     {
-        "command": "CD.df:2",
+        "command": "CD:2",
         "hit level": "h",
         "damage": "25",
         "startup": "i11~i12",
         "block": "+5~+6",
         "hit": "+76a (+60)",
         "counter hit": "",
-        "notes": "* Balcony Break* Recovers 3f faster on hit or block (t36 r24)"
+        "notes": "* Balcony Break * Recovers 3f faster on hit or block (t36 r24)"
     },
     {
-        "command": "CD.df+1",
+        "command": "CD1",
         "hit level": "m",
         "damage": "20",
         "startup": "i16~i17",
         "block": "-13",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Tornado* Turns into CD.df#1 while in heat"
+        "notes": "* Tornado * Turns into CD.df#1 while in heat"
     },
     {
-        "command": "CD.df+2",
+        "command": "CD2",
         "hit level": "h",
         "damage": "20",
         "startup": "i11~12",
         "block": "-10",
         "hit": "+74a (+58)",
         "counter hit": "",
-        "notes": "* Balcony Break* Turns into EWHF (CD.df#2) while in heat"
+        "notes": "* Balcony Break * Turns into EWHF (CD.df#2) while in heat"
+    },
+    {
+        "command": "DVS.1",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i20~22",
+        "block": "-13",
+        "hit": "+72a (+56)",
+        "counter hit": "",
+        "notes": "* Tornado * 9 chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 22~43 * fs44~46&lt;/div&gt;"
+    },
+    {
+        "command": "DVS.2",
+        "hit level": "sm",
+        "damage": "23",
+        "startup": "i11~12",
+        "block": "+4",
+        "hit": "+38a (+28)",
+        "counter hit": "",
+        "notes": "* 8 chip damage on block"
+    },
+    {
+        "command": "DVS.3",
+        "hit level": "M",
+        "damage": "25",
+        "startup": "i26~28",
+        "block": "+2c",
+        "hit": "+22a",
+        "counter hit": "",
+        "notes": "* Spike * 9 chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 5~25 * fs26~28&lt;/div&gt;"
+    },
+    {
+        "command": "DVS.4",
+        "hit level": "L",
+        "damage": "10",
+        "startup": "i16",
+        "block": "-12",
+        "hit": "-2c",
+        "counter hit": "",
+        "notes": "* 3 chip damage on block"
+    },
+    {
+        "command": "DVS.4,4",
+        "hit level": "L, m",
+        "damage": "10, 25",
+        "startup": "i16, i25~26",
+        "block": "-14",
+        "hit": "+3c",
+        "counter hit": "",
+        "notes": "* Spike * 6 chip damage on block"
+    },
+    {
+        "command": "DVS.DF+3",
+        "hit level": "L",
+        "damage": "24",
+        "startup": "i33~34",
+        "block": "-23",
+        "hit": "-2a",
+        "counter hit": "",
+        "notes": "* 8 chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 5~25 * fs26~28&lt;/div&gt;"
     },
     {
         "command": "OTG.d+1+2",
@@ -1107,7 +1127,7 @@
         "block": "-14",
         "hit": "+32a (+6)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit with 6f delay* Input can be delayed 12f* Move can be delayed 11f* Cancel to Breaking Step -11 -12 r40 with DF on frame 20"
+        "notes": "* Heat Engager * Heat Dash +?, +5 * Balcony Break * Combo from 1st hit with 6f delay * Input can be delayed 12f * Move can be delayed 11f * Cancel to Breaking Step -11 -12 r40 with DF on frame 20"
     },
     {
         "command": "ZEN.1,3",
@@ -1117,17 +1137,17 @@
         "block": "-9",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Transition to attack throw on standing or airborne hit* +33a (+18) on side hit* +18a (+11) and balcony break on BT hit"
+        "notes": "* Combo from 1st hit * Transition to attack throw on standing or airborne hit * +33a (+18) on side hit * +18a (+11) and balcony break on BT hit"
     },
     {
         "command": "ZEN.2",
         "hit level": "h",
-        "damage": "27",
+        "damage": "20",
         "startup": "i21~i22",
         "block": "-5",
         "hit": "+17a (+8)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +34a (+27), +5* Homing* Balcony Break* Chip damage on block* +0 on block after absorbing an attackPower crush 6~20"
+        "notes": "* Homing * Balcony Break * Strong Aerial Tailspin * Chip damage on block * +0 on block after absorbing an attack Power crush 6~20"
     },
     {
         "command": "ZEN.3",
@@ -1137,27 +1157,27 @@
         "block": "-9",
         "hit": "+10g",
         "counter hit": "+22a",
-        "notes": "* Homing* Balcony Break* +17a (+8) on BT hit"
+        "notes": "* Homing * Balcony Break * +17a (+8) on BT hit"
     },
     {
         "command": "ZEN.4",
         "hit level": "M",
-        "damage": "24",
+        "damage": "25",
         "startup": "i27~i33",
         "block": "+2~+8",
         "hit": "+17d~+23d",
         "counter hit": "",
-        "notes": "* Spike* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 7~33* fs34~36&lt;/div&gt;"
+        "notes": "* Spike * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * &lt;div style=&quot;display: block; border-width: 0 0 0 0.5em; padding-left: 0.2em; border-style: solid;&quot; class=&quot;movedata-icon border-yellow spike&quot; &gt;Spike&lt;/div&gt; * Low crush 7~33 * fs34~36&lt;/div&gt;"
     },
     {
         "command": "ZEN.1+2",
         "hit level": "l,t",
         "damage": "10,20",
-        "startup": "i24 i61",
+        "startup": "i21, i61",
         "block": "-14",
-        "hit": "+4 +16w",
+        "hit": "+4 (+8w)",
         "counter hit": "",
-        "notes": "* Wall Crush +16g on hit* Transition to attack throw on standing hit* Recover standing after throwHigh crush 10~"
+        "notes": "* Wall Crush +8 on hit * Transition to attack throw on standing hit from the front * Transition to +5 CD with DF after throw High crush 10~"
     },
     {
         "command": "ZEN.3+4",
@@ -1165,9 +1185,9 @@
         "damage": "25",
         "startup": "i21~27",
         "block": "+9g~+15g",
-        "hit": "+19a (+9) +15w",
+        "hit": "+19a (+9)",
         "counter hit": "",
-        "notes": "* Wall Crush +15g~+21g on block* Balcony Break* Enter Breaking Step +8 +18a (+8) r32 with DF on frame 40* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 10~32* fs33~35&lt;/div&gt;"
+        "notes": "* Balcony Break * Enter Breaking Step +8 +18a (+8) r32 with DF on frame 40 * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 10~32 * fs33~35&lt;/div&gt;"
     },
     {
         "command": "ZEN.u+1",
@@ -1177,7 +1197,7 @@
         "block": "-16",
         "hit": "+31a (+21)",
         "counter hit": "",
-        "notes": "* Tornado* Chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 8~43* fs44~46&lt;/div&gt;"
+        "notes": "* Tornado * Chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 8~43 * fs44~46&lt;/div&gt;"
     },
     {
         "command": "1+3",
@@ -1187,7 +1207,7 @@
         "block": "+0",
         "hit": "+2d",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2* Jin recovers BT on break"
+        "notes": "* Homing * Throw break 1 or 2 * Jin recovers BT on break"
     },
     {
         "command": "2+4",
@@ -1197,7 +1217,7 @@
         "block": "-3",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2* Side switch on hit"
+        "notes": "* Homing * Throw break 1 or 2 * Side switch on hit"
     },
     {
         "command": "Back throw",
@@ -1207,7 +1227,7 @@
         "block": "",
         "hit": "+1d",
         "counter hit": "",
-        "notes": "* Unbreakable* Side switch on hit"
+        "notes": "* Unbreakable * Side switch on hit"
     },
     {
         "command": "Left throw",
@@ -1227,10 +1247,10 @@
         "block": "-3",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Throw break 2* Side switch on hit"
+        "notes": "* Throw break 2 * Side switch on hit"
     },
     {
-        "command": "df+2+3",
+        "command": "df+2+4",
         "hit level": "t",
         "damage": "40",
         "startup": "i12",

@@ -7,7 +7,7 @@
         "block": "+1",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat BurstPower crush"
+        "notes": "* Heat Burst Power crush"
     },
     {
         "command": "H.2+3",
@@ -17,7 +17,7 @@
         "block": "+6",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Heat Smash* Balcony Break* Alternate input: H.HRM.2+3* Also possible after Twin Dragon Gate is successful* Transition to HRM on block"
+        "notes": "* Heat Smash * Balcony Break * Alternate input: H.HRM.2+3 * Also possible after Twin Dragon Gate is successful * Transition to HRM on block * 12 chip damage"
     },
     {
         "command": "R.df+1+2",
@@ -27,7 +27,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -47,7 +47,7 @@
         "block": "-9~-8",
         "hit": "+2~+3",
         "counter hit": "",
-        "notes": "Combo from 1st hit CHslightly delayable"
+        "notes": "Combo from 1st hit CH * slightly delayable * jails unless delayed"
     },
     {
         "command": "1,1,1+2",
@@ -57,7 +57,7 @@
         "block": "-9~-8",
         "hit": "-2~-1",
         "counter hit": "",
-        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 2nd hit"
+        "notes": "* Power up during Heat (partially uses remaining Heat time) * Combo from 2nd hit"
     },
     {
         "command": "1,1,1+2,1",
@@ -87,7 +87,7 @@
         "block": "-6~-5",
         "hit": "+8~+9",
         "counter hit": "",
-        "notes": "* Follow-up after successful parry with input 1 or 2* Partially restores remaining Heat time when successful during Heat* Delayable* Combo from 2nd hit CHParry state 10~24"
+        "notes": "* Follow-up after successful parry with input 1 or 2 * Partially restores remaining Heat time when successful during Heat * Delayable * Combo from 2nd hit CH Parry state 10~24"
     },
     {
         "command": "1,2,3",
@@ -97,7 +97,7 @@
         "block": "-6~-5",
         "hit": "+20a(+11)~+21a(+13)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd hit CHLow crush"
+        "notes": "* Balcony Break * Combo from 2nd hit CH Low crush"
     },
     {
         "command": "1,2,4",
@@ -107,7 +107,7 @@
         "block": "-9",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combo from 1st hit"
+        "notes": "* Transition to HRM * Combo from 1st hit"
     },
     {
         "command": "1+3+4",
@@ -117,7 +117,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2 to Chain Punch: BranchParry state 20~100"
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat) * Follow-up upon successful reversal with input 1 or 2 to Chain Punch: Branch Parry state 20~100"
     },
     {
         "command": "2",
@@ -147,7 +147,7 @@
         "block": "-7~-6",
         "hit": "+4~+5",
         "counter hit": "",
-        "notes": "Elbow* Follow-up after successful parry with input 1 or 2* Partially restores remaining Heat time when successful during Heat* Delayable* Combo from 2nd hit CHParry state 2~16"
+        "notes": "Elbow * Follow-up after successful parry with input 1 or 2 * Partially restores remaining Heat time when successful during Heat * Delayable * Combo from 2nd hit CH Parry state 2~16"
     },
     {
         "command": "2,1,2,1",
@@ -157,7 +157,7 @@
         "block": "-13~-11",
         "hit": "+16a(-1)~+18a(+3)",
         "counter hit": "+30a(+20)",
-        "notes": "* Balcony Break* Tornado* Elbow* Combo from 3rd hit* Delayable"
+        "notes": "* Balcony Break * Tornado * Elbow * Combo from 3rd hit * Delayable"
     },
     {
         "command": "2,2",
@@ -167,7 +167,7 @@
         "block": "-7~-6",
         "hit": "+7~+8",
         "counter hit": "",
-        "notes": "* Elbow* chip damage on block"
+        "notes": "* Elbow * chip damage on block"
     },
     {
         "command": "3",
@@ -187,7 +187,7 @@
         "block": "-14",
         "hit": "+2",
         "counter hit": "+15d",
-        "notes": "* Delayable* Combo from 1st hit"
+        "notes": "* Delayable * Combo from 1st hit"
     },
     {
         "command": "4",
@@ -227,7 +227,7 @@
         "block": "-2",
         "hit": "7",
         "counter hit": "",
-        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 1st hit* jails"
+        "notes": "* Power up during Heat (partially uses remaining Heat time) * Combo from 1st hit * jails"
     },
     {
         "command": "1+2,1+2,1",
@@ -235,9 +235,9 @@
         "damage": "9, 9, 20",
         "startup": "i14, ,i17~18",
         "block": "-17~-16",
-        "hit": "+7a(-2) / HE",
+        "hit": "+7a(-2)~+8a(-1) / HE",
         "counter hit": "",
-        "notes": "* Heat Engager* Balcony Break* Elbow* Combo from 1st hit* Delayable* jails"
+        "notes": "* Heat Engager * Balcony Break * Elbow * Combo from 1st hit * Delayable * jails"
     },
     {
         "command": "1+4",
@@ -257,7 +257,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Auto low parry* Partially restores remaining Heat time upon successful parry during Heat* Transition to n with HRM.3+4Parry state 3"
+        "notes": "* Auto low parry starting of frame 3 * Partially restores remaining Heat time upon successful parry during Heat * Transition to n with HRM.3+4 Parry state 3"
     },
     {
         "command": "3+4",
@@ -267,15 +267,15 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Auto low parry starting of frame 3* Partially restores remaining Heat time upon successful parry during Heat* Transition to n with HRM.3+4Parry state"
+        "notes": "* Auto low parry * Partially restores remaining Heat time upon successful parry during Heat * Transition to n with HRM.3+4 Parry state 3"
     },
     {
         "command": "f+2",
         "hit level": "h",
         "damage": "15",
         "startup": "i14~16",
-        "block": "-9",
-        "hit": "+2",
+        "block": "-9~-7",
+        "hit": "+2~+4",
         "counter hit": "",
         "notes": "Elbow"
     },
@@ -297,7 +297,7 @@
         "block": "-9",
         "hit": "+8",
         "counter hit": "+38d (+30)",
-        "notes": "* Knee* Transition to HRM* Combo from 2nd hit CH"
+        "notes": "* Knee * Transition to HRM * Combo from 2nd hit CH"
     },
     {
         "command": "f+3",
@@ -305,9 +305,9 @@
         "damage": "14",
         "startup": "i14~15",
         "block": "-7~-6",
-        "hit": "+7",
+        "hit": "+7~+8",
         "counter hit": "",
-        "notes": "* KneeAlternative input: ws3"
+        "notes": "* Knee Alternative input: ws3"
     },
     {
         "command": "f+3,1+2",
@@ -317,7 +317,7 @@
         "block": "-8",
         "hit": "-6",
         "counter hit": "",
-        "notes": "* jail from 1st hit* power up during Heat (partially uses remaining Heat time)* Combo from 1st hit CH"
+        "notes": "* jail from 1st hit * power up during Heat (partially uses remaining Heat time) * Combo from 1st hit CH"
     },
     {
         "command": "f+3,1+2,4",
@@ -327,7 +327,7 @@
         "block": "-16~-15",
         "hit": "+13a (+6)",
         "counter hit": "",
-        "notes": "* Tornado* Natural combo from 2nd hit"
+        "notes": "* Tornado * Natural combo from 2nd hit"
     },
     {
         "command": "f+4",
@@ -347,7 +347,7 @@
         "block": "-6",
         "hit": "+20a (+11) / HE",
         "counter hit": "",
-        "notes": "* Heat Engager* Balcony Break* Combo from 1st hit* Slighly delayableLow crush"
+        "notes": "* Heat Engager * Balcony Break * Combo from 1st hit * Slighly delayable Low crush"
     },
     {
         "command": "f+1+2",
@@ -357,17 +357,17 @@
         "block": "-13",
         "hit": "+20a (+15)",
         "counter hit": "",
-        "notes": "* Balcony Break* ElbowPower crush"
+        "notes": "* Balcony Break * Elbow Power crush"
     },
     {
         "command": "f+2+3",
         "hit level": "m",
         "damage": "35",
-        "startup": "i22~23",
+        "startup": "i16~17",
         "block": "-7",
         "hit": "+73a",
         "counter hit": "",
-        "notes": "* Weapon* Only once per match* chip damage on block"
+        "notes": "* Weapon * Only once per match * chip damage on block"
     },
     {
         "command": "df+1",
@@ -387,27 +387,27 @@
         "block": "-9",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combo from 1st hit"
+        "notes": "* Transition to HRM * Combo from 1st hit"
     },
     {
         "command": "df+1,1+2",
         "hit level": "m, h",
         "damage": "10, 9",
-        "startup": "i13~14,",
+        "startup": "i13~14, i14",
         "block": "-2",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Power up during Heat (partially uses remaining Heat time)* Combo from 1st hit"
+        "notes": "* Power up during Heat (partially uses remaining Heat time) * Combo from 1st hit"
     },
     {
         "command": "df+1,1+2,2",
         "hit level": "m, h",
         "damage": "10, 9, 17",
-        "startup": "i13~14, i24",
+        "startup": "i13~14, ,i24",
         "block": "-10",
         "hit": "+3",
         "counter hit": "+33d (-25)",
-        "notes": "* Partially restores remaining Heat time when successful during Heat* Combos from 1st hit CHParry state 4~12"
+        "notes": "* Partially restores remaining Heat time when successful during Heat * Combos from 1st hit CH Parry state 4~12"
     },
     {
         "command": "df+2",
@@ -457,7 +457,7 @@
         "block": "-13",
         "hit": "+34 (+13)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd hit CH* Delayable"
+        "notes": "* Balcony Break * Combo from 2nd hit CH * Delayable"
     },
     {
         "command": "df+4",
@@ -477,17 +477,17 @@
         "block": "-9",
         "hit": "+7",
         "counter hit": "+37d (+29)",
-        "notes": "* Knee* Combo from 1st hit CH* Delayable"
+        "notes": "* Knee * Combo from 1st hit CH * Delayable"
     },
     {
         "command": "df+3+4",
         "hit level": "h",
         "damage": "23",
         "startup": "i18~19",
-        "block": "-9",
+        "block": "-2",
         "hit": "+70a(+54)~+71a(+55)",
         "counter hit": "",
-        "notes": "* Tornado* chip damage on blockHigh crush , Low crush"
+        "notes": "* Tornado * chip damage on block High crush , Low crush"
     },
     {
         "command": "d+1",
@@ -517,7 +517,7 @@
         "block": "-9",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combos from 2nd hit"
+        "notes": "* Transition to HRM * Combos from 2nd hit"
     },
     {
         "command": "d+2",
@@ -557,7 +557,7 @@
         "block": "-3~-2",
         "hit": "+8~+9",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combos from 1st hit"
+        "notes": "* Transition to HRM * Combos from 1st hit"
     },
     {
         "command": "d+4",
@@ -577,7 +577,7 @@
         "block": "-11~-10",
         "hit": "+1~+2",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combos from 1st hit CH"
+        "notes": "* Transition to HRM * Combos from 1st hit CH"
     },
     {
         "command": "d+1+2",
@@ -607,7 +607,7 @@
         "block": "-12~-11",
         "hit": "+17a(+0)",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Combo from 1st hit"
+        "notes": "* Tornado * Balcony Break * Combo from 1st hit"
     },
     {
         "command": "db+1,3",
@@ -617,7 +617,7 @@
         "block": "0~+1",
         "hit": "+8~+9",
         "counter hit": "+31a",
-        "notes": "Combo from 1st hit"
+        "notes": "* delayable * Combo from 1st hit"
     },
     {
         "command": "db+1,1+2",
@@ -627,7 +627,7 @@
         "block": "-10~-9",
         "hit": "+23a (+18)",
         "counter hit": "+41a",
-        "notes": "* Balcony Break* Combo from 1st hit CH"
+        "notes": "* Balcony Break * Combo from 1st hit CH"
     },
     {
         "command": "db+3",
@@ -637,7 +637,7 @@
         "block": "-8~-7",
         "hit": "+5~+6",
         "counter hit": "+14c",
-        "notes": "Transition to HRMHigh crush"
+        "notes": "Transition to HRM High crush"
     },
     {
         "command": "db+4",
@@ -657,7 +657,7 @@
         "block": "-11~-10",
         "hit": "+36d (+15)",
         "counter hit": "",
-        "notes": "* Heat Engager* Balcony Break* Sabaki (partially restores remaining Heat time when successful during Heat)* chip damage on blockParry state 4~20"
+        "notes": "* Heat Engager * Balcony Break * Sabaki (partially restores remaining Heat time when successful during Heat) * chip damage on block Parry state 4~20"
     },
     {
         "command": "db+2+3",
@@ -667,7 +667,7 @@
         "block": "-14",
         "hit": "+67a (+51)",
         "counter hit": "",
-        "notes": "* Weapon* Tornado* Only once per match* chip damage on block* Tracks to both sides effectively homing"
+        "notes": "* Weapon * Tornado * Only once per match * chip damage on block * Tracks to both sides effectively homing"
     },
     {
         "command": "b+1",
@@ -687,17 +687,17 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Parry (partially restores remaining Heat time when successful during Heat)* Becomes Superior Twin Dragon Gate upon perfect parry* Is ps3~15 from HRM.b+2Parry state 5~15"
+        "notes": "* Parry (partially restores remaining Heat time when successful during Heat) * Becomes Superior Twin Dragon Gate upon perfect parry * Is ps3~15 from HRM.b+2 Parry state 5~15"
     },
     {
         "command": "b+3",
         "hit level": "h",
         "damage": "27",
         "startup": "i22~23",
-        "block": "+9",
-        "hit": "+16c",
+        "block": "+9~+10",
+        "hit": "+16~+17c",
         "counter hit": "",
-        "notes": "* Balcony Break* Homing* Transition to HRM* Cancel into HRM with input b+3,3+4* chip damage on block"
+        "notes": "* Balcony Break * Homing * Transition to HRM * Cancel into HRM with input b+3,3+4 * chip damage on block"
     },
     {
         "command": "b+4",
@@ -720,14 +720,24 @@
         "notes": ""
     },
     {
+        "command": "b+1+2",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i12",
+        "block": "-9",
+        "hit": "+35d (+27)",
+        "counter hit": "+60cs",
+        "notes": "* Balcony Break * Partially consumes remaining hit"
+    },
+    {
         "command": "b+3+4",
         "hit level": "m,th",
         "damage": "21,25",
         "startup": "i18~19",
-        "block": "-14",
+        "block": "-8",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Balcony Break* Shifts to throw on hit from the front"
+        "notes": "* Balcony Break * Shifts to throw on hit from the front"
     },
     {
         "command": "ub+2",
@@ -737,7 +747,7 @@
         "block": "-10",
         "hit": "+3",
         "counter hit": "+33d (+25)",
-        "notes": "Has punch parry effect (partially restores remaining Heat time when successful during Heat)Parry state 4~12"
+        "notes": "Has punch parry effect (partially restores remaining Heat time when successful during Heat) Parry state 4~12"
     },
     {
         "command": "uf+1",
@@ -747,7 +757,7 @@
         "block": "-9",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2Parry state 6~13"
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat) * Follow-up upon successful reversal with input 1 or 2 Parry state 6~13"
     },
     {
         "command": "uf+2",
@@ -757,7 +767,7 @@
         "block": "+1",
         "hit": "+10a (+1)",
         "counter hit": "",
-        "notes": "* Balcony Break* Alternate input: u+2* chip damage on blockLow crush"
+        "notes": "* Balcony Break * Alternate input: u+2 * chip damage on block Low crush"
     },
     {
         "command": "uf+3",
@@ -767,7 +777,7 @@
         "block": "-8",
         "hit": "+14a (+5)",
         "counter hit": "",
-        "notes": "* Balcony Break* Alternate input: ub+3 or u+3Low crush"
+        "notes": "* Balcony Break * Alternate input: ub+3 or u+3 Low crush"
     },
     {
         "command": "uf+4",
@@ -777,7 +787,7 @@
         "block": "-8~-6",
         "hit": "+21a",
         "counter hit": "",
-        "notes": "Alternate input: ub+4 or u+4Low crush 9"
+        "notes": "Alternate input: ub+4 or u+4 Low crush 9"
     },
     {
         "command": "uf+3+4",
@@ -797,7 +807,7 @@
         "block": "-13",
         "hit": "+23a (+13)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combos from 1st hit"
+        "notes": "* Balcony Break * Combos from 1st hit"
     },
     {
         "command": "1+2+3+4",
@@ -827,7 +837,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternate input: P:HRM.b+2* Parry (partially restores remaining Heat time when successful during Heat)"
+        "notes": "* Alternate input: P:HRM.b+2 * Parry (partially restores remaining Heat time when successful during Heat)"
     },
     {
         "command": "P:b+2,1",
@@ -837,7 +847,7 @@
         "block": "",
         "hit": "+29a",
         "counter hit": "",
-        "notes": "* Alternate input: P:b+2,2* power up during Heat (partially uses remaining Heat time)"
+        "notes": "* Alternate input: P:b+2,2 * power up during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "d,df,f+2",
@@ -857,7 +867,7 @@
         "block": "",
         "hit": "-1~0d",
         "counter hit": "",
-        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat)* Follow-up upon successful reversal with input 1 or 2 to Chain Punch: BranchParry state 20~60"
+        "notes": "* Reversal (partially restores remaining Heat time when successful during Heat) * Follow-up upon successful reversal with input 1 or 2 to Chain Punch: Branch Parry state 20~60"
     },
     {
         "command": "f,F+2",
@@ -882,12 +892,12 @@
     {
         "command": "f,F+3",
         "hit level": "h",
-        "damage": "23",
+        "damage": "20",
         "startup": "i18~23",
         "block": "-2~+3",
-        "hit": "+33d(+25)~+38d(+30)",
+        "hit": "+33d",
         "counter hit": "",
-        "notes": "* Balcony Break* chip damage on blockLow crush"
+        "notes": "* Strong Aerial Tailspin * Balcony Break * 6 chip damage on block Low crush"
     },
     {
         "command": "f,F+4",
@@ -907,7 +917,7 @@
         "block": "-14~-13",
         "hit": "+34a (+19)",
         "counter hit": "+43a (-33)",
-        "notes": "* Tornado* Combos from 1st hit* Has evasive properties"
+        "notes": "* Tornado * Combos from 1st hit * Has evasive properties"
     },
     {
         "command": "uf,n,4",
@@ -927,7 +937,7 @@
         "block": "+6~+9",
         "hit": "+41d(-17)~+44(-11)",
         "counter hit": "",
-        "notes": "* Balcony Break* chip damage on blockLow crush"
+        "notes": "* Balcony Break * chip damage on block Low crush"
     },
     {
         "command": "ws1",
@@ -947,7 +957,7 @@
         "block": "-9",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Transition to HRM* Combos from 1st hit"
+        "notes": "* Transition to HRM * Combos from 1st hit"
     },
     {
         "command": "ws2",
@@ -976,18 +986,28 @@
         "startup": "i18~19",
         "block": "-12",
         "hit": "+4",
-        "counter hit": "+12",
+        "counter hit": "+14",
         "notes": "* Can be delayed"
     },
     {
         "command": "SS.1+2",
-        "hit level": "h",
-        "damage": "26",
-        "startup": "i14",
+        "hit level": "h,h,h",
+        "damage": "3, 3, 20",
+        "startup": "i14, i6, i6",
         "block": "+7",
-        "hit": "+30g",
+        "hit": "+25g",
         "counter hit": "",
-        "notes": "* chip damage on block* power up during Heat (partially uses remaining Heat time)* Can be delayed"
+        "notes": "* Balcony Break * Opponent recovers crouching on hit * 8 chip damage on block * Power up during Heat (partially uses remaining Heat time)"
+    },
+    {
+        "command": "SS.3+4",
+        "hit level": "m,m",
+        "damage": "20,6",
+        "startup": "i20",
+        "block": "+3",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "* Transitions to HRM Low crush"
     },
     {
         "command": "FC.df+4",
@@ -1017,7 +1037,17 @@
         "block": "-10~-9",
         "hit": "0~+1",
         "counter hit": "",
-        "notes": "* Parry* Partially restores remaining Heat time upon successful parry during HeatParry state 3~12"
+        "notes": "* Parry * Partially restores remaining Heat time upon successful parry during Heat Parry state 3~12"
+    },
+    {
+        "command": "HRM.1,2",
+        "hit level": "m, h",
+        "damage": "17, 17",
+        "startup": "i24~25, i20~21",
+        "block": "-3",
+        "hit": "+28g",
+        "counter hit": "+59cs",
+        "notes": "* Elbow * Combos from 1st hit"
     },
     {
         "command": "HRM.2",
@@ -1037,7 +1067,7 @@
         "block": "-9~-8",
         "hit": "+16a (+9)",
         "counter hit": "",
-        "notes": "* Tornado* chip damage on block* Combos from 1st hit* DelayableLow crush"
+        "notes": "* Tornado * chip damage on block * Combos from 1st hit * Delayable Low crush"
     },
     {
         "command": "HRM.3",
@@ -1087,7 +1117,7 @@
         "block": "-2",
         "hit": "+5",
         "counter hit": "",
-        "notes": "{{Plainlist* 12 damage total* Power up during Heat (partially uses remaining Heat time)}}"
+        "notes": "* 12 damage total * Power up during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "HRM.1+2,1",
@@ -1097,7 +1127,7 @@
         "block": "-17",
         "hit": "+7a(-2)/HE",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5g +36a(+26)* Balcony Break* Elbow* Jailing* Delayable"
+        "notes": "* Heat Engager * Heat Dash +5g +36a(+26) * Balcony Break * Elbow * Jailing * Delayable"
     },
     {
         "command": "HRM.SS",
@@ -1107,17 +1137,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": ""
-    },
-    {
-        "command": "HRM.SS.1+2",
-        "hit level": "h",
-        "damage": "26",
-        "startup": "i14",
-        "block": "+7",
-        "hit": "+30g",
-        "counter hit": "",
-        "notes": "* chip damage on block* power up during Heat (partially uses remaining Heat time)* Delayable"
+        "notes": "Can access sidestep moves"
     },
     {
         "command": "HRM.b+1",
@@ -1140,14 +1160,14 @@
         "notes": ""
     },
     {
-        "command": "HRM.b+3,1+2",
+        "command": "HRM.b+3,2",
         "hit level": "l, m",
         "damage": "12, 27",
         "startup": "i20~21, i31~32",
         "block": "-16",
         "hit": "+0a (-1)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit* Combo deals [30; 12] damage"
+        "notes": "* Balcony Break * Combo from 1st hit * Combo deals [30; 12] damage"
     },
     {
         "command": "HRM.b+4",
@@ -1157,7 +1177,7 @@
         "block": "-13",
         "hit": "+4c",
         "counter hit": "+28a",
-        "notes": "HomingHigh crush"
+        "notes": "Homing High crush"
     },
     {
         "command": "HRM.f+1",
@@ -1177,7 +1197,7 @@
         "block": "+0",
         "hit": "+40a",
         "counter hit": "",
-        "notes": "chip damage on blockLow crush"
+        "notes": "chip damage on block Low crush"
     },
     {
         "command": "OTG.db+2",
@@ -1207,7 +1227,7 @@
         "block": "",
         "hit": "+21g",
         "counter hit": "",
-        "notes": "* Balcony Break* Alternate input: P.b+2,2* power up during Heat (partially uses remaining Heat time)"
+        "notes": "* Balcony Break * Alternate input: P.b+2,2 * power up during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "1+3",
@@ -1217,7 +1237,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Spike* Throw break: 1 or 2* Opponent status on hit: FUFT perpendicular"
+        "notes": "* Spike * Throw break: 1 or 2 * Opponent status on hit: FUFT perpendicular"
     },
     {
         "command": "2+4",
@@ -1227,7 +1247,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Throw break: 1 or 2* Opponent status on hit: FUFA* Side switch on hit"
+        "notes": "* Throw break: 1 or 2 * Opponent status on hit: FUFA * Side switch on hit"
     },
     {
         "command": "Back throw",
@@ -1237,7 +1257,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Spike* Throw break: none* Opponent status on hit: FDFA"
+        "notes": "* Spike * Throw break: none * Opponent status on hit: FDFA"
     },
     {
         "command": "Left throw",
@@ -1247,7 +1267,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Spike* Throw break: 1* Opponent status on hit: FUFT perpendicular"
+        "notes": "* Spike * Throw break: 1 * Opponent status on hit: FUFT perpendicular"
     },
     {
         "command": "Right throw",
@@ -1257,7 +1277,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Throw break: 2* Opponent status on hit: FUFA* Side switch on hit"
+        "notes": "* Throw break: 2 * Opponent status on hit: FUFA * Side switch on hit"
     },
     {
         "command": "uf+1+2",
@@ -1267,6 +1287,6 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Throw break: 1+2* Opponent status on hit: FUFA off-axis to the left"
+        "notes": "* Throw break: 1+2 * Opponent status on hit: FUFA off-axis to the left"
     }
 ]

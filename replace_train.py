@@ -6,6 +6,7 @@ from typing import List, Dict, Callable
 
 
 class CharacterName(enum.Enum):
+    ANNA = 'anna'
     ALISA = 'alisa'
     ASUKA = 'asuka'
     AZUCENA = 'azucena'
@@ -46,7 +47,8 @@ class CharacterName(enum.Enum):
 
 Character_alias = {
     CharacterName.ALISA: [],
-    CharacterName.ASUKA: [],
+    CharacterName.ANNA: [],
+    CharacterName.ASUKA: ['oscar'],
     CharacterName.AZUCENA: ['azu', 'azuc', 'cafe'],
     CharacterName.BRYAN: ['byron', 'bry', 'bestchar'],
     CharacterName.CLAUDIO: ['serafino'],
@@ -103,10 +105,17 @@ INPUT_FILTER = {
 }
 
 MOVES_FILTER = {
-    'bryan': [r'sls', 'qcf'],
-    'steve': [r'spin', '3+4']
-}
+    'bryan': [r'qcf', 'sls', r'qcb', 'hatchet'],
+    'heihachi': [r'ewgf', 'fnddf:2'],
+    'jin': [r'3+4', 'zen', r'ewhf', 'fnddf:2', r'ewgf', 'fnddf:2'],
+    'kazuya': [r'ewgf', 'fnddf:2'],
+    'lili': [r'qcf', 'dew'],
+    'paul': [r'deathfist', 'qcf2'],
+    'reina': [r'ewgf', 'fnddf:2'],
+    'steve': [r'alb', '3+4'],
+    'yoshimitsu': [r'flash', '1+4'],
 
+}
 
 
 # Function to open files
@@ -206,14 +215,18 @@ def get_character_by_name(character_input):
 
     return None
 
+# # Used for debugging purposes
+# user_input = "kaz"
+# filtered_input = filter_input('qcf1+2')
+# character_name_gotten = get_character_by_name('byron')
+# print(filter_moves('sls1+2', 'bryan'))
+#
+# data = open_frame_data('./output/bryan.json')
+# printable_junk = compare_inputs(data, character_name_gotten, 'qcf1+2')
+#
+# print(printable_junk)
 
-# Used for debugging purposes
-user_input = "kaz"
-filtered_input = filter_input('qcf1+2')
-character_name_gotten = get_character_by_name('byron')
-print(filter_moves('sls1+2', 'bryan'))
-
-data = open_frame_data('./output/bryan.json')
-printable_junk = compare_inputs(data, character_name_gotten, 'qcf1+2')
-
-print(printable_junk)
+# text_try = '!fd dvj 1+2'.split()[1]
+# print(text_try)
+# getchar = get_character_by_name(text_try)
+# print(getchar)
