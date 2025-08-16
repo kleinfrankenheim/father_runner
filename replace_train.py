@@ -109,8 +109,9 @@ INPUT_FILTER = {
 MOVES_FILTER = {
     'bryan': [r'qcf', 'sls', r'qcb', 'hatchet'],
     'heihachi': [r'ewgf', 'fnddf:2'],
-    'jin': [ r'zen', 'b3+4', r'ewhf', 'fnddf:2', r'ewgf', 'fnddf:2'],
+    'jin': [r'zen', 'b3+4', r'ewhf', 'fnddfdf:2', r'ewgf', 'fnddfdf:2'],
     'kazuya': [r'ewgf', 'fnddf:2'],
+    'lidia': ['hea', 'hae'],
     'lili': [r'qcf', 'dew'],
     'paul': [r'deathfist', 'qcf2'],
     'reina': [r'ewgf', 'fnddf:2'],
@@ -217,7 +218,6 @@ def get_character_by_name(character_input):
 
     return None
 
-
 # # Used for debugging purposes
 # user_input = "kaz"
 # filtered_input = filter_input('qcf1+2')
@@ -234,6 +234,6 @@ def get_character_by_name(character_input):
 # getchar = get_character_by_name(text_try)
 # print(getchar)
 
-data = open_frame_data('./output/jin.json')
-printable_junk = compare_inputs(data, 'jin', 'f3+4,2')
-print(printable_junk)
+# data = open_frame_data('./output/jin.json')
+# printable_junk = compare_inputs(data, 'jin', 'f3+4,2')
+# print(printable_junk)
