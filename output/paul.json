@@ -7,7 +7,7 @@
         "block": "+1",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat Burst* Consumes Heat* t92 on whiff* Cinematic freeze on frame 15* Cancel to t42 r26 standing with b,bPower crush 7~"
+        "notes": "* Heat Burst * Consumes Heat * t92 on whiff * Cinematic freeze on frame 15 * Cancel to t42 r26 standing with b,b Power crush 7~"
     },
     {
         "command": "H.1+2",
@@ -17,17 +17,17 @@
         "block": "-9",
         "hit": "+30d (-6) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat unless canceled* Chip damage (10)* Move can be delayed 11f (i39)* Charge begins on frame 1* Requires 1~27f charge* Delayed startup from 17~27f charge* Cancel to t27~35 r1 CS from 17~35f with f** Sidestep u can be buffered 2f after cancel** CS attacks can be buffered from 26f** Decaying 13f delay on CS attacks*** Decays to 0 delay 24f after cancel* Cancel to t41~49 r12 SWA from 17~35f with b** Sidestep u can be buffered from 27f** SWA attacks can be buffered from 26f* H.1+2* from 28~55f charge* Burning Fist at 56f charge"
+        "notes": "* Balcony Break * Reversal Break * Consumes Heat unless canceled * Chip damage (10) * Move can be delayed 11f (i39) * Charge begins on frame 1 * Requires 1~27f charge * Delayed startup from 17~27f charge * Cancel to t27~35 r1 CS from 17~35f with f ** Sidestep u can be buffered 2f after cancel ** CS attacks can be buffered from 26f ** Decaying 13f delay on CS attacks *** Decays to 0 delay 24f after cancel * Cancel to t41~49 r12 SWA from 17~35f with b ** Sidestep u can be buffered from 27f ** SWA attacks can be buffered from 26f * H.1+2* from 28~55f charge * Burning Fist at 56f charge"
     },
     {
         "command": "H.1+2*",
         "hit level": "m",
         "damage": "40",
         "startup": "i46",
-        "block": "+10",
+        "block": "+13g",
         "hit": "+30d (-6) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break*Wall Crush +17g* Consumes Heat unless canceled* Chip damage (16)* Move can be delayed 21f (i67)* Charge begins on frame 1* Requires 28~55f charge* Delayed startup from 35~55f charge* Cancel to t27~35 r1 CS from 17~35f with f** Sidestep u can be buffered 2f after cancel** CS attacks can be buffered from 26f** Decaying 13f delay on CS attacks*** Decays to 0 delay 24f after cancel* Cancel to t41~49 r12 SWA from 17~35f with b** Sidestep u can be buffered from 27f** SWA attacks can be buffered from 26f* H.1+2 from 1~27f charge* Burning Fist at 56f charge"
+        "notes": "* Balcony Break * Reversal Break * Consumes Heat unless canceled * Chip damage (16) * Move can be delayed 21f (i67) * Charge begins on frame 1 * Requires 28~55f charge * Delayed startup from 35~55f charge * Cancel to t27~35 r1 CS from 17~35f with f ** Sidestep u can be buffered 2f after cancel ** CS attacks can be buffered from 26f ** Decaying 13f delay on CS attacks *** Decays to 0 delay 24f after cancel * Cancel to t41~49 r12 SWA from 17~35f with b ** Sidestep u can be buffered from 27f ** SWA attacks can be buffered from 26f * H.1+2 from 1~27f charge * Burning Fist at 56f charge"
     },
     {
         "command": "H.1+2**",
@@ -37,7 +37,7 @@
         "block": "",
         "hit": "+30d (-6) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat* Charge begins on frame 1* Requires 56f charge* H.1+2 from 1~27f charge* H.1+2* from 28~55f charge"
+        "notes": "* Balcony Break * Reversal Break * Consumes Heat * Charge begins on frame 1 * Requires 56f charge * H.1+2 from 1~27f charge * H.1+2* from 28~55f charge"
     },
     {
         "command": "H.qcf+2",
@@ -47,7 +47,7 @@
         "block": "-13",
         "hit": "+26a (-10) FDFA",
         "counter hit": "",
-        "notes": "* Heat Dash +5, +36a (+26)* Balcony Break* Consumes Heat* Chip damage (11)* Clean Hit range 2.3* Heat Dash disables Clean Hit* 34 damage without Clean Hit"
+        "notes": "* Heat Dash +5, +36a (+26) * Balcony Break * Reversal Break * Consumes Heat * Chip damage (11) * Clean Hit range 2.3 * Heat Dash disables Clean Hit * 34 damage without Clean Hit"
     },
     {
         "command": "H.f+1+2*",
@@ -57,17 +57,17 @@
         "block": "+5c",
         "hit": "+55a",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat* Chip damage (13)* Requires 24f charge* f+1+2 from 0~23f charge"
+        "notes": "* Balcony Break * Consumes Heat * Chip damage (13) * Requires 24f charge * f+1+2 from 0~23f charge"
     },
     {
         "command": "H.2+3",
         "hit level": "L,m,t",
         "damage": "9,23,25",
         "startup": "i18,i21,i38",
-        "block": "-12",
+        "block": "-14",
         "hit": "+3d",
         "counter hit": "",
-        "notes": "* Heat Smash* Balcony Break* Fully consumes Heat* Chip damage (2,6,7)* Transition to throw on 1st hit only* 40 damage with throw transition* 53 damage on 2nd + 3rd hit* t134 r49 on block* t124 on whiff"
+        "notes": "* Heat Smash * Balcony Break * Fully consumes Heat * Chip damage (8) * Transition to throw on 1st hit only * 40 damage with throw transition * 53 damage on 2nd + 3rd hit * t134 r49 on block * t124 on whiff"
     },
     {
         "command": "R.df+1+2",
@@ -77,7 +77,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Restores recoverable health on hit* Transition to attack throw on hit* Consumes Rage* 114f cinematic freeze on frame 8* t193 r56 on block* t134 on whiffPower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage * 114f cinematic freeze on frame 8 * t193 r56 on block * t134 on whiff Power crush 8~"
     },
     {
         "command": "1",
@@ -97,7 +97,7 @@
         "block": "-3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Move can be delayed 3f* Input can be delayed 3f* Combo from 1st hit with 3f delay* Jail from 1st hit with 3f delay"
+        "notes": "* Move can be delayed 3f * Input can be delayed 3f * Combo from 1st hit with 3f delay * Jail from 1st hit with 3f delay"
     },
     {
         "command": "1,2,3",
@@ -107,7 +107,7 @@
         "block": "-25",
         "hit": "-14",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st hit* Cancel to 10 strings"
+        "notes": "* Combo from 1st hit * Jail from 1st hit * Cancel to 10 strings"
     },
     {
         "command": "1,4",
@@ -117,12 +117,12 @@
         "block": "-11c",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Combo from 1st CHHigh crush 14~"
+        "notes": "* Combo from 1st CH High crush 14~"
     },
     {
         "command": "2",
         "hit level": "h",
-        "damage": "10",
+        "damage": "8",
         "startup": "i10",
         "block": "+0",
         "hit": "+6",
@@ -132,22 +132,12 @@
     {
         "command": "2,3",
         "hit level": "h, h",
-        "damage": "10, 21",
-        "startup": "i10, i22~23",
-        "block": "-9",
-        "hit": "+22d (+13)",
-        "counter hit": "+51a",
-        "notes": "Balcony Break* Combo from 1st CH"
-    },
-    {
-        "command": "2,d+3",
-        "hit level": "h, L",
-        "damage": "10, 11",
-        "startup": "i10, i22",
-        "block": "-12c",
-        "hit": "-1",
+        "damage": "8, 14",
+        "startup": "i10, i19",
+        "block": "-2",
+        "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st CHHigh crush 21~"
+        "notes": "* Knee * Combo from 1st hit"
     },
     {
         "command": "3",
@@ -167,7 +157,7 @@
         "block": "-3",
         "hit": "+7",
         "counter hit": "+50a",
-        "notes": "* Move can be delayed 4f* Input can be delayed 4f* Combo from 1st hit with 4f delay* Transition to t60 r19 SWA +4 +14g +57a at 43f with b"
+        "notes": "* Move can be delayed 4f * Input can be delayed 4f * Combo from 1st hit with 4f delay * Transition to t60 r19 SWA +4 +14g +57a at 43f with b"
     },
     {
         "command": "3,2~b",
@@ -177,7 +167,7 @@
         "block": "+4",
         "hit": "+14g",
         "counter hit": "+57a",
-        "notes": "* Sidestep u can be buffered from 45f* SWA attacks can be buffered from 54f* Transition to cs1~ r9 -13 +4 +47a DPD from 61f with df"
+        "notes": "* Sidestep u can be buffered from 45f * SWA attacks can be buffered from 54f * Transition to cs1~ r9 -13 +4 +47a DPD from 61f with df"
     },
     {
         "command": "4",
@@ -194,20 +184,20 @@
         "hit level": "m",
         "damage": "30",
         "startup": "i28",
-        "block": "-13",
+        "block": "-10",
         "hit": "+20d (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* H.1+2 with Heat* Move can be delayed 11f (i39)* Charge begins on frame 1* Requires 1~27f charge* Delayed startup from 17~27f charge* Cancel to t27 r1 CS from 17~35f with f** Cancel can be delayed 8f** Sidestep u can be buffered 2f after cancel** CS attacks can be buffered from 26f** Decaying 13f delay on CS attacks*** Decays to 0 delay 24f after cancel* Cancel to t41 r12 SWA from 17~35f with b* Cancel can be delayed 8f** Sidestep u can be buffered from 27f** SWA attacks can be buffered from 26f* 1+2* from 28~55f charge* Burning Fist at 56f charge"
+        "notes": "* Balcony Break * H.1+2 with Heat * Move can be delayed 11f (i39) * Charge begins on frame 1 * Requires 1~27f charge * Delayed startup from 17~27f charge * Cancel to t27 r1 CS from 17~35f with f ** Cancel can be delayed 8f ** Sidestep u can be buffered 2f after cancel ** CS attacks can be buffered from 26f ** Decaying 13f delay on CS attacks *** Decays to 0 delay 24f after cancel * Cancel to t41 r12 SWA from 17~35f with b * Cancel can be delayed 8f ** Sidestep u can be buffered from 27f ** SWA attacks can be buffered from 26f * 1+2* from 28~55f charge * Burning Fist at 56f charge"
     },
     {
         "command": "1+2*",
         "hit level": "m",
         "damage": "35",
         "startup": "i46",
-        "block": "+0",
+        "block": "+3",
         "hit": "+20d (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* H.1+2* with Heat* Chip damage (10)* Move can be delayed 21f (i67)* Charge begins on frame 1* Requires 28~55f charge* Delayed startup from 35~55f charge* Cancel to t27 r1 CS from 17~35f with f** Cancel can be delayed 8f** Sidestep u can be buffered 2f after cancel** CS attacks can be buffered from 26f** Decaying 13f delay on CS attacks*** Decays to 0 delay 24f after cancel* Cancel to t41 r12 SWA from 17~35f with b** Cancel can be delayed 8f** Sidestep u can be buffered from 27f** SWA attacks can be buffered from 26f* 1+2 from 1~27f charge* Burning Fist at 56f charge"
+        "notes": "* Balcony Break * H.1+2* with Heat * Chip damage (10) * Move can be delayed 21f (i67) * Charge begins on frame 1 * Requires 28~55f charge * Delayed startup from 35~55f charge * Cancel to t27 r1 CS from 17~35f with f ** Cancel can be delayed 8f ** Sidestep u can be buffered 2f after cancel ** CS attacks can be buffered from 26f ** Decaying 13f delay on CS attacks *** Decays to 0 delay 24f after cancel * Cancel to t41 r12 SWA from 17~35f with b ** Cancel can be delayed 8f ** Sidestep u can be buffered from 27f ** SWA attacks can be buffered from 26f * 1+2 from 1~27f charge * Burning Fist at 56f charge"
     },
     {
         "command": "1+2**",
@@ -217,17 +207,17 @@
         "block": "",
         "hit": "+20d (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* H.1+2** with Heat* Charge begins on frame 1* Requires 56f charge* 1+2 from 1~27f charge* 1+2* from 28~55f charge"
+        "notes": "* Balcony Break * H.1+2** with Heat * Charge begins on frame 1 * Requires 56f charge * 1+2 from 1~27f charge * 1+2* from 28~55f charge"
     },
     {
         "command": "f+2",
         "hit level": "h,t",
-        "damage": "12,26",
+        "damage": "12,22",
         "startup": "i13",
         "block": "-5",
         "hit": "+9",
         "counter hit": "",
-        "notes": "* Heat Engager +9* Heat Dash +5, +62a (+42)* Transition to throw on front hit* +32a without throw transition"
+        "notes": "* Heat Engager +9 * Heat Dash +5, +62a (+42) * Transition to throw on front hit * Transition to +7 DPD on hit with DF * +32a without throw transition"
     },
     {
         "command": "f+3",
@@ -247,7 +237,7 @@
         "block": "-10",
         "hit": "+12d (+3)",
         "counter hit": "",
-        "notes": "* Homing* Balcony Break* Combo from 1st hit"
+        "notes": "* Homing * Balcony Break * Combo from 1st hit"
     },
     {
         "command": "f+4",
@@ -257,7 +247,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +62a (+42)* HomingLow crush 9~22"
+        "notes": "* Heat Engager * Heat Dash +5, +62a (+42) * Homing Low crush 9~22"
     },
     {
         "command": "f+1+2",
@@ -267,17 +257,17 @@
         "block": "+3c",
         "hit": "+8c",
         "counter hit": "+35d (+27)",
-        "notes": "* Balcony Break (CH only)* Chip damage (4)* Move can be delayed 9f (i29~30)* Delayed startup from 5~23f charge* f+1+2* at 24f charge* H.f+1+2* at 24f charge"
+        "notes": "* Balcony Break (CH only) * Chip damage (4) * Move can be delayed 9f (i29~30) * Delayed startup from 5~23f charge * f+1+2* at 24f charge * H.f+1+2* at 24f charge * Transition to 0, +5c DPD with DF"
     },
     {
         "command": "f+1+2*",
         "hit level": "m",
         "damage": "26",
         "startup": "i29~30",
-        "block": "+5c",
+        "block": "+7c",
         "hit": "+20d FDFA",
         "counter hit": "+55a",
-        "notes": "* Balcony Break* H.f+1+2* with Heat* Chip damage (10)* Requires 24f charge* f+1+2 from 0~23f charge"
+        "notes": "* Balcony Break * H.f+1+2* with Heat * Chip damage (10) * Requires 24f charge * f+1+2 from 0~23f charge * Transition to +4c, +17d DPD with DF"
     },
     {
         "command": "f+1+4",
@@ -287,7 +277,17 @@
         "block": "-14",
         "hit": "+41d (-17)",
         "counter hit": "",
-        "notes": "* Balcony Break* Sharp leftward movement on startup"
+        "notes": "* Balcony Break * Sharp leftward movement on startup"
+    },
+    {
+        "command": "f+3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Transitions to CS"
     },
     {
         "command": "df+1",
@@ -307,7 +307,7 @@
         "block": "-5",
         "hit": "+5",
         "counter hit": "+8",
-        "notes": "* Combo from 1st hit with 4f delay* Move can be delayed 10f* Input can be delayed 10f"
+        "notes": "* Combo from 1st hit with 4f delay * Move can be delayed 10f * Input can be delayed 10f"
     },
     {
         "command": "df+1,1,2",
@@ -317,7 +317,7 @@
         "block": "-9",
         "hit": "+32a (+24)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd CH"
+        "notes": "* Balcony Break * Combo from 2nd CH"
     },
     {
         "command": "df+1~b",
@@ -327,7 +327,7 @@
         "block": "+3",
         "hit": "+9",
         "counter hit": "",
-        "notes": "* Sidestep u can be buffered from 16f* SWA attacks can be buffered from 24f* Transition to cs1~ r9 -1 -12 DPD from 32f with df"
+        "notes": "* Sidestep u can be buffered from 16f * SWA attacks can be buffered from 24f * Transition to cs1~ r9 -1 -12 DPD from 32f with df"
     },
     {
         "command": "df+2",
@@ -337,7 +337,7 @@
         "block": "-8",
         "hit": "+33a (+23)",
         "counter hit": "",
-        "notes": "* High evasion"
+        "notes": "* High evasion * Does not launch crouching opponent except on CH"
     },
     {
         "command": "df+3",
@@ -357,7 +357,7 @@
         "block": "-10",
         "hit": "+6",
         "counter hit": "+59a",
-        "notes": "* Move can be delayed 14f* Input can be delayed 14f* Combo from 1st hit with 10f delay"
+        "notes": "* Move can be delayed 14f * Input can be delayed 14f * Combo from 1st hit with 10f delay"
     },
     {
         "command": "df+4",
@@ -370,6 +370,16 @@
         "notes": "* Knee"
     },
     {
+        "command": "df+3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Transitions to DPD"
+    },
+    {
         "command": "d+1",
         "hit level": "M",
         "damage": "16",
@@ -377,7 +387,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "+3c",
-        "notes": "* Spike* Transition to r27 FC with d"
+        "notes": "* Spike * Transition to r27 FC with d"
     },
     {
         "command": "d+1,2",
@@ -387,7 +397,7 @@
         "block": "-17",
         "hit": "+20d (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* H.d+1,2 with Heat* Move can be delayed 14f (i43)* Charge begins on frame 16* Requires 0~26f charge* Delayed startup from 1~26f charge* Combo from 1st CH with 0~6f charge* d+1,2* at 27f charge"
+        "notes": "* Balcony Break * H.d+1,2 with Heat * Move can be delayed 14f (i43) * Charge begins on frame 16 * Requires 0~26f charge * Delayed startup from 1~26f charge * Combo from 1st CH with 0~6f charge * d+1,2* at 27f charge"
     },
     {
         "command": "d+1,2*",
@@ -397,7 +407,7 @@
         "block": "+9",
         "hit": "+20d (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* Wall Crush +16g* H.d+1,2* with Heat* Chip damage (11)* Charge begins on frame 16* Requires 27f charge* d+1,2 from 0~26f charge"
+        "notes": "* Balcony Break * H.d+1,2* with Heat * Chip damage (11) * Charge begins on frame 16 * Requires 27f charge * d+1,2 from 0~26f charge"
     },
     {
         "command": "d+1,4",
@@ -407,7 +417,7 @@
         "block": "-31c",
         "hit": "-17",
         "counter hit": "+14a FUFA",
-        "notes": "* Move can be delayed 5f* Input can be delayed 5f* Combo from 1st CH with 5f delay"
+        "notes": "* Move can be delayed 5f * Input can be delayed 5f * Combo from 1st CH with 5f delay"
     },
     {
         "command": "d+1,4,2",
@@ -417,7 +427,7 @@
         "block": "-14",
         "hit": "+3d (-6)",
         "counter hit": "+35a (-12)",
-        "notes": "* Balcony Break* Elbow* Combo from 2nd CH +11d (+4)"
+        "notes": "* Balcony Break * Elbow * Combo from 2nd CH +11d (+4)"
     },
     {
         "command": "H.d+1,2",
@@ -427,17 +437,17 @@
         "block": "-13",
         "hit": "+29d (-7) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat* Move can be delayed 14f (i43)* Charge begins on frame 16* Requires 0~26f charge* Delayed startup from 1~26f charge* Combo from 1st CH with 0~6f charge* H.d+1,2* at 27f charge"
+        "notes": "* Balcony Break * Reversal Break * Consumes Heat * Move can be delayed 14f (i43) * Charge begins on frame 16 * Requires 0~26f charge * Delayed startup from 1~26f charge * Combo from 1st CH with 0~6f charge * H.d+1,2* at 27f charge"
     },
     {
         "command": "H.d+1,2*",
         "hit level": "M, m",
         "damage": "16, 45",
         "startup": "i14~15, i43",
-        "block": "[[Paul combos#Mini-combos|+12]]",
+        "block": "+12",
         "hit": "+30d (-6) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Guard Break* Consumes Heat* Chip damage (13)* Charge begins on frame 16* Requires 27f charge* H.d+1,2 from 0~26f charge"
+        "notes": "* Balcony Break * Guard Break * Reversal Break * Consumes Heat * Chip damage (13) * Charge begins on frame 16 * Requires 27f charge * H.d+1,2 from 0~26f charge"
     },
     {
         "command": "d+2",
@@ -447,7 +457,7 @@
         "block": "-4",
         "hit": "+7",
         "counter hit": "",
-        "notes": "* cs1~ from 6f d/db/df input hold* OTG.d+2 when opponent is downedHigh crush"
+        "notes": "* cs1~ from 6f d/db/df input hold * OTG.d+2 when opponent is downed High crush"
     },
     {
         "command": "d+4",
@@ -457,7 +467,7 @@
         "block": "-31c",
         "hit": "+14a FUFA",
         "counter hit": "+14a",
-        "notes": "* Clean Hit range 1.59* 8 damage, -17 on hit without Clean Hit* Stagger state on block"
+        "notes": "* Clean Hit range 1.59 * 8 damage, -17 on hit without Clean Hit * Stagger state on block"
     },
     {
         "command": "d+4,2",
@@ -467,7 +477,7 @@
         "block": "-18",
         "hit": "-9",
         "counter hit": "",
-        "notes": "* Move can be delayed 3f* Input can be delayed 4f* Combo from 1st CL with 3f delay +5d (-2)* Combo from 1st CH with 3f delay +5d (-2)"
+        "notes": "* Move can be delayed 3f * Input can be delayed 4f * Combo from 1st CL with 3f delay +5d (-2) * Combo from 1st CH with 3f delay +5d (-2)"
     },
     {
         "command": "d+4,2,1+2",
@@ -477,7 +487,7 @@
         "block": "-17",
         "hit": "+3d (-6)",
         "counter hit": "+35a (-12)",
-        "notes": "* Balcony Break* Move can be delayed 4f* Input can be delayed 4f* Combo from 1st CL with 4f delay +13d (+6)* Combo from 1st CH with 4f delay +13d (+6)* Combo from 2nd hit with 4f delay +13d (+6)* Perfect input window 21~22f after 2 input"
+        "notes": "* Balcony Break * Move can be delayed 4f * Input can be delayed 4f * Combo from 1st CL with 4f delay +13d (+6) * Combo from 1st CH with 4f delay +13d (+6) * Combo from 2nd hit with 4f delay +13d (+6) * Perfect input window 21~22f after 2 input"
     },
     {
         "command": "d+4,2:1+2",
@@ -487,16 +497,16 @@
         "block": "-17",
         "hit": "+3d (-6)",
         "counter hit": "+35a (-12)",
-        "notes": "* Balcony Break* Move can be delayed 1f* Input can be delayed 1f* Combo from 1st CL with 1f delay +13d (+6)* Combo from 1st CH with 1f delay +13d (+6)* Combo from 2nd hit with 1f delay +13d (+6)* Perfect input window 21~22f after 2 input* Perfect input increases damage, wall carry"
+        "notes": "* Balcony Break * Move can be delayed 1f * Input can be delayed 1f * Combo from 1st CL with 1f delay +13d (+6) * Combo from 1st CH with 1f delay +13d (+6) * Combo from 2nd hit with 1f delay +13d (+6) * Perfect input window 21~22f after 2 input * Perfect input increases damage, wall carry"
     },
     {
         "command": "d+1+2",
         "hit level": "m",
-        "damage": "30",
+        "damage": "28",
         "startup": "i12~13",
-        "block": "-16",
+        "block": "-18",
         "hit": "+16d (+11)",
-        "counter hit": "",
+        "counter hit": "+24d (+16)",
         "notes": "* Balcony Break"
     },
     {
@@ -507,7 +517,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Transition to r24 standing with fHigh crush"
+        "notes": "* Transition to r24 standing with f High crush"
     },
     {
         "command": "db+2",
@@ -517,7 +527,7 @@
         "block": "-11",
         "hit": "+14d (-3) FDFA",
         "counter hit": "+28a (+18)",
-        "notes": "* Tornado* Balcony Break"
+        "notes": "* Tornado * Balcony Break"
     },
     {
         "command": "db+3",
@@ -547,12 +557,12 @@
         "block": "-14",
         "hit": "+30a (+22)",
         "counter hit": "",
-        "notes": "* Chip damage (11) if attack is absorbedPower crush 7~19"
+        "notes": "* Chip damage (11) if attack is absorbed Power crush 7~19"
     },
     {
         "command": "b+1",
         "hit level": "h",
-        "damage": "12",
+        "damage": "10",
         "startup": "i12~13",
         "block": "-9",
         "hit": "+2",
@@ -562,12 +572,12 @@
     {
         "command": "b+1,2",
         "hit level": "h, M",
-        "damage": "12, 21",
+        "damage": "10, 21",
         "startup": "i12~13, i20~21",
         "block": "-14",
         "hit": "+16d (-1) FDFA",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Move can be delayed 5f* Input can be delayed 5f* Combo from 1st hit with 5f delay"
+        "notes": "* Tornado * Balcony Break * Move can be delayed 5f * Input can be delayed 5f * Combo from 1st hit with 5f delay"
     },
     {
         "command": "b+1+3",
@@ -577,7 +587,7 @@
         "block": "",
         "hit": "+1d FUFA",
         "counter hit": "",
-        "notes": "* ParryParry state 5~12"
+        "notes": "* Parry Parry state 5~12"
     },
     {
         "command": "b+2",
@@ -597,7 +607,7 @@
         "block": "-12",
         "hit": "0c",
         "counter hit": "+48a",
-        "notes": "* Move can be delayed 20f (i56)* Charge begins on frame 18* Requires 0~41f charge* Delayed startup from 22~41f charge* Combo from 1st CH with 0~23f charge* b+2,1* / H.b+2,1* at 42f charge"
+        "notes": "* Move can be delayed 20f (i56) * Charge begins on frame 18 * Requires 0~41f charge * Delayed startup from 22~41f charge * Combo from 1st CH with 0~23f charge * b+2,1* / H.b+2,1* at 42f charge"
     },
     {
         "command": "b+2,1*",
@@ -607,17 +617,17 @@
         "block": "+8",
         "hit": "+20d",
         "counter hit": "+56a",
-        "notes": "* Balcony Break* H.b+2,1* with Heat* Chip damage (7)* Charge begins on frame 18* Requires 42f charge* b+2,1 from 0~41f charge"
+        "notes": "* Balcony Break * H.b+2,1* with Heat * Chip damage (7) * Charge begins on frame 18 * Requires 42f charge * b+2,1 from 0~41f charge"
     },
     {
         "command": "H.b+2,1*",
         "hit level": "m, m",
         "damage": "22, 35",
         "startup": "i18, i60~61",
-        "block": "[[Paul combos#Mini-combos|+12]]",
+        "block": "+12",
         "hit": "+56a",
         "counter hit": "",
-        "notes": "* Balcony Break* Guard Break* Consumes Heat* Chip damage (13)* Charge begins on frame 18* Requires 42f charge* b+2,1 from 0~41f charge"
+        "notes": "* Balcony Break * Guard Break * Consumes Heat * Chip damage (13) * Charge begins on frame 18 * Requires 42f charge * b+2,1 from 0~41f charge"
     },
     {
         "command": "b+3",
@@ -647,7 +657,17 @@
         "block": "-9",
         "hit": "+21d (+16)",
         "counter hit": "",
-        "notes": "* Balcony Break* Chip damage (11) if attack is absorbedPower crush 7~23"
+        "notes": "* Balcony Break * Chip damage (11) if attack is absorbed Power crush 7~23"
+    },
+    {
+        "command": "b+3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Transitions to SW"
     },
     {
         "command": "ub+2",
@@ -657,7 +677,27 @@
         "block": "-5",
         "hit": "+14d",
         "counter hit": "",
-        "notes": "* Balcony Break* +21d (+14) on airborne opponent"
+        "notes": "* Balcony Break * +21d (+14) on airborne opponent * Can be charged to power up"
+    },
+    {
+        "command": "ub+2*",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i27",
+        "block": "+1",
+        "hit": "+17a",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break * 9 chip damage"
+    },
+    {
+        "command": "uf+1",
+        "hit level": "h",
+        "damage": "26",
+        "startup": "i28~31",
+        "block": "-6",
+        "hit": "+24a (+14)",
+        "counter hit": "",
+        "notes": "* Balcony Break * High Evasion * .73 backward movement over first 14f"
     },
     {
         "command": "uf+2",
@@ -667,7 +707,7 @@
         "block": "+5",
         "hit": "+17d FDFA",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +67a (+50)* Balcony Break* Chip damage (6)Low crush 9~24"
+        "notes": "* Heat Engager * Heat Dash +5, +67a (+50) * Balcony Break * Chip damage (6) * Transition to +2, +14d DPD with DF Low crush 9~24"
     },
     {
         "command": "uf+3",
@@ -687,7 +727,7 @@
         "block": "-13",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit +28a (+21)Low crush 8~29 fs30~32"
+        "notes": "* Combo from 1st hit +28a (+21) Low crush 8~29 fs30~32"
     },
     {
         "command": "uf+4",
@@ -710,16 +750,6 @@
         "notes": ""
     },
     {
-        "command": "b,n,f+1",
-        "hit level": "h",
-        "damage": "22",
-        "startup": "i28~31",
-        "block": "-6",
-        "hit": "+34a (+25)",
-        "counter hit": "",
-        "notes": "* Balcony Break* High Evasion* .73 backward movement over first 14f"
-    },
-    {
         "command": "d,db,b",
         "hit level": "",
         "damage": "",
@@ -727,7 +757,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cannot be buffered* Moves backward up to 1.04* Less movement against distant opponent* cs1~10 against distant opponent* Less movement from attack transition* No crouching state from attack transition* High evasion from attack transition* Transition to r9 DPD from 2f with dfHigh crush 1~14"
+        "notes": "* Cannot be buffered * Moves backward up to 1.04 * Less movement against distant opponent * cs1~10 against distant opponent * Less movement from attack transition * No crouching state from attack transition * High evasion from attack transition * Transition to r9 DPD from 2f with df High crush 1~14"
     },
     {
         "command": "d,df",
@@ -737,7 +767,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cannot be buffered* 1.12 movement over 20f* Transition to CS from 2f with f* Transition to r9 DPD from 3~19f with df* Cancel to r1 block from 2f with b* Cancel to r1 sidestep from 2f with uHigh crush 1~21"
+        "notes": "* Cannot be buffered * 1.12 movement over 20f * Transition to CS from 2f with f * Transition to r9 DPD from 3~19f with df * Cancel to r1 block from 2f with b * Cancel to r1 sidestep from 2f with u High crush 1~21"
     },
     {
         "command": "d,df,f",
@@ -747,7 +777,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cannot be buffered* t35 from 1+2~f* Exits crouching state on frame 1* 1.63 movement over 25f (includes CD)* 1.98 movement over 35f from 1+2 cancel* Transition to r9 DPD from 2f with df* Cancel to r1 sidestep from 2f with u* Cancel to r1 block from 24f with b"
+        "notes": "* Cannot be buffered * t35 from 1+2~f * Exits crouching state on frame 1 * 1.63 movement over 25f (includes CD) * 1.98 movement over 35f from 1+2 cancel * Transition to r9 DPD from 2f with df * Cancel to r1 sidestep from 2f with u * Cancel to r1 block from 24f with b"
     },
     {
         "command": "f,F+2",
@@ -757,7 +787,7 @@
         "block": "-17",
         "hit": "-7",
         "counter hit": "",
-        "notes": "* Elbow* Alternate input FC.df+2"
+        "notes": "* Elbow * Alternate input FC.df+2"
     },
     {
         "command": "f,F+2,1",
@@ -767,7 +797,7 @@
         "block": "-12",
         "hit": "+14d",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit* Cancel to -21 -11 standing with B* Alternate input FC.df+2,1"
+        "notes": "* Balcony Break * Combo from 1st hit * Cancel to -21 -11 standing with B * Alternate input FC.df+2,1"
     },
     {
         "command": "f,F+2,2",
@@ -777,7 +807,7 @@
         "block": "-19c",
         "hit": "+27a",
         "counter hit": "",
-        "notes": "* Cancel to -28 -18 FC with B* Alternate input FC.df+2,2High crush 33~83"
+        "notes": "* Cancel to -28 -18 FC with B * Alternate input FC.df+2,2 High crush 33~83"
     },
     {
         "command": "f,F+2:1",
@@ -787,7 +817,7 @@
         "block": "-4",
         "hit": "+37d (+11)",
         "counter hit": "",
-        "notes": "* Balcony Break* Chip damage (7)* Combo from 1st hit* Alternate input FC.df+2:1"
+        "notes": "* Balcony Break * Chip damage (7) * Combo from 1st hit * Alternate input FC.df+2:1"
     },
     {
         "command": "f,F+3",
@@ -807,7 +837,7 @@
         "block": "-16",
         "hit": "+30a (+20)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit +27a (+10)Low crush 10~24 fs25~27"
+        "notes": "* Combo from 1st hit +27a (+10) Low crush 10~24 fs25~27"
     },
     {
         "command": "f,F+3,4,4",
@@ -817,7 +847,7 @@
         "block": "-5",
         "hit": "+62a (+42)",
         "counter hit": "",
-        "notes": "* Balcony BreakLow crush 10~24 fs25~27"
+        "notes": "* Balcony Break Low crush 10~24 fs25~27"
     },
     {
         "command": "f,F+3,4,d+4",
@@ -837,7 +867,7 @@
         "block": "-14",
         "hit": "+12d (+3)",
         "counter hit": "",
-        "notes": "* Balcony BreakLow crush 10~24 fs25~27"
+        "notes": "* Balcony Break Low crush 10~24 fs25~27"
     },
     {
         "command": "f,F+4",
@@ -847,7 +877,7 @@
         "block": "+2",
         "hit": "+18a",
         "counter hit": "",
-        "notes": "* Chip damage (8)Low crush 14~31 fs32~34"
+        "notes": "* Chip damage (8) Low crush 14~31 fs32~34"
     },
     {
         "command": "uf,n,4",
@@ -857,17 +887,17 @@
         "block": "-13",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Can be delayed 12f after jump* Additional range with delayLow crush 8~29 fs30~32"
+        "notes": "* Can be delayed 12f after jump * Additional range with delay Low crush 8~29 fs30~32"
     },
     {
         "command": "f,f,F+2",
         "hit level": "m,t",
-        "damage": "21,34",
+        "damage": "19,29",
         "startup": "i18~19",
         "block": "-9",
         "hit": "+0d FDFA",
         "counter hit": "+35a",
-        "notes": "* Spike on 2nd hit* Transition to throw on airborne hit* +17d FDFA without throw transition"
+        "notes": "* Spike on 2nd hit * Transition to throw on airborne hit * +17d FDFA without throw transition"
     },
     {
         "command": "ws1",
@@ -887,7 +917,7 @@
         "block": "-11",
         "hit": "+2",
         "counter hit": "+3",
-        "notes": "* Move can be delayed 10f* Input can be delayed 10f* Combo from 1st CH with 10f delay* Transition to t59 r19 SWA +1 +14g +15 from 39~44f with b"
+        "notes": "* Move can be delayed 10f * Input can be delayed 10f * Combo from 1st CH with 10f delay * Transition to t59 r19 SWA +1 +14g +15 from 39~44f with b"
     },
     {
         "command": "ws1,2~b",
@@ -897,7 +927,7 @@
         "block": "+1",
         "hit": "+14g",
         "counter hit": "+15",
-        "notes": "* Sidestep u can be buffered from 44f* SWA attacks can be buffered from 51f* Transition to cs1~ r9 -10 +4 +5 DPD from 60f with df"
+        "notes": "* Sidestep u can be buffered from 44f * SWA attacks can be buffered from 51f * Transition to cs1~ r9 -10 +4 +5 DPD from 60f with df"
     },
     {
         "command": "ws2",
@@ -927,7 +957,7 @@
         "block": "-9",
         "hit": "+17d (+8)",
         "counter hit": "+46a",
-        "notes": "* Balcony Break* Move can be delayed 12f* Input can be delayed 12f* Combo from 1st hit with 12f delay"
+        "notes": "* Balcony Break * Move can be delayed 12f * Input can be delayed 12f * Combo from 1st hit with 12f delay"
     },
     {
         "command": "ws4",
@@ -947,7 +977,7 @@
         "block": "+8",
         "hit": "+35a (+27)",
         "counter hit": "",
-        "notes": "* Balcony Break* Chip damage (6)* Effective minimum startup 30f"
+        "notes": "* Balcony Break * Chip damage (6) * Effective minimum startup 30f"
     },
     {
         "command": "SS.3",
@@ -987,7 +1017,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Buffer window 2~9f (3~9f from SWA)* Sidestep can be buffered with u* DPD attacks can be buffered* While standing attacks can be buffered* Cancel to r1 block from 10f with bHigh crush 1~30"
+        "notes": "* Buffer window 2~9f (3~9f from SWA) * Sidestep can be buffered with u * DPD attacks can be buffered * While standing attacks can be buffered * Cancel to r1 block from 10f with b High crush 1~30"
     },
     {
         "command": "qcf+1",
@@ -1007,7 +1037,7 @@
         "block": "-17",
         "hit": "+26a (-10) FDFA",
         "counter hit": "",
-        "notes": "Heat EngagerBalcony Break* H.CS.2 with Heat* Clean Hit range 2.3* 30 damage without Clean Hit"
+        "notes": "Heat Engager Balcony Break * H.CS.2 with Heat * Clean Hit range 2.3 * 30 damage without Clean Hit"
     },
     {
         "command": "qcf+3",
@@ -1017,7 +1047,7 @@
         "block": "-14c",
         "hit": "+0",
         "counter hit": "+20a",
-        "notes": "* Clean hit range 2.0* 17 damage on hit without Clean Hit* +7 on CH without Clean HitHigh crush 7~40"
+        "notes": "* Clean hit range 2.0 * 17 damage on hit without Clean Hit * +7 on CH without Clean Hit High crush 7~40"
     },
     {
         "command": "qcf+1+2",
@@ -1027,7 +1057,7 @@
         "block": "-12c",
         "hit": "+71a (+55)",
         "counter hit": "",
-        "notes": "* Cancel to t41 FC with BHigh crush 1~33"
+        "notes": "* Cancel to t41 FC with B High crush 1~33"
     },
     {
         "command": "qcf+3+4",
@@ -1037,7 +1067,17 @@
         "block": "-9",
         "hit": "+35a (+27)",
         "counter hit": "+74a (+58)",
-        "notes": "* Tornado* Balcony Break* High Evasion (brief)Low crush 19~39"
+        "notes": "* Tornado * Balcony Break * High Evasion (brief) Low crush 19~39"
+    },
+    {
+        "command": "DPD.df+1",
+        "hit level": "h",
+        "damage": "19",
+        "startup": "i17",
+        "block": "-1",
+        "hit": "+59a",
+        "counter hit": "",
+        "notes": "* Tailspin * Homing * Effective minimum startup 29f"
     },
     {
         "command": "DPD.df+2",
@@ -1047,17 +1087,17 @@
         "block": "-10",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Balcony Break* Elbow* Effective minimum startup 24f"
+        "notes": "* Balcony Break * Elbow * Effective minimum startup 24f"
     },
     {
         "command": "DPD.df+2,1",
         "hit level": "m, h",
         "damage": "10, 30",
         "startup": "i14, i18~19",
-        "block": "-5",
+        "block": "+4",
         "hit": "+23d",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Wall Crush +7g* Move can be delayed 10f* Input can be delayed 17f* Combo from 1st hit with 10f delay"
+        "notes": "* Tornado * Balcony Break * Move can be delayed 10f * Input can be delayed 17f * Combo from 1st hit with 10f delay"
     },
     {
         "command": "DPD.df+2,3",
@@ -1067,17 +1107,17 @@
         "block": "-13c",
         "hit": "+10d FDFA",
         "counter hit": "+46a",
-        "notes": "* Spike* Move can be delayed 10f* Input can be delayed 17f* Combo from 1st hit with 6f delay"
+        "notes": "* Spike * Move can be delayed 10f * Input can be delayed 17f * Combo from 1st hit with 6f delay"
     },
     {
         "command": "DPD.df+4",
         "hit level": "L",
-        "damage": "18",
+        "damage": "17",
         "startup": "i17",
-        "block": "-12c",
-        "hit": "0",
-        "counter hit": "",
-        "notes": "* Effective minimum startup 27fHigh crush 1~"
+        "block": "-13",
+        "hit": "+3",
+        "counter hit": "+24d",
+        "notes": "* Effective minimum startup 27f * Clean Hit range 1 * Damage without clean hit 20"
     },
     {
         "command": "DPD.df+3+4",
@@ -1087,7 +1127,7 @@
         "block": "-49d",
         "hit": "-9d (-24)",
         "counter hit": "",
-        "notes": "* Effective minimum startup 28f* t112 on hit* Deals recoverable damage to selfLow crush 16~35 fs36~62 FDFA 63~92"
+        "notes": "* Effective minimum startup 28f * t112 on hit * Deals recoverable damage to self Low crush 16~35 fs36~62 FDFA 63~92"
     },
     {
         "command": "OTG.d+2",
@@ -1097,7 +1137,7 @@
         "block": "-12c",
         "hit": "-1d (-9)",
         "counter hit": "",
-        "notes": "* Spike* +4 on hit against standing opponent"
+        "notes": "* Spike * +4 on hit against standing opponent"
     },
     {
         "command": "qcb+1",
@@ -1117,7 +1157,7 @@
         "block": "-9",
         "hit": "+39d (-19)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Clean Hit range 2.45* Heat Dash disables Clean Hit* 21 damage without Clean Hit"
+        "notes": "* Heat Engager * Heat Dash +5, +36a (+26) * Clean Hit range 2.45 * Heat Dash disables Clean Hit * 21 damage without Clean Hit"
     },
     {
         "command": "qcb+3",
@@ -1147,7 +1187,7 @@
         "block": "-5",
         "hit": "+21d (-5)",
         "counter hit": "",
-        "notes": "* Tornado*Wall Crush +7g* Combo from 1st CH +63a (+47) T!"
+        "notes": "* Tornado * Combo from 1st CH +63a (+47) T!"
     },
     {
         "command": "qcb+3,2,3",
@@ -1157,17 +1197,17 @@
         "block": "-13c",
         "hit": "+10d FDFA",
         "counter hit": "+46a",
-        "notes": "* Spike* Combo from 1st CH +15d (-20) FDFA* Move can be delayed 10f* Input can be delayed 17f"
+        "notes": "* Spike * Combo from 1st CH +15d (-20) FDFA * Move can be delayed 10f * Input can be delayed 17f"
     },
     {
         "command": "qcb+4",
         "hit level": "h",
-        "damage": "20",
+        "damage": "17",
         "startup": "i15~16",
         "block": "+1",
         "hit": "+23d (+14)",
         "counter hit": "+59a",
-        "notes": "* Homing* Chip damage (6)"
+        "notes": "* Homing * Chip damage (6)"
     },
     {
         "command": "qcb+1+2",
@@ -1177,7 +1217,17 @@
         "block": "-14",
         "hit": "+37a (+27)",
         "counter hit": "",
-        "notes": "* Tornado* High evasion"
+        "notes": "* Tornado * High evasion"
+    },
+    {
+        "command": "H.f,F+2,1+2",
+        "hit level": "m, m",
+        "damage": "14, 31",
+        "startup": "i15~17, i29~30",
+        "block": "+1",
+        "hit": "+25a (-1)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Consumes 300F of Heat * Combos from 1st hit * Jails from 1st hit * 7 chip damage"
     },
     {
         "command": "1+3",
@@ -1187,7 +1237,7 @@
         "block": "-6",
         "hit": "+1d FUFA",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2* Side switch"
+        "notes": "* Homing * Throw break 1 or 2 * Side switch"
     },
     {
         "command": "2+4",
@@ -1197,7 +1247,7 @@
         "block": "-3",
         "hit": "+1d FUFA",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2* Side switch"
+        "notes": "* Homing * Throw break 1 or 2 * Side switch"
     },
     {
         "command": "2+4~b",
@@ -1207,7 +1257,7 @@
         "block": "-2",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Homing* Throw break 2"
+        "notes": "* Homing * Throw break 2"
     },
     {
         "command": "Back Throw.1+3",
@@ -1227,7 +1277,7 @@
         "block": "",
         "hit": "+1d FDFA",
         "counter hit": "",
-        "notes": "* Spike* Throw cannot be broken"
+        "notes": "* Spike * Throw cannot be broken"
     },
     {
         "command": "FC.1+2",
@@ -1237,7 +1287,7 @@
         "block": "-5 BT",
         "hit": "+3d",
         "counter hit": "",
-        "notes": "* Throw break 1+2* Transition to Takedown on hit"
+        "notes": "* Throw break 1+2 * Transition to Takedown on hit"
     },
     {
         "command": "FC.1+2,2,1,2,1",
@@ -1247,7 +1297,7 @@
         "block": "",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Throw break 1 or 2* Alternate input 1,2,1,2"
+        "notes": "* Throw break 1 or 2 * Alternate input 1,2,1,2"
     },
     {
         "command": "FC.1+2,2,d+1,1,1+2",
@@ -1257,7 +1307,7 @@
         "block": "",
         "hit": "+0d FDFA",
         "counter hit": "",
-        "notes": "* Throw break 1* Transition to Arm Breaker with 1+2 after third hit"
+        "notes": "* Throw break 1 * Transition to Arm Breaker with 1+2 after third hit"
     },
     {
         "command": "FC.1+2,1+2,1+2",
@@ -1287,7 +1337,7 @@
         "block": "-3",
         "hit": "-2d FUFA",
         "counter hit": "",
-        "notes": "* Throw break 2* Side switch"
+        "notes": "* Throw break 2 * Side switch"
     },
     {
         "command": "b+1+4",
@@ -1297,7 +1347,7 @@
         "block": "-2",
         "hit": "+6d FUFA",
         "counter hit": "",
-        "notes": "* Throw break 1* Side switch"
+        "notes": "* Throw break 1 * Side switch"
     },
     {
         "command": "df+1+3",
@@ -1317,7 +1367,7 @@
         "block": "",
         "hit": "+16d (-20) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat* Strict qcf input required (d,f does not work)* Perfect input window 55-56f"
+        "notes": "* Balcony Break * Consumes Heat * Strict qcf input required (d,f does not work) * Perfect input window 55-56f"
     },
     {
         "command": "df+1+3,qcf+2",
@@ -1327,7 +1377,7 @@
         "block": "",
         "hit": "+16d (-20) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* H.df+1+3,qcf+2 with Heat* Strict qcf input required (d,f does not work)* Perfect input window 55-56f* Perfect input increases damage, wall carry"
+        "notes": "* Balcony Break * H.df+1+3,qcf+2 with Heat * Strict qcf input required (d,f does not work) * Perfect input window 55-56f * Perfect input increases damage, wall carry"
     },
     {
         "command": "df+1+3:H.qcf+2",
@@ -1337,7 +1387,7 @@
         "block": "",
         "hit": "+16d (-20) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* Consumes Heat* Strict qcf input required (d,f does not work)* Perfect input window 55-56f* Perfect input increases damage, wall carry"
+        "notes": "* Balcony Break * Consumes Heat * Strict qcf input required (d,f does not work) * Perfect input window 55-56f * Perfect input increases damage, wall carry"
     },
     {
         "command": "df+1+3:qcf+2",
@@ -1347,7 +1397,7 @@
         "block": "",
         "hit": "+16d (-20) FDFA",
         "counter hit": "",
-        "notes": "* Balcony Break* H.df+1+3:qcf+2 with Heat* Strict qcf input required (d,f does not work)* Perfect input window 55-56f* Perfect input increases damage, wall carry"
+        "notes": "* Balcony Break * H.df+1+3:qcf+2 with Heat * Strict qcf input required (d,f does not work) * Perfect input window 55-56f * Perfect input increases damage, wall carry"
     },
     {
         "command": "f,F+1+2",
@@ -1357,7 +1407,7 @@
         "block": "+0 BT/+0 FUFA",
         "hit": "+20d",
         "counter hit": "",
-        "notes": "* Balcony Break* Throw break 1+2* Side switch if broken* +0 FUFA if broken at wall"
+        "notes": "* Balcony Break * Throw break 1+2 * Side switch if broken * +0 FUFA if broken at wall"
     },
     {
         "command": "uf+1+2",
@@ -1367,6 +1417,6 @@
         "block": "-6",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Spike* Throw break 1+2"
+        "notes": "* Spike * Throw break 1+2"
     }
 ]

@@ -2,12 +2,12 @@
     {
         "command": "2+3",
         "hit level": "m",
-        "damage": "12 (12)",
+        "damage": "[12;12]",
         "startup": "i16",
         "block": "+1",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat BurstPower crush"
+        "notes": "* Heat Burst * Cancel to r45 with b,b on frame 42 * 2 chip damage on block * 12 chip damage on hit * Only deals recoverable damage * Cannot cause a K.O. Power crush 7~16"
     },
     {
         "command": "H.df+2+3",
@@ -17,7 +17,7 @@
         "block": "+5",
         "hit": "+39 (+29)",
         "counter hit": "",
-        "notes": "* Partially uses remaining heat time* H.f,n,d,df+2 to power up"
+        "notes": "* Partially uses remaining heat time * H.f,n,d,df+2 to power up"
     },
     {
         "command": "H.df+2+3*",
@@ -27,7 +27,7 @@
         "block": "+9",
         "hit": "+45 (+35)",
         "counter hit": "",
-        "notes": "* Partially uses remaining heat time* H.f,n,d,df+2* to power up* Cannot absorb with power crush"
+        "notes": "* Partially uses remaining heat time * H.f,n,d,df+2* to power up * Cannot absorb with power crush"
     },
     {
         "command": "H.f,f,F+1+2",
@@ -37,17 +37,17 @@
         "block": "+3",
         "hit": "+35d (-23)",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Chip damage* Transition to HBS with input D or 3+4 (does not shift when using Heat Dash)Low crush  21F"
+        "notes": "* Balcony Break * Heat Engager * Chip damage * Transition to HBS with input D or 3+4 (does not shift when using Heat Dash) Low crush 21F"
     },
     {
         "command": "H.2+3",
-        "hit level": "m",
+        "hit level": "M,M",
         "damage": "51",
         "startup": "i13~15",
-        "block": "+10",
-        "hit": "+33 (+23)",
+        "block": "0",
+        "hit": "+33a (+23)",
         "counter hit": "",
-        "notes": "* Heat Smash"
+        "notes": "* Heat Smash * Balcony Break * 10 chip damage"
     },
     {
         "command": "R.df+1+2",
@@ -57,7 +57,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -67,7 +67,7 @@
         "block": "+1",
         "hit": "+8",
         "counter hit": "",
-        "notes": ""
+        "notes": "Recovers 2f faster on hit or block (t27 r17)"
     },
     {
         "command": "1,1",
@@ -77,7 +77,7 @@
         "block": "-15",
         "hit": "-4c",
         "counter hit": "",
-        "notes": "* Combo from 1st hit CH"
+        "notes": "* Combo from 1st hit CH with 2F delay * Move can be delayed by 3F"
     },
     {
         "command": "1,1,1",
@@ -87,7 +87,7 @@
         "block": "-16",
         "hit": "+69a (+23)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 2nd hit* Combo from 1st CH"
+        "notes": "* Tornado * Combo from 2nd hit * Combo from 1st CH"
     },
     {
         "command": "1,2",
@@ -97,7 +97,7 @@
         "block": "-5",
         "hit": "+11 (+2)",
         "counter hit": "",
-        "notes": "* Balcony Break* chip damage on block* Jail from 1st hit* Combo from 1st CH"
+        "notes": "* Balcony Break * Jail from 1st hit * Combo from 1st CH with 3F delay * 10 chip damage on block"
     },
     {
         "command": "1+3+4",
@@ -127,7 +127,7 @@
         "block": "-3",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Combo from 1st hit"
+        "notes": "* Combo from 1st hit with 2F delay * +2c on crouching hit"
     },
     {
         "command": "2,1,2",
@@ -147,7 +147,27 @@
         "block": "-13",
         "hit": "-2",
         "counter hit": "",
-        "notes": "* Combo from 1st CH"
+        "notes": "* Combo from 2nd CH"
+    },
+    {
+        "command": "3",
+        "hit level": "h",
+        "damage": "25",
+        "startup": "i18",
+        "block": "-5",
+        "hit": "+21a (+11)",
+        "counter hit": "",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "4",
+        "hit level": "h",
+        "damage": "20",
+        "startup": "i14",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "+30a",
+        "notes": "* Balcony Break on CH"
     },
     {
         "command": "1+2",
@@ -155,9 +175,9 @@
         "damage": "25",
         "startup": "i13~14",
         "block": "-13",
-        "hit": "+18g / HE",
+        "hit": "+18g",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager"
+        "notes": "* Balcony Break * Heat Engager * Forces crouch on hit"
     },
     {
         "command": "3+4",
@@ -167,7 +187,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternate input: FDFA.3+4* Can low parry in HBS with HBS.F* Transition to HBS* Transition to standing with input ub or u or uf"
+        "notes": "* Alternate input: FDFA.3+4 * Transition to HBS High crush 4~"
     },
     {
         "command": "3+4",
@@ -177,7 +197,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternate input: FDFA.3+4* Transition to HBS"
+        "notes": "* Alternate input: FDFA.3+4 * Can low parry in HBS with HBS.F * Transition to HBS * Transition to standing with input ub or u or uf"
     },
     {
         "command": "f+2",
@@ -197,7 +217,27 @@
         "block": "-5",
         "hit": "+36a (+10)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit"
+        "notes": "* Balcony Break * Combo from 1st hit with 9F delay * Move can be delayed by 13F"
+    },
+    {
+        "command": "f+3",
+        "hit level": "h",
+        "damage": "30",
+        "startup": "i20",
+        "block": "-5",
+        "hit": "+21a (+11)",
+        "counter hit": "",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "f+4",
+        "hit level": "h",
+        "damage": "22",
+        "startup": "i15",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "+30a",
+        "notes": "* Balcony Break on CH"
     },
     {
         "command": "f+1+2",
@@ -211,33 +251,33 @@
     },
     {
         "command": "f+1+2,1+2",
-        "hit level": "m, m",
+        "hit level": "m, M",
         "damage": "16, 20",
         "startup": "i18, i30~31",
         "block": "-14",
         "hit": "+65a (+49)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 1st hit"
+        "notes": "* Tornado * Combo from 1st hit * Grounded hit on off-axis hit against large body size characters?"
     },
     {
         "command": "f+3+4",
-        "hit level": "l",
+        "hit level": "L",
         "damage": "20",
         "startup": "i28~30",
         "block": "-23",
         "hit": "+6a",
         "counter hit": "",
-        "notes": "High crush"
+        "notes": "High crush 6~"
     },
     {
         "command": "f+3+4,1+2",
-        "hit level": "l, m",
-        "damage": "20",
+        "hit level": "L, M",
+        "damage": "20, 30 (24)",
         "startup": "i28~30, i50~i60",
         "block": "-16",
         "hit": "-13a",
         "counter hit": "",
-        "notes": "High crush"
+        "notes": "24 damage from 1st hit with grounded scaling High crush 0~"
     },
     {
         "command": "df+1",
@@ -261,13 +301,13 @@
     },
     {
         "command": "df+1,2,1+2",
-        "hit level": "m, m, m",
+        "hit level": "m, m, M",
         "damage": "6, 9, 20",
         "startup": "i15~16, ,i25~26",
         "block": "-14c",
         "hit": "+17d",
         "counter hit": "",
-        "notes": "* Combo from 2nd hit* Combo from 1st CH* Can be delayed 10F* Combo can be delayed 10F from hit"
+        "notes": "* Combo from 2nd hit with 9F delay * Combo from 1st CH * Move can be delayed by 8F * Input can be delayed by 10F"
     },
     {
         "command": "df+2",
@@ -287,7 +327,7 @@
         "block": "-16",
         "hit": "+35a (+25)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit"
+        "notes": "* Combo from 1st hit with 4F delay * Input can be delayed by 4F * Move cannot be delayed"
     },
     {
         "command": "df+3",
@@ -297,7 +337,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "",
-        "notes": ""
+        "notes": "* +2c on crouching hit"
     },
     {
         "command": "df+3,2",
@@ -307,7 +347,7 @@
         "block": "-5",
         "hit": "+22a",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* chip damage on block"
+        "notes": "* Balcony Break on airborne hit * Combo from 1st hit * 9 chip damage on block"
     },
     {
         "command": "df+4",
@@ -320,14 +360,54 @@
         "notes": ""
     },
     {
+        "command": "d+1",
+        "hit level": "sl",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Transition to Standing with f High crush 4~"
+    },
+    {
+        "command": "d+2",
+        "hit level": "sl",
+        "damage": "8",
+        "startup": "i11",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "d+3",
+        "hit level": "L",
+        "damage": "12",
+        "startup": "i20",
+        "block": "-17",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "d+4",
+        "hit level": "l",
+        "damage": "10",
+        "startup": "i16",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
         "command": "d+1+2",
-        "hit level": "m",
-        "damage": "28",
+        "hit level": "M",
+        "damage": "23",
         "startup": "i14~15",
         "block": "-15",
-        "hit": "+20d (+10)",
+        "hit": "+13d (+3)",
         "counter hit": "",
-        "notes": "* Balcony Break"
+        "notes": "* Balcony Break * 27 damage on clean hit"
     },
     {
         "command": "d+3+4",
@@ -337,7 +417,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to SIT* Transition to ROL with input f"
+        "notes": "* Alternative input: db+3+4 * Transition to ROL with input SIT.F * Transition to California Roll with input SIT.B"
     },
     {
         "command": "d+3+4",
@@ -347,7 +427,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternative input: db+3+4* Transition to ROL with input SIT.F* Transition to California Roll with input SIT.B"
+        "notes": "* Transition to SIT * Transition to ROL with input f"
     },
     {
         "command": "db+1",
@@ -361,37 +441,37 @@
     },
     {
         "command": "db+1,2",
-        "hit level": "h, m",
+        "hit level": "h, M",
         "damage": "11, 20",
-        "startup": "i14~15, i17~18",
+        "startup": "i14~15, i22~23",
         "block": "-13",
         "hit": "+4",
         "counter hit": "+13c",
-        "notes": "* Combo from 1st hit* Hold 2 to power up, up to 2 charge levels* Transition to HBS with input D or 3+4"
+        "notes": "* Spike * Combo from 1st hit * Hold 2 to power up, up to 2 charge levels * Transition to HBS with input D or 3+4"
     },
     {
         "command": "db+1,2*",
-        "hit level": "h, m",
+        "hit level": "h, M",
         "damage": "11, 20",
-        "startup": "i14~15, i34~35",
+        "startup": "i14~15, i33~34",
         "block": "-12",
         "hit": "+13c",
         "counter hit": "+42a",
-        "notes": "* chip damage on block* Heat skips to Level 2 charge* Transition to HBS with input D or 3+4"
+        "notes": "* Spike * chip damage on block * Heat skips to Level 2 charge * Transition to HBS with input D or 3+4"
     },
     {
         "command": "db+1,2**",
-        "hit level": "h, m",
+        "hit level": "h, M",
         "damage": "11, 30",
         "startup": "i14~15, i47~48",
         "block": "+3",
         "hit": "+42a",
         "counter hit": "",
-        "notes": "* chip damage on block* Cannot absorb with power crush* Heat reduces charge length (consumes partial Heat time)* Transition to HBS with input D or 3+4"
+        "notes": "* Spike * chip damage on block * Cannot absorb with power crush * Heat reduces charge length (consumes partial Heat time) * Transition to HBS with input D or 3+4"
     },
     {
         "command": "db+2",
-        "hit level": "l",
+        "hit level": "L",
         "damage": "10",
         "startup": "i18",
         "block": "-15 / -17 HBS",
@@ -417,11 +497,11 @@
         "block": "-23",
         "hit": "+6",
         "counter hit": "+74a (+38)",
-        "notes": "* TornadoHigh crush 6~"
+        "notes": "* Tornado High crush 6~"
     },
     {
         "command": "db+1+2",
-        "hit level": "mm",
+        "hit level": "m,m",
         "damage": "4,4",
         "startup": "i14~15",
         "block": "-9",
@@ -431,7 +511,7 @@
     },
     {
         "command": "db+1+2,1+2",
-        "hit level": "mm, mm",
+        "hit level": "m,m, m,m",
         "damage": "4,4, 4,4",
         "startup": "i14~15, i15~16",
         "block": "-11",
@@ -441,7 +521,7 @@
     },
     {
         "command": "db+1+2,1+2,2",
-        "hit level": "mm, mm, m",
+        "hit level": "m,m, m,m, m",
         "damage": "4,4, 4,4, 18",
         "startup": "i14~15, ,i20~21",
         "block": "-15",
@@ -457,7 +537,7 @@
         "block": "-12",
         "hit": "+39a",
         "counter hit": "",
-        "notes": "* Hold 2+3 to power up, up to 2 charge levels and deal more chip damage on block"
+        "notes": "* Balcony Break on airborne hit * Hold 2+3 to power up, up to 2 charge levels and deal more chip damage on block"
     },
     {
         "command": "db+2+3*",
@@ -467,7 +547,7 @@
         "block": "-12",
         "hit": "+39a",
         "counter hit": "",
-        "notes": "* chip damage on block"
+        "notes": "* Balcony Break on airborne hit * chip damage on block"
     },
     {
         "command": "db+2+3**",
@@ -477,17 +557,17 @@
         "block": "-4",
         "hit": "+43a",
         "counter hit": "",
-        "notes": "* chip damage on block"
+        "notes": "* Balcony Break on airborne hit * chip damage on block"
     },
     {
         "command": "b+1",
-        "hit level": "m",
+        "hit level": "M",
         "damage": "24",
         "startup": "i22~23",
         "block": "-13",
         "hit": "+13a",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Transition to HBS with input D or 3+4 (does not shift when using Heat Dash)Power crush"
+        "notes": "* Balcony Break * Transition to -13 HBS with input D or 3+4 * 9 chip damage on block * 12 chip damage on block after absorbing an attack in power crush state * -3 on block after absorbing an attack in power crush state Power crush 7~21"
     },
     {
         "command": "b+2",
@@ -507,7 +587,7 @@
         "block": "-3 / - 4 HBS / -14 ROL",
         "hit": "+8 / +7 HBS / -3 ROL",
         "counter hit": "",
-        "notes": "* Transition to HBS with input D or 3+4* Transition to ROL with input F"
+        "notes": "* Transition to HBS with input D or 3+4 * Transition to ROL with input F"
     },
     {
         "command": "b+2,1,1+2",
@@ -537,7 +617,7 @@
         "block": "-15",
         "hit": "+25a (+15)",
         "counter hit": "",
-        "notes": "* Tornado* Does not tornado on wall hit"
+        "notes": "* Tornado * Does not tornado on wall hit"
     },
     {
         "command": "b+1+2",
@@ -547,7 +627,7 @@
         "block": "-8",
         "hit": "+13d / HE",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Homing* chip damage* Transition to HBS with input D or 3+4 (does not shift when using Heat Dash)"
+        "notes": "* Balcony Break * Heat Engager * Homing * chip damage * Transition to HBS with input D or 3+4 (does not shift when using Heat Dash)"
     },
     {
         "command": "b+1+4",
@@ -567,7 +647,7 @@
         "block": "-20~+55",
         "hit": "+42a~+117a",
         "counter hit": "",
-        "notes": "* Hold F to extend attack* Recovers in FUFT on hit or block* If attack is extended to where you roll past the opponent, recovers in FUFA"
+        "notes": "* Hold F to extend attack * Recovers in FUFT on hit or block * If attack is extended to where you roll past the opponent, recovers in FUFA"
     },
     {
         "command": "b+3+4",
@@ -577,7 +657,7 @@
         "block": "-28",
         "hit": "+61a",
         "counter hit": "",
-        "notes": "* Alternate input: ws3+4* Tornado"
+        "notes": "* Alternate input: ws3+4 * Tornado"
     },
     {
         "command": "ub+1+2",
@@ -617,17 +697,17 @@
         "block": "-6",
         "hit": "+22a",
         "counter hit": "",
-        "notes": "* Alternate input: ub+1 or u+1* chip damage on block"
+        "notes": "* Alternate input: ub+1 or u+1 * chip damage on block"
     },
     {
         "command": "uf+2",
         "hit level": "m",
-        "damage": "27",
+        "damage": "20",
         "startup": "i28~30",
         "block": "-6",
         "hit": "+30a",
         "counter hit": "+65a (+45)",
-        "notes": "* Balcony Break* Homing* Tailspin* Alternate input: ub+2 or u+2"
+        "notes": "* Balcony Break * Homing * Tailspin * Alternate input: ub+2 or u+2"
     },
     {
         "command": "uf+3",
@@ -647,7 +727,7 @@
         "block": "-11",
         "hit": "+30a (+20) / +21a (+14)",
         "counter hit": "",
-        "notes": "Less frame advantage occurs after Combo from last hitLow crush"
+        "notes": "Less frame advantage occurs after Combo from last hit Low crush"
     },
     {
         "command": "uf+3,4,1+2",
@@ -657,7 +737,7 @@
         "block": "-15",
         "hit": "+16a / -2a",
         "counter hit": "",
-        "notes": "* Spike* Transition to HBS with input D or 3+4* Less frame advantage occurs after Combo from last hit"
+        "notes": "* Spike * Transition to HBS with input D or 3+4 * Less frame advantage occurs after Combo from last hit"
     },
     {
         "command": "uf+4",
@@ -667,7 +747,7 @@
         "block": "-6",
         "hit": "-10a (-20)",
         "counter hit": "",
-        "notes": "* Balcony BreakLow crush"
+        "notes": "* Balcony Break Low crush"
     },
     {
         "command": "uf+4,3",
@@ -677,7 +757,7 @@
         "block": "+7",
         "hit": "+21a (+14)",
         "counter hit": "",
-        "notes": "* Balcony Break* Only connects on hit or block* Recovers in FUFTLow crush"
+        "notes": "* Balcony Break * Only connects on hit or block * Recovers in FUFT Low crush"
     },
     {
         "command": "1+2+3+4",
@@ -697,13 +777,13 @@
         "block": "-5",
         "hit": "+17a (+8)",
         "counter hit": "+62a (+42)",
-        "notes": "* Balcony BreakTailspin* Chip damage on block"
+        "notes": "* Balcony Break Tailspin * Chip damage on block"
     },
     {
         "command": "d,df,f+2",
         "hit level": "m",
         "damage": "15",
-        "startup": "i18~19",
+        "startup": "i17~18",
         "block": "-8",
         "hit": "+3",
         "counter hit": "",
@@ -713,17 +793,17 @@
         "command": "d,df,f+2,1",
         "hit level": "m, m",
         "damage": "15, 25",
-        "startup": "i18~19, i27",
-        "block": "-14",
-        "hit": "+29a (+3)",
+        "startup": "i17~18, i27",
+        "block": "-10",
+        "hit": "+33a (+7)",
         "counter hit": "",
-        "notes": "* Balcony Break"
+        "notes": "* Heat Engager * Heat Dash +36a (+26) * Balcony Break * Combos from 1st hit"
     },
     {
         "command": "d,df,f+2,2",
         "hit level": "m, l",
         "damage": "15, 22",
-        "startup": "i18~19, i33~34",
+        "startup": "i17~18, i33~34",
         "block": "-18",
         "hit": "+40a",
         "counter hit": "",
@@ -747,7 +827,7 @@
         "block": "+8 HBS / +5 ROL",
         "hit": "52a HBS / +49a ROL",
         "counter hit": "",
-        "notes": "* Chip damage* Transition to HBS (cannot cancel into standing)* Transition to ROL with input F"
+        "notes": "* Chip damage * Transition to HBS (cannot cancel into standing) * Transition to ROL with input F"
     },
     {
         "command": "f,f,F+3",
@@ -757,7 +837,7 @@
         "block": "+6",
         "hit": "+13a (+3)",
         "counter hit": "",
-        "notes": "* Balcony Break* Chip damage on block"
+        "notes": "* Balcony Break * Chip damage on block"
     },
     {
         "command": "f,f,F+1+2",
@@ -767,7 +847,7 @@
         "block": "+3",
         "hit": "+35d (-23)",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Chip damage* Transition to HBS with input D or 3+4 (does not shift when using Heat Dash)Low crush  21F"
+        "notes": "* Balcony Break * Heat Engager * Chip damage * Transition to HBS with input D or 3+4 (does not shift when using Heat Dash) Low crush 21F"
     },
     {
         "command": "ws1",
@@ -787,17 +867,17 @@
         "block": "-13",
         "hit": "+6 (+20g)",
         "counter hit": "+18",
-        "notes": "* Hold 2 to power up, up to 2 charge levels* Transition to HBS with input D or 3+4* Tornado* Wall Crush  +20g on hit* Wallsplat on CH"
+        "notes": "* Hold 2 to power up, up to 2 charge levels * Transition to HBS with input D or 3+4 * Tornado * Wall Crush +20g on hit * Wallsplat on CH"
     },
     {
         "command": "ws1,2*",
         "hit level": "m, m",
         "damage": "13, 28",
-        "startup": "i13~15, i35",
+        "startup": "i13~15, i33",
         "block": "-12",
         "hit": "+18c",
         "counter hit": "+33a (-2)",
-        "notes": "* Heat skips to Level 2 charge* Transition to HBS with input D or 3+4* Balcony Break* Tornado"
+        "notes": "* Heat skips to Level 2 charge * Transition to HBS with input D or 3+4 * Balcony Break * Tornado"
     },
     {
         "command": "ws1,2**",
@@ -807,7 +887,7 @@
         "block": "+3",
         "hit": "+27a (-9)",
         "counter hit": "",
-        "notes": "* Transition to HBS with input D or 3+4* Balcony Break* Tornado* chip damage on block* Cannot absorb with power crush* Heat reduces charge length (consumes partial Heat time)"
+        "notes": "* Transition to HBS with input D or 3+4 * Balcony Break * Tornado * chip damage on block * Cannot absorb with power crush * Heat reduces charge length (consumes partial Heat time)"
     },
     {
         "command": "ws2",
@@ -827,7 +907,7 @@
         "block": "-9",
         "hit": "+17 (+8)",
         "counter hit": "",
-        "notes": "* Balcony Break* Homing"
+        "notes": "* Balcony Break * Homing"
     },
     {
         "command": "ws4",
@@ -844,10 +924,10 @@
         "hit level": "m",
         "damage": "23",
         "startup": "i22~23",
-        "block": "-9c",
-        "hit": "+11d",
+        "block": "-3",
+        "hit": "+6c",
         "counter hit": "",
-        "notes": ""
+        "notes": "* 9 chip damage * Transition to +12 +3 HBS with D"
     },
     {
         "command": "FC.1",
@@ -867,7 +947,7 @@
         "block": "+1~+6 / -6~-1 HBS",
         "hit": "+7~+12 / 0~+5 HBS",
         "counter hit": "",
-        "notes": "* Transition to ROL* becomes special mid attack during Heat (partially uses remaining Heat time)"
+        "notes": "* Transition to ROL * becomes special mid attack during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "FDFA.1+2",
@@ -922,12 +1002,12 @@
     {
         "command": "HBS.1,2*",
         "hit level": "m, m",
-        "damage": "10, 20",
+        "damage": "10, 23",
         "startup": "i12~13, i33~34",
         "block": "-12",
         "hit": "+13c",
         "counter hit": "+49a",
-        "notes": "* chip damage on block* Heat skips to Level 2 charge"
+        "notes": "* chip damage on block * Heat skips to Level 2 charge"
     },
     {
         "command": "HBS.1,2**",
@@ -937,17 +1017,17 @@
         "block": "+3",
         "hit": "+49a",
         "counter hit": "",
-        "notes": "* chip damage on block* Cannot absorb with power crush* Heat reduces charge length (consumes partial Heat time)"
+        "notes": "* chip damage on block * Cannot absorb with power crush * Heat reduces charge length (consumes partial Heat time)"
     },
     {
         "command": "HBS.2",
-        "hit level": "l",
+        "hit level": "L",
         "damage": "16",
         "startup": "i21~24",
         "block": "-15",
         "hit": "+21g",
         "counter hit": "",
-        "notes": "* Transition to HBS"
+        "notes": "* Transition to HBS High crush 1~"
     },
     {
         "command": "HBS.3",
@@ -957,7 +1037,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to FUFA* Alternative input: HBS.4 (HBS.3 is into background, HBS.4 is into foreground)"
+        "notes": "* Transition to FUFA * Alternative input: HBS.4 (HBS.3 is into background, HBS.4 is into foreground)"
     },
     {
         "command": "HBS.1+2",
@@ -973,11 +1053,11 @@
         "command": "HBS.3+4",
         "hit level": "m",
         "damage": "21",
-        "startup": "i25~30",
-        "block": "-12",
-        "hit": "-2a (-11)",
+        "startup": "i20~24",
+        "block": "-14",
+        "hit": "+9a (-1)",
         "counter hit": "",
-        "notes": "* Balcony BreakPower crush 8~"
+        "notes": "* Heat Engager * Heat Dash +43d (+35) * Balcony Break Power crush 7~"
     },
     {
         "command": "HBS.b,b",
@@ -987,15 +1067,15 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternate input: SIT.B* Transition to HBS with input D or 3+4"
+        "notes": "* Alternate input: SIT.B * Transition to HBS with input D or 3+4"
     },
     {
         "command": "HBS.b+1+2",
         "hit level": "l",
         "damage": "16",
         "startup": "i26~29",
-        "block": "-25c",
-        "hit": "+14a",
+        "block": "-20c",
+        "hit": "+3c",
         "counter hit": "",
         "notes": "* Transition to HBS with input D or 3+4"
     },
@@ -1007,7 +1087,17 @@
         "block": "-29c",
         "hit": "+8a / -3a (-10)",
         "counter hit": "",
-        "notes": "* Balcony Break* Less frame advantage occurs after Combo from last hit"
+        "notes": "* Balcony Break * Less frame advantage occurs after Combo from last hit"
+    },
+    {
+        "command": "HBS.df+1",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i25~27",
+        "block": "-7",
+        "hit": "+20a (+11)",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break * Strong Aerial Tailspin * 9 chip damage"
     },
     {
         "command": "HBS.df+2",
@@ -1024,10 +1114,10 @@
         "hit level": "m",
         "damage": "22",
         "startup": "i16~20",
-        "block": "-9",
-        "hit": "0 / HE",
-        "counter hit": "",
-        "notes": "* Heat Engager* Transition to HBS (does not shift when using Heat Dash)"
+        "block": "-3",
+        "hit": "+4",
+        "counter hit": "+76(+60)",
+        "notes": "* Tornado * Transition to HBS * Tornado on CH only"
     },
     {
         "command": "HBS.d+3+4",
@@ -1047,7 +1137,7 @@
         "block": "+1~+6 / -6~-1 HBS",
         "hit": "+7~+12 / 0~+5 HBS",
         "counter hit": "",
-        "notes": "* Transition to ROL* Becomes Special Mid attack during Heat (partially uses remaining Heat time)"
+        "notes": "* Transition to ROL * Becomes Special Mid attack during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "HBS.f+3+4",
@@ -1057,7 +1147,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Alternate input: HBS.b+3+4* Transition to SIT"
+        "notes": "* Alternate input: HBS.b+3+4 * Transition to SIT"
     },
     {
         "command": "OTG.d+1+4",
@@ -1067,7 +1157,7 @@
         "block": "N/A",
         "hit": "8 (0) / +14",
         "counter hit": "",
-        "notes": "* Cancel into BT with input OTG.d+1+4,3+4* More frame advantage when hitting standing opponent"
+        "notes": "* Cancel into BT with input OTG.d+1+4,3+4 * More frame advantage when hitting standing opponent"
     },
     {
         "command": "ROL.1",
@@ -1077,7 +1167,7 @@
         "block": "+4",
         "hit": "+35d (+27)",
         "counter hit": "",
-        "notes": "* Balcony Break* Tornado* Power up during Heat (partially uses remaining Heat time)"
+        "notes": "* Balcony Break * Tornado * Power up during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "ROL.2",
@@ -1117,7 +1207,7 @@
         "block": "-30",
         "hit": "+45a",
         "counter hit": "",
-        "notes": "* Recovers in FUFT on hit* Recovers in off axis FUFT on block"
+        "notes": "* Recovers in FUFT on hit * Recovers in off axis FUFT on block"
     },
     {
         "command": "SIT.1",
@@ -1167,7 +1257,7 @@
         "block": "+1~+6 / -6~-1 HBS",
         "hit": "+7~+12 / 0~+5 HBS",
         "counter hit": "",
-        "notes": "* Alternative input: FC.3+4 or FDFA.f* Transition to ROL* Transition to HBS with input ROL.D or ROL.3+4* Becomes special mid attack during Heat (partially uses remaining Heat time)"
+        "notes": "* Alternative input: FC.3+4 or FDFA.f * Transition to ROL * Transition to HBS with input ROL.D or ROL.3+4 * Becomes special mid attack during Heat (partially uses remaining Heat time)"
     },
     {
         "command": "1+3",
@@ -1177,7 +1267,7 @@
         "block": "-3",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Throw break: 1 or 2* Opponent status on hit: FUFT"
+        "notes": "* Throw break: 1 or 2 * Opponent status on hit: FUFT"
     },
     {
         "command": "2+4",
@@ -1187,7 +1277,7 @@
         "block": "-6",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Throw break: 1 or 2* Opponent status on hit: FUFT* Side switch on hit"
+        "notes": "* Throw break: 1 or 2 * Opponent status on hit: FUFT * Side switch on hit"
     },
     {
         "command": "Back throw",
@@ -1197,17 +1287,17 @@
         "block": "",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Throw break: none* Opponent status on hit: FUFA"
+        "notes": "* Throw break: none * Opponent status on hit: FUFA"
     },
     {
         "command": "HBS.f+1+2",
         "hit level": "th(h)",
-        "damage": "35",
+        "damage": "30",
         "startup": "i26~27",
         "block": "",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Removes Recoverable Health* Spike* Throw break: none* Opponent status on hit: FUFA"
+        "notes": "* Removes Recoverable Health * Spike * Throw break: none * Opponent status on hit: FUFA"
     },
     {
         "command": "Left throw",
@@ -1217,7 +1307,7 @@
         "block": "-3",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Throw break: 1* Spike* Opponent status on hit: FUFT"
+        "notes": "* Throw break: 1 * Spike * Opponent status on hit: FUFT"
     },
     {
         "command": "Right throw",
@@ -1227,17 +1317,17 @@
         "block": "-3",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Throw break: 2* Opponent status on hit: FUFT off axis"
+        "notes": "* Throw break: 2 * Opponent status on hit: FUFT off axis"
     },
     {
-        "command": "f,df,d,db,b,f+1+2",
+        "command": "hcb,f+1+2",
         "hit level": "th(h)",
         "damage": "50",
         "startup": "i11",
         "block": "0",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* Throw break: 1+2* Opponent status on hit: FUFA* Side switch on hit"
+        "notes": "* Throw break: 1+2 * Opponent status on hit: FUFA * Side switch on hit"
     },
     {
         "command": "uf+1+2",
@@ -1247,6 +1337,6 @@
         "block": "0",
         "hit": "+26d (+7)",
         "counter hit": "",
-        "notes": "* Throw break: 1+2* Balcony Break* Opponent status on hit: FUFT"
+        "notes": "* Throw break: 1+2 * Balcony Break * Opponent status on hit: FUFT"
     }
 ]

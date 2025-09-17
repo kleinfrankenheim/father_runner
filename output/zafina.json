@@ -1,15 +1,5 @@
 [
     {
-        "command": "H.SCR.2+3",
-        "hit level": "L,m",
-        "damage": "10,20",
-        "startup": "i19",
-        "block": "-14",
-        "hit": "+44d (+25)",
-        "counter hit": "",
-        "notes": "* Heat Smash* Reversal Break* Balcony BreakHigh crush 6~"
-    },
-    {
         "command": "H.2+3",
         "hit level": "h,sm",
         "damage": "51",
@@ -17,7 +7,7 @@
         "block": "+3",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Heat Smash* Reversal Break* Balcony Break* Jail from 1st attack* Transition to attack throw on hit"
+        "notes": "* Heat Smash * Reversal Break * Balcony Break * Jail from 1st attack * 10 chip damage on block * Transition to attack throw on hit"
     },
     {
         "command": "R.df+1+2",
@@ -27,7 +17,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -57,7 +47,7 @@
         "block": "0",
         "hit": "+9",
         "counter hit": "",
-        "notes": "* Combo from 2nd hit CH with 8f delay* Move can be delayed 7f* Cancel SCR transition -9 +0 t71 r28 with B"
+        "notes": "* Combo from 2nd hit CH with 8f delay * Move can be delayed 7f * Cancel SCR transition -9 +0 t71 r28 with B"
     },
     {
         "command": "1,3",
@@ -67,7 +57,7 @@
         "block": "-2",
         "hit": "+7",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 3f delay* Jail from 1st attack with 1f delay* Move can be delayed 2f* Cancel SCR transition -8 +1 t55 r26 with B"
+        "notes": "* Combo from 1st hit with 3f delay * Jail from 1st attack with 1f delay * Move can be delayed 2f * Cancel SCR transition -8 +1 t55 r26 with B"
     },
     {
         "command": "1,4",
@@ -75,9 +65,9 @@
         "damage": "5, 17",
         "startup": "i10, i19",
         "block": "-5",
-        "hit": "+22g",
-        "counter hit": "+53a",
-        "notes": "* Tornado* Combo from 1st hit with 3f delay* Move can be delayed 1f"
+        "hit": "+8",
+        "counter hit": "+42a",
+        "notes": "* Tornado * Combo from 1st hit with 3f delay * Move can be delayed 1f"
     },
     {
         "command": "2",
@@ -97,7 +87,7 @@
         "block": "-6c",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Spike* Combo from 1st hit CH with 3f delay* Move can be delayed 1f"
+        "notes": "* Spike * Combo from 1st hit CH with 3f delay * Move can be delayed 1f"
     },
     {
         "command": "2,1,3",
@@ -107,7 +97,7 @@
         "block": "-17",
         "hit": "+4d",
         "counter hit": "",
-        "notes": "* Combo from 2nd hit CH with 1f delay* Input can be delayed 11f* Move can be delayed 10f* Cancel 3rd hit to MNT -17 -9 r25 with D&lt;div class=&quot;plainlist&quot;&gt;* fs6~31* High crush 32~69&lt;/div&gt;"
+        "notes": "* Combo from 2nd hit CH with 1f delay * Input can be delayed 11f * Move can be delayed 10f * Cancel 3rd hit to MNT -17 -9 r25 with D &lt;div class=&quot;plainlist&quot;&gt; * fs6~31 * High crush 32~69&lt;/div&gt;"
     },
     {
         "command": "2,2",
@@ -117,7 +107,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "+7",
-        "notes": "* Combo from 1st hit CH with 6f delay* Input can be delayed 13f* Move can be delayed 11f"
+        "notes": "* Combo from 1st hit CH with 6f delay * Input can be delayed 13f * Move can be delayed 11f"
     },
     {
         "command": "2,2,1+2",
@@ -127,7 +117,7 @@
         "block": "-9c",
         "hit": "+19d (-16)",
         "counter hit": "",
-        "notes": "* Spike* Combo from 2nd hit CH with 9f delay* Input can be delayed 14f* Move can be delayed 9f"
+        "notes": "* Spike * Combo from 2nd hit CH with 9f delay * Input can be delayed 14f * Move can be delayed 9f"
     },
     {
         "command": "3",
@@ -167,7 +157,7 @@
         "block": "-10",
         "hit": "+1",
         "counter hit": "+6",
-        "notes": "* Combo from 1st hit with 1f delay* Interrupt with i6 from 1st block"
+        "notes": "* Combo from 1st hit with 1f delay * Interrupt with i6 from 1st block"
     },
     {
         "command": "1+2,4,4",
@@ -177,7 +167,7 @@
         "block": "-11",
         "hit": "+19a",
         "counter hit": "",
-        "notes": "* Balcony break on airborne hit* Combo from 2nd hit CH with 1f delay* Can pick up from the ground with db+3 for a juggle* Interrupt with i12 from 2nd block"
+        "notes": "* Balcony break on airborne hit * Combo from 2nd hit CH with 1f delay * Can pick up from the ground with db+3 for a juggle * Interrupt with i12 from 2nd block"
     },
     {
         "command": "3+4",
@@ -187,7 +177,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cancel to r20 with db* Cancel to r28 with UB_U_UF* Stance sidestep with u_d* Backdash/dash with b_f"
+        "notes": "* Cancel to r20 with db * Cancel to r28 with UB_U_UF * Stance sidestep with u_d * Backdash/dash with b_f"
     },
     {
         "command": "f+2",
@@ -207,7 +197,7 @@
         "block": "+0",
         "hit": "+9",
         "counter hit": "",
-        "notes": "* Cancel SCR transition -9 +0 t68 r28 with B* Combo from 1st hit with 13f delay* Input can be delayed 17f* Move can be delayed 15f"
+        "notes": "* Cancel SCR transition -9 +0 t68 r28 with B * Combo from 1st hit with 13f delay * Input can be delayed 17f * Move can be delayed 15f"
     },
     {
         "command": "f+2,3,4",
@@ -217,17 +207,17 @@
         "block": "-18",
         "hit": "+18a (+8)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd CH"
+        "notes": "* Balcony Break * Combo from 2nd CH"
     },
     {
         "command": "f+3",
         "hit level": "h",
         "damage": "28",
-        "startup": "i21",
+        "startup": "i17",
         "block": "+3",
-        "hit": "+68a (+48)",
+        "hit": "+14c",
         "counter hit": "",
-        "notes": "* Balcony Break* Cancel SCR transition -1 +64a (+44) t52 r31 with B"
+        "notes": "* Balcony Break * Good left sidestep tracking * Cancel SCR transition -1 +10c t? r? with B"
     },
     {
         "command": "f+4",
@@ -247,7 +237,7 @@
         "block": "-9",
         "hit": "+5a (-5)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Balcony Break* Zafina receives recoverable health damage* Second hit available only on hit or block* 8 chip damage on block* Azazel's Power"
+        "notes": "* Heat Engager * Heat Dash +5, +36a (+26) * Balcony Break * Second hit available only on hit or block * 8 chip damage on block * Deal 10 recoverable damage to self without Heat * Azazel's Power * Gain ORB on hit or heat activation"
     },
     {
         "command": "df+1",
@@ -272,12 +262,22 @@
     {
         "command": "df+1,2,1",
         "hit level": "m, m, m",
-        "damage": "10, 16, 20",
+        "damage": "10, 16, 16",
         "startup": "i13~14, ,i25",
-        "block": "-13",
-        "hit": "+23a (+13)",
+        "block": "-12",
+        "hit": "+7",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd hit CH with 12f delay* Interrupt with i1 from 2nd block"
+        "notes": "* Balcony Break * Combo from 2nd hit CH with 12f delay * Interrupt with i1 from 2nd block * Transition to standing with B (-12/+4)"
+    },
+    {
+        "command": "df+1,2,1+2",
+        "hit level": "m, m, sm",
+        "damage": "10, 16, 10,10 (7),20 (10)",
+        "startup": "i13~14, ,i37",
+        "block": "-9",
+        "hit": "+17a (+16)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combo from 2nd hit CH with 2F delay * Deal 10 recoverable damage to self without Heat * Interrupt with i13 from 2nd block * 27 damage with aerial combo scaling * Gain ORB on hit * Azazel's Power * 13 chip damage on block * Available on 2nd hit or block only"
     },
     {
         "command": "df+1,4",
@@ -285,9 +285,9 @@
         "damage": "10, 18",
         "startup": "i13~14, i19~20",
         "block": "-6",
-        "hit": "+12g",
+        "hit": "+7",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit"
+        "notes": "* Balcony Break on airborne hit * Combo from 1st hit"
     },
     {
         "command": "df+2",
@@ -297,7 +297,7 @@
         "block": "-12",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Launches crouching opponent* Can evade some highs"
+        "notes": "* Launches crouching opponent * Can evade some highs"
     },
     {
         "command": "df+3",
@@ -317,7 +317,7 @@
         "block": "-6",
         "hit": "+22a",
         "counter hit": "+55a",
-        "notes": "* Balcony break on airborne hit* Combo from 1st hit"
+        "notes": "* Balcony break on airborne hit * Combo from 1st hit"
     },
     {
         "command": "df+3,d+4",
@@ -327,13 +327,13 @@
         "block": "-14",
         "hit": "+1c",
         "counter hit": "",
-        "notes": "Combo from 1st hit,High crush 11~"
+        "notes": "Combo from 1st hit ,High crush 11~"
     },
     {
         "command": "df+4",
         "hit level": "m",
         "damage": "14",
-        "startup": "i14",
+        "startup": "i13",
         "block": "-13",
         "hit": "+3",
         "counter hit": "",
@@ -343,31 +343,21 @@
         "command": "df+4,1",
         "hit level": "m, m",
         "damage": "14, 22",
-        "startup": "i14, i31",
-        "block": "-12",
+        "startup": "i13, i31",
+        "block": "-9",
         "hit": "+3a",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +43a (+35)* Balcony Break* Spike* Combo from 1st hit* Cancel to FC -18 -2 r37 with D* Zafina receives recoverable health damage* Unparryable by traditional parries, Asuka, Nina, etc* 8 chip damage on block* Azazel's Power"
+        "notes": "* Heat Engager * Heat Dash +5, +43a (+35) * Balcony Break * Spike * Combo from 1st hit * Cancel to FC -18 -2 r37 with D * Deal 10 recoverable damage to self without Heat * Unparryable by traditional parries, Asuka, Nina, etc * 8 chip damage on block * Azazel's Power * Gain ORB on hit or heat activation"
     },
     {
         "command": "df+4,2",
         "hit level": "m, m",
         "damage": "14, 20",
-        "startup": "i14, i27~29",
+        "startup": "i13, i27~29",
         "block": "-13",
         "hit": "+24a (+9)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 1st hit"
-    },
-    {
-        "command": "df+2+3",
-        "hit level": "m",
-        "damage": "20",
-        "startup": "i36~37",
-        "block": "-9",
-        "hit": "+60a",
-        "counter hit": "",
-        "notes": "* HomingHigh crush 6~35"
+        "notes": "* Tornado * Combo from 1st hit"
     },
     {
         "command": "d+1",
@@ -387,7 +377,7 @@
         "block": "-12",
         "hit": "+19a (+12)",
         "counter hit": "+29a (+23)",
-        "notes": "* Combo from 1st hit CH with 18f delay* Input can be delayed 18f* Move can be delayed 10f"
+        "notes": "* Combo from 1st hit CH with 18f delay * Input can be delayed 18f * Move can be delayed 10f"
     },
     {
         "command": "d+2",
@@ -407,7 +397,7 @@
         "block": "-22",
         "hit": "-4",
         "counter hit": "-4c",
-        "notes": "* Spike* Enter TRT -22 -4 with D&lt;div class=&quot;plainlist&quot;&gt;* ,High crush 56~84* fs6~55&lt;/div&gt;"
+        "notes": "* Spike * Enter TRT -22 -4 with D &lt;div class=&quot;plainlist&quot;&gt; * ,High crush 56~84 * fs6~55&lt;/div&gt;"
     },
     {
         "command": "d+2,4,3",
@@ -426,8 +416,8 @@
         "startup": "i22",
         "block": "-15",
         "hit": "+5c",
-        "counter hit": "+20a",
-        "notes": "* Enter MNT -13 +7c r32 with D* Evasive (can go under some mids)High crush 6~"
+        "counter hit": "+24d",
+        "notes": "* Transition to MNT -13 +7c +26d r32 with D * Evasive (can go under some mids) High crush 6~"
     },
     {
         "command": "d+4",
@@ -447,7 +437,7 @@
         "block": "-6",
         "hit": "+36a (+26)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit CH with 11f delay* Move can be delayed 9f&lt;div class=&quot;plainlist&quot;&gt;* Low crush 11~17* fs18~20&lt;/div&gt;"
+        "notes": "* Combo from 1st hit CH with 11f delay * Move can be delayed 9f &lt;div class=&quot;plainlist&quot;&gt; * Low crush 11~17 * fs18~20&lt;/div&gt;"
     },
     {
         "command": "d+1+2",
@@ -457,7 +447,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cancel to r30 with DB_UB_U_UF* Crawl with F&lt;div class=&quot;plainlist&quot;&gt;* High crush 6~33* fs34~&lt;/div&gt;"
+        "notes": "* Cancel to r30 with DB_UB_U_UF * Cancel to r10 standing guard with DB * Crawl with F &lt;div class=&quot;plainlist&quot;&gt; * High crush 6~33 * fs34~&lt;/div&gt;"
     },
     {
         "command": "d+3+4",
@@ -467,17 +457,37 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Cancel to r30 with db* Cancel to r38 with UB_U_UF* Can block in stance on frame 31~* Stance sidestep with u_d* Move backward/forward with b_f* Dash with f,fHigh crush 6~30"
+        "notes": "* Cancel to r30 with db * Cancel to r38 with UB_U_UF * Can block in stance on frame 31~ * Stance sidestep with u_d * Move backward/forward with b_f * Dash with f,f High crush 6~30"
     },
     {
         "command": "db+2",
         "hit level": "m",
         "damage": "17",
         "startup": "i13~14",
-        "block": "-9",
+        "block": "-13",
         "hit": "+3",
-        "counter hit": "+16a",
+        "counter hit": "",
         "notes": ""
+    },
+    {
+        "command": "db+2,1",
+        "hit level": "m, m",
+        "damage": "17, 16",
+        "startup": "i13~14, i25",
+        "block": "-12",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Transition to standing with B (-12/+4)"
+    },
+    {
+        "command": "db+2,1+2",
+        "hit level": "m, sm",
+        "damage": "17, 10,10 (7),20 (10)",
+        "startup": "i13~14, i37",
+        "block": "-9",
+        "hit": "+17a (+16)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combo from 1st CH with 2F delay * Deal 10 recoverable damage to self without Heat * Interrupt with i13 from 1st block * 27 damage with aerial combo scaling * Gain ORB on hit * 13 chip damage on block * Azazel's Power * Available on 1st hit or block only"
     },
     {
         "command": "db+3",
@@ -497,7 +507,7 @@
         "block": "-12",
         "hit": "-3",
         "counter hit": "+3",
-        "notes": "* Transition to -13 -4 +2 MNT with DHigh crush 6~40"
+        "notes": "* Transition to -13 -4 +2 MNT with D High crush 6~40"
     },
     {
         "command": "db+4,2",
@@ -527,7 +537,7 @@
         "block": "-16",
         "hit": "+5a (-4)",
         "counter hit": "+37a (-10)",
-        "notes": "* Tornado* Balcony Break* Combos from 1st hit"
+        "notes": "* Tornado * Balcony Break * Combos from 1st hit"
     },
     {
         "command": "b+1",
@@ -537,17 +547,27 @@
         "block": "-14",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Transition to attack throw on standing or airborne front hit with 1+2* 4f input window for attack throw (frames 14~17)"
+        "notes": "* Transition to attack throw on standing or airborne front hit with 1+2 * 8f input window for attack throw (frames 10~17)"
     },
     {
-        "command": "b+1:1+2",
+        "command": "b+1:1",
         "hit level": "m, t",
         "damage": "14, 36",
         "startup": "i18,",
         "block": "",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Zafina receives recoverable health damage* Side switch on hit* Azazel's Power&lt;div class=&quot;plainlist&quot;&gt;* ,Low crush 80~92* fs93~95&lt;/div&gt;"
+        "notes": "* Deal 5 (8) recoverable damage to self without Heat * Side switch on hit * Gain ORB on hit * Azazel's Power &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 80~92 * fs93~95&lt;/div&gt;"
+    },
+    {
+        "command": "b+1:ORB.1+2",
+        "hit level": "m, t",
+        "damage": "14, 45",
+        "startup": "i18,",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Consumes ORB * Partially consumes remaining Heat time * Azazel's Power * Deals 8 recoverable damage to Zafina without Heat * Deals 5 additional damage when Zafina's remaining health is 42 or lower * Available only from 1st front hit"
     },
     {
         "command": "b+1+3",
@@ -557,7 +577,7 @@
         "block": "",
         "hit": "+12d",
         "counter hit": "",
-        "notes": "* Zafina automatically retaliates on a successful parry* Deals recoverable self-damageParry state 6~29"
+        "notes": "* Zafina automatically retaliates on a successful parry * Deal 8 recoverable damage to self without Heat Parry state 6~29"
     },
     {
         "command": "b+1+3,P",
@@ -567,7 +587,7 @@
         "block": "+2",
         "hit": "+12d",
         "counter hit": "",
-        "notes": "* 17 chip damage on block"
+        "notes": "* 17 chip damage on block * Gain ORB on hit"
     },
     {
         "command": "b+2",
@@ -575,9 +595,9 @@
         "damage": "22",
         "startup": "i22~23",
         "block": "-5",
-        "hit": "+12",
+        "hit": "+14",
         "counter hit": "",
-        "notes": "* Homing* Balcony break on airborne hit* +23a on BT hit"
+        "notes": "* Homing * Balcony Break on airborne hit * +23a on BT hit"
     },
     {
         "command": "b+3",
@@ -587,7 +607,17 @@
         "block": "-14",
         "hit": "+12a",
         "counter hit": "",
-        "notes": "* Balcony Break* SpikePower crush 7~23"
+        "notes": "* Balcony Break * Spike Power crush 7~23"
+    },
+    {
+        "command": "b+3,ORB.1+2",
+        "hit level": "m",
+        "damage": "35",
+        "startup": "i24~26",
+        "block": "-9",
+        "hit": "-14a (-15)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Consumes ORB * Partially consumes remaining Heat time * Deals 3 additional damage when Zafina's remaining health is 42 or lower * 8 chip damage on block ** 13 chip damage on block when Zafina's remaining health is 42 or lower * Available only on hit or block Power crush 7~23"
     },
     {
         "command": "b+4",
@@ -607,17 +637,27 @@
         "block": "-14",
         "hit": "+9a (+0)",
         "counter hit": "+41a (-6)",
-        "notes": "* Balcony Break* Combos from 1st hit with 16f delay* Move can be delayed 9f"
+        "notes": "* Balcony Break * Combos from 1st hit with 16f delay * Move can be delayed 9f"
     },
     {
-        "command": "b+2+3",
-        "hit level": "m!",
-        "damage": "40",
-        "startup": "i64",
-        "block": "",
-        "hit": "+41a (+10)",
+        "command": "b+1+2",
+        "hit level": "m",
+        "damage": "27",
+        "startup": "i19~20",
+        "block": "-6",
+        "hit": "+12a (+3)",
         "counter hit": "",
-        "notes": "* +45a on side/BT hit"
+        "notes": "* Balcony Break * Homing * Deals 12 recoverable damage to self without Heat * Gain ORB on hit * Azazel's Power * 10 chip damage on block"
+    },
+    {
+        "command": "b+1+2,ORB.1+2",
+        "hit level": "m",
+        "damage": "17,5,15",
+        "startup": "i19~20",
+        "block": "+4",
+        "hit": "+10a (-16)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Homing * Deals 12 recoverable damage to self without Heat * Consumes ORB * Partially consumes remaining Heat time * Azazel's Power * Deals 5 additional damage when Zafina's remaining health is 42 or lower * 11 chip damage on block ** Deals 16 chip damage on block when Zafina's remaining health is 42 or lower * Available only on hit or block"
     },
     {
         "command": "ub+3",
@@ -627,7 +667,7 @@
         "block": "-17",
         "hit": "-6",
         "counter hit": "",
-        "notes": "* Balcony break on airborne hit&lt;div class=&quot;plainlist&quot;&gt;* Low crush 8~31* fs32~34&lt;/div&gt;"
+        "notes": "* Balcony break on airborne hit &lt;div class=&quot;plainlist&quot;&gt; * Low crush 8~31 * fs32~34&lt;/div&gt;"
     },
     {
         "command": "ub+4",
@@ -637,7 +677,17 @@
         "block": "-13",
         "hit": "+19a (+9)",
         "counter hit": "+29a (+19)",
-        "notes": "* Balcony Break* Recovers 2f faster on hit (t48 r30)&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~30* fs31~33&lt;/div&gt;"
+        "notes": "* Balcony Break * Recovers 2f faster on hit (t48 r30) &lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~30 * fs31~33&lt;/div&gt;"
+    },
+    {
+        "command": "ub+1+2",
+        "hit level": "m!",
+        "damage": "40",
+        "startup": "i64",
+        "block": "",
+        "hit": "+41a (+10)",
+        "counter hit": "",
+        "notes": "* +45a on side/BT hit"
     },
     {
         "command": "uf+1",
@@ -650,14 +700,24 @@
         "notes": ""
     },
     {
+        "command": "uf+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i36~37",
+        "block": "-9",
+        "hit": "+60a",
+        "counter hit": "",
+        "notes": "* Strong Aerial Tailspin * Homing High crush 6~35"
+    },
+    {
         "command": "uf+3",
         "hit level": "m",
-        "damage": "25",
+        "damage": "19",
         "startup": "i22~23",
         "block": "-8",
         "hit": "+17a",
         "counter hit": "",
-        "notes": "* Balcony break on airborne hit&lt;div class=&quot;plainlist&quot;&gt;* Low crush 8~31* fs32~34&lt;/div&gt;"
+        "notes": "* Strong Aerial Tailspin * Balcony Break on airborne hit * No forward movement when using input ub+3 &lt;div class=&quot;plainlist&quot;&gt; * Low crush 8~31 * fs32~34&lt;/div&gt;"
     },
     {
         "command": "uf+4",
@@ -667,7 +727,7 @@
         "block": "-13",
         "hit": "+29a (+19)",
         "counter hit": "",
-        "notes": "* Recovers 2 frames faster on hit (t48 r30)&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~30* fs31~33&lt;/div&gt;"
+        "notes": "* Recovers 2 frames faster on hit (t48 r30) &lt;div class=&quot;plainlist&quot;&gt; * Low crush 9~30 * fs31~33&lt;/div&gt;"
     },
     {
         "command": "1+2+3+4",
@@ -677,7 +737,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Can't block for 5 seconds* CH state for 5 seconds"
+        "notes": "* Can't block for 5 seconds * CH state on you for 5 seconds ''(Tekken 7 and prior games)'' * 50% damage increase on the next attack for 5 seconds ''(Tekken 8 season 2 patch onward)''"
     },
     {
         "command": "f,F+2",
@@ -687,7 +747,7 @@
         "block": "+1",
         "hit": "+21a (+12)",
         "counter hit": "+38a",
-        "notes": "* Homing* Balcony Break* 6 chip damage on block"
+        "notes": "* Homing * Balcony Break * 6 chip damage on block"
     },
     {
         "command": "f,F+3",
@@ -697,7 +757,7 @@
         "block": "+4",
         "hit": "+9c",
         "counter hit": "+14c",
-        "notes": "* Spike* Cancel SCR transition +4 +9c +14c t51 r29 with B"
+        "notes": "* Spike * Cancel SCR transition +4 +9c +14c t51 r29 with B"
     },
     {
         "command": "f,F+3,1",
@@ -707,17 +767,17 @@
         "block": "-16",
         "hit": "+5a",
         "counter hit": "",
-        "notes": "* Balcony Break* Combos from 1st hit CH with 11f? delay* Can be delayed"
+        "notes": "* Balcony Break * Combos from 1st hit CH with 11f? delay * Can be delayed"
     },
     {
         "command": "f,F+4",
         "hit level": "m",
-        "damage": "20",
+        "damage": "16",
         "startup": "i17~19",
         "block": "-8",
-        "hit": "+18a (+9)",
+        "hit": "+6",
         "counter hit": "",
-        "notes": "* Homing* Balcony Break"
+        "notes": "* Homing * Balcony Break"
     },
     {
         "command": "f,F+3+4",
@@ -727,7 +787,7 @@
         "block": "-11",
         "hit": "+15a (+6)",
         "counter hit": "",
-        "notes": "* Balcony Break* Enter MNT -12 +14a (+5) with D&lt;div class=&quot;plainlist&quot;&gt;* Low crush 6~23* fs24~26&lt;/div&gt;"
+        "notes": "* Balcony Break * Enter MNT -12 +14a (+5) with D &lt;div class=&quot;plainlist&quot;&gt; * Low crush 6~23 * fs24~26&lt;/div&gt;"
     },
     {
         "command": "f,f,F+3",
@@ -737,17 +797,17 @@
         "block": "+7",
         "hit": "+19a (+9)",
         "counter hit": "",
-        "notes": "* Balcony Break* Cancel SCR transition +3 +15a (+5) t58 r32 with B* 9 chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 3~34* fs35~37&lt;/div&gt;"
+        "notes": "* Balcony Break * Cancel SCR transition +3 +15a (+5) t58 r32 with B * 9 chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 3~34 * fs35~37&lt;/div&gt;"
     },
     {
         "command": "f,f,F+1+2",
         "hit level": "h",
         "damage": "20",
-        "startup": "i20~24",
-        "block": "+8",
+        "startup": "i20~21",
+        "block": "+6",
         "hit": "+32a",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Homing* Balcony Break* 8 chip damage on block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 20~39* fs40~&lt;/div&gt;"
+        "notes": "* Strong Aerial Tailspin * Homing * Balcony Break * 8 chip damage on block &lt;div class=&quot;plainlist&quot;&gt; * Low crush 20~39 * fs40~&lt;/div&gt;"
     },
     {
         "command": "ws1",
@@ -767,7 +827,7 @@
         "block": "-13",
         "hit": "+36a (+26)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 9f delay* Delay does not change the timing of the attack"
+        "notes": "* Combo from 1st hit with 9f delay * Delay does not change the timing of the attack"
     },
     {
         "command": "ws2",
@@ -777,14 +837,14 @@
         "block": "-14",
         "hit": "+28a (+18)",
         "counter hit": "",
-        "notes": "* Tornado* Enter MNT -40 +2a (-8) r60 with D"
+        "notes": "* Tornado * Enter MNT -40 +2a (-8) r60 with D"
     },
     {
         "command": "ws3",
         "hit level": "m",
-        "damage": "20",
+        "damage": "16",
         "startup": "i12",
-        "block": "0",
+        "block": "+0",
         "hit": "+9",
         "counter hit": "",
         "notes": "* Cancel SCR transition -8 +1 t39 r27 with B"
@@ -817,7 +877,7 @@
         "block": "-26",
         "hit": "+14a",
         "counter hit": "",
-        "notes": "* Enter MNT -26 +13a with DHigh crush 1~"
+        "notes": "* Enter MNT -26 +13a with D High crush 1~"
     },
     {
         "command": "FC.d+1",
@@ -827,7 +887,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Transition to r24 with f* Transition input can be delayed 16fHigh crush 1~"
+        "notes": "* Transition to r24 with f * Transition input can be delayed 16f High crush 1~"
     },
     {
         "command": "FC.d+2",
@@ -907,7 +967,7 @@
         "block": "-13",
         "hit": "+13a (+4)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd hit"
+        "notes": "* Balcony Break * Combo from 2nd hit"
     },
     {
         "command": "MNT.3",
@@ -937,7 +997,7 @@
         "block": "-19",
         "hit": "-3",
         "counter hit": "+7",
-        "notes": "* Enter TRT with DHigh crush 1~62"
+        "notes": "* Enter TRT with D High crush 1~62"
     },
     {
         "command": "MNT.4,3",
@@ -947,7 +1007,7 @@
         "block": "-30",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 1st CH,fs10~63"
+        "notes": "* Tornado * Combo from 1st CH ,fs10~63"
     },
     {
         "command": "MNT.1+2",
@@ -957,7 +1017,7 @@
         "block": "-12",
         "hit": "+18a",
         "counter hit": "",
-        "notes": "* SpikePower crush 8~19"
+        "notes": "* Spike Power crush 8~19"
     },
     {
         "command": "MNT.2+3",
@@ -973,11 +1033,11 @@
         "command": "MNT.df+1",
         "hit level": "M",
         "damage": "30",
-        "startup": "i24~25",
-        "block": "+6",
-        "hit": "+7a",
+        "startup": "i20~21",
+        "block": "+10",
+        "hit": "+11a",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +67a (+50)* Balcony Break* Spike* 9 chip damage on block* Zafina receives recoverable health damage* Unparryable by traditional parries, Asuka, Nina, etc* Gains Power Crush frames during Heat (pc8~23)* Azazel's Power"
+        "notes": "* Heat Engager * Heat Dash +5, +67a (+50) * Balcony Break * Spike * 12 chip damage on block * Transition to SCR on normal hit * Transition to standing with B (+6/+11a) * Deal 8 recoverable damage to self without heat * Unparryable by traditional parries, Asuka, Nina, etc * Gain ORB on hit or heat activation * Azazel's Power"
     },
     {
         "command": "MNT.df+2",
@@ -997,7 +1057,7 @@
         "block": "-17",
         "hit": "+19g",
         "counter hit": "",
-        "notes": "* Balcony break on airborne hit* Hitbox extends to both legs, can hit while Zafina is BTfs10~43"
+        "notes": "* Balcony break on airborne hit * Hitbox extends to both legs, can hit while Zafina is BT fs10~43"
     },
     {
         "command": "MNT.df+4",
@@ -1007,7 +1067,7 @@
         "block": "-5",
         "hit": "+13g",
         "counter hit": "",
-        "notes": "* Homing* Balcony Break&lt;div class=&quot;plainlist&quot;&gt;* High crush 1~40* gs41~56&lt;/div&gt;"
+        "notes": "* Homing * Balcony Break &lt;div class=&quot;plainlist&quot;&gt; * High crush 1~40 * gs41~56&lt;/div&gt;"
     },
     {
         "command": "MNT.d+1",
@@ -1037,7 +1097,7 @@
         "block": "-22~-15",
         "hit": "+4c~+11c",
         "counter hit": "+19a~+26a",
-        "notes": "* Evasive (can go under mids)High crush 1~"
+        "notes": "* Evasive (can go under mids) High crush 1~"
     },
     {
         "command": "MNT.uf+3",
@@ -1047,7 +1107,17 @@
         "block": "-9c",
         "hit": "+11d",
         "counter hit": "",
-        "notes": "* Spike* Enter MNT with D&lt;div class=&quot;plainlist&quot;&gt;* Low crush 7~23* fs24~26* High crush 27~50&lt;/div&gt;"
+        "notes": "* Spike * Enter MNT with D &lt;div class=&quot;plainlist&quot;&gt; * Low crush 7~23 * fs24~26 * High crush 27~50&lt;/div&gt;"
+    },
+    {
+        "command": "ORB.SCR.df+3+4",
+        "hit level": "L,m,m,sm",
+        "damage": "6,15,13",
+        "startup": "i19",
+        "block": "-14",
+        "hit": "-13a (-14)",
+        "counter hit": "",
+        "notes": "* Transition to 3rd hit on 2nd hit * Consumes ORB * Consumes 450F of Heat time * Deals 5 additional damage when Zafina's remaining health is 42 or lower * 4 chip damage on block ** Deals 6 chip damage on block when Zafina's remaining health is 42 or lower High crush 6~"
     },
     {
         "command": "SCR.1",
@@ -1067,7 +1137,7 @@
         "block": "-6",
         "hit": "+7",
         "counter hit": "+32a",
-        "notes": "* Spike* Combo from 1st hit"
+        "notes": "* Spike * Combo from 1st hit"
     },
     {
         "command": "SCR.2",
@@ -1087,7 +1157,7 @@
         "block": "-6",
         "hit": "+30a (+20)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Balcony Break* 10 chip damage on block* Zafina receives recoverable damage* Unparryable by traditional parries, Asuka, Nina, etc* Azazel's Power"
+        "notes": "* Heat Engager * Heat Dash +5, +36a (+26) * Balcony Break * 10 chip damage on block * Deal 10 recoverable damage to self without Heat * Unparryable by traditional parries, Asuka, Nina, etc * Gain ORB on hit * Azazel's Power"
     },
     {
         "command": "SCR.2,2",
@@ -1097,7 +1167,7 @@
         "block": "-10",
         "hit": "+8c",
         "counter hit": "+8a",
-        "notes": "* Spike* Combo from 1st hit with 6f delay* Delay does not change the timing of the attack"
+        "notes": "* Spike * Combo from 1st hit with 6f delay * Delay does not change the timing of the attack"
     },
     {
         "command": "SCR.3",
@@ -1117,7 +1187,7 @@
         "block": "+0",
         "hit": "+25a (+15)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit with 14f delay* Move can be delayed 9f"
+        "notes": "* Balcony Break * Combo from 1st hit with 14f delay * Move can be delayed 9f"
     },
     {
         "command": "SCR.4",
@@ -1127,7 +1197,7 @@
         "block": "-18",
         "hit": "+58a (+42)",
         "counter hit": "",
-        "notes": "* TornadoPower crush 8~14"
+        "notes": "* Tornado Power crush 8~14"
     },
     {
         "command": "SCR.1+2",
@@ -1137,7 +1207,7 @@
         "block": "+6",
         "hit": "+17a",
         "counter hit": "",
-        "notes": "* Spike* Enter TRT with D"
+        "notes": "* Spike * Enter TRT with D"
     },
     {
         "command": "SCR.3+4",
@@ -1147,27 +1217,27 @@
         "block": "-12",
         "hit": "+8g",
         "counter hit": "",
-        "notes": "* Balcony Break* Jail from 1st attack&lt;div class=&quot;plainlist&quot;&gt;* Low crush 6~22* fs23~25&lt;/div&gt;"
+        "notes": "* Strong Aerial Tailspin * Balcony Break * Jail from 1st attack &lt;div class=&quot;plainlist&quot;&gt; * Low crush 6~22 * fs23~25&lt;/div&gt;"
     },
     {
         "command": "SCR.b+1+2",
         "hit level": "L",
-        "damage": "16",
+        "damage": "20",
         "startup": "i16",
-        "block": "-17",
-        "hit": "+3c",
-        "counter hit": "+12a",
-        "notes": "* Evasive (can go below some mids)High crush 7~35"
+        "block": "-18",
+        "hit": "+23a",
+        "counter hit": "",
+        "notes": "* Evasive (can go under some mids) * Deal 10 recoverable damage to self without Heat * Gain ORB on hit * Azazel's Power High crush 7~35"
     },
     {
         "command": "SCR.df+1",
         "hit level": "m,M",
-        "damage": "10,20",
+        "damage": "10,30",
         "startup": "i18 i17~19",
         "block": "-9",
-        "hit": "+33a (+18)",
+        "hit": "+68a (+52)",
         "counter hit": "",
-        "notes": "* Tornado* Jail from 1st attack* 8 chip damage on block* Zafina receives recoverable health damage* Unparryable by traditional parries, Asuka, Nina, etc* Gains Power Crush frames during Heat (pc8~17)* Azazel's Power"
+        "notes": "* Tornado * Instant tornado on 1st hit * Jail from 1st attack * 15 chip damage on block * Deal 18 recoverable damage to self without Heat * Unparryable by traditional parries, Asuka, Nina, etc * Gain ORB on hit * Azazel's Power"
     },
     {
         "command": "SCR.df+3",
@@ -1177,7 +1247,7 @@
         "block": "-23",
         "hit": "-10c",
         "counter hit": "",
-        "notes": "* HomingHigh crush 6~"
+        "notes": "* Homing High crush 6~"
     },
     {
         "command": "SCR.df+3,3",
@@ -1187,7 +1257,7 @@
         "block": "-23",
         "hit": "+54a (+38)",
         "counter hit": "",
-        "notes": "* Homing* Combo from 1st hit,High crush 1~"
+        "notes": "* Homing * Combo from 1st hit ,High crush 1~"
     },
     {
         "command": "SCR.df+4",
@@ -1207,7 +1277,7 @@
         "block": "-6",
         "hit": "-3",
         "counter hit": "+9c",
-        "notes": "* Interrupt with i13 if Zafina uses SCR.4* Can hit grounded when off-axis"
+        "notes": "* Interrupt with i13 if Zafina uses SCR.4 * Can hit grounded when off-axis"
     },
     {
         "command": "SCR.d+3,3",
@@ -1217,7 +1287,7 @@
         "block": "+3",
         "hit": "+77a (+61)",
         "counter hit": "",
-        "notes": "* Combo from 1st CH* Cancel SCR transition -1 +73a (+57) t55 r31 with B"
+        "notes": "* Combo from 1st CH * Cancel SCR transition -1 +73a (+57) t55 r31 with B"
     },
     {
         "command": "SCR.d+4",
@@ -1227,7 +1297,7 @@
         "block": "-25",
         "hit": "-4a",
         "counter hit": "",
-        "notes": "* Enter MNT with DHigh crush 10~"
+        "notes": "* Enter MNT with D High crush 10~"
     },
     {
         "command": "SCR.d+3+4",
@@ -1237,7 +1307,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* High crush 1~70* fs6~50&lt;/div&gt;"
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt; * High crush 1~70 * fs6~50&lt;/div&gt;"
     },
     {
         "command": "TRT.1",
@@ -1254,10 +1324,10 @@
         "hit level": "M",
         "damage": "24",
         "startup": "i34~36",
-        "block": "-9",
-        "hit": "+40a (+30)",
+        "block": "-13",
+        "hit": "+38a",
         "counter hit": "",
-        "notes": "* Tornado"
+        "notes": "* Tornado * Recover 4f faster on hit (t64 r28) Power crush 8"
     },
     {
         "command": "TRT.3",
@@ -1265,8 +1335,8 @@
         "damage": "16",
         "startup": "i14~i15",
         "block": "-7",
-        "hit": "+15a",
-        "counter hit": "",
+        "hit": "+5c",
+        "counter hit": "+19c",
         "notes": "* Spike"
     },
     {
@@ -1297,7 +1367,7 @@
         "block": "-12c",
         "hit": "+14a",
         "counter hit": "",
-        "notes": "* Balcony Break&lt;div class=&quot;plainlist&quot;&gt;* Low crush 7~24* fs25~27&lt;/div&gt;"
+        "notes": "* Balcony Break * Homing &lt;div class=&quot;plainlist&quot;&gt; * Low crush 7~24 * fs25~27&lt;/div&gt;"
     },
     {
         "command": "TRT.df+1",
@@ -1307,7 +1377,7 @@
         "block": "+6",
         "hit": "+30a (+15)",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +35a (+27)* 12 chip damage on block* Zafina receives recoverable health damage* Unparryable by traditional parries, Asuka, Nina, etc* Gains Power Crush frames during Heat (pc6~18)* Azazel's Power"
+        "notes": "* Heat Engager * Heat Dash +5, +35a (+27) * 12 chip damage on block * Deal 8 recoverable damage to self without Heat * Unparryable by traditional parries, Asuka, Nina, etc * Gain ORB on hit or heat activation * Azazel's Power"
     },
     {
         "command": "TRT.d+1+2",
@@ -1327,7 +1397,7 @@
         "block": "-52~-36",
         "hit": "-7a",
         "counter hit": "",
-        "notes": "* Enter BT -52 -7a with U* Enter TRT -52 -7a r35 with D* Zafina must run for 32f to access this movefs14~40"
+        "notes": "* Enter BT -52 -7a with U * Enter TRT -52 -7a r35 with D * Zafina must run for 32f to access this move fs14~40"
     },
     {
         "command": "1+3",
@@ -1337,7 +1407,7 @@
         "block": "-4",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2"
+        "notes": "* Homing * Throw break 1 or 2"
     },
     {
         "command": "2+4",
@@ -1347,7 +1417,7 @@
         "block": "-4",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Homing* Throw break 1 or 2* Transition to MNT on hit"
+        "notes": "* Homing * Throw break 1 or 2 * Transition to MNT on hit"
     },
     {
         "command": "Back Throw",
@@ -1367,7 +1437,7 @@
         "block": "-3",
         "hit": "+7d",
         "counter hit": "",
-        "notes": "* Throw break 1* Side switch on hit"
+        "notes": "* Throw break 1 * Side switch on hit"
     },
     {
         "command": "Right Throw",
@@ -1377,7 +1447,7 @@
         "block": "-3",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Throw break 2* Side switch on hit"
+        "notes": "* Throw break 2 * Side switch on hit"
     },
     {
         "command": "uf+1+2",

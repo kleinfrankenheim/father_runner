@@ -7,7 +7,7 @@
         "block": "+1",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat Burst* Cancel to r45 with b,b* 3 chip damage on block* 12 chip damage on hit* Only deals recoverable damage* Cannot cause a K.O.Power crush 7~16"
+        "notes": "* Heat Burst * Cancel to r45 with b,b on frame 42 * 2 chip damage on block * 12 chip damage on hit * Only deals recoverable damage * Cannot cause a K.O. Power crush 7~16"
     },
     {
         "command": "H.EXD.1+3",
@@ -17,7 +17,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "*Homing* Unbreakable* Transitions to TFA"
+        "notes": "* Homing * Unbreakable * Transitions to TFA"
     },
     {
         "command": "H.LNH",
@@ -27,7 +27,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Parries mid attacks* Transitions to TFA after successful parryParry state 25?"
+        "notes": "* Parries high and mid punches and kicks? * Transitions to TFA after successful parry Parry state 25?"
     },
     {
         "command": "H.df+3+4",
@@ -37,7 +37,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transitions to r13 EXD* r25? EXD FC cancel?* Partially uses remaining heat timeHigh crush 1~"
+        "notes": "* Transitions to r13 EXD * r25? EXD FC cancel? * Partially uses remaining heat time * Auto low parry effect &lt;div class=&quot;plainlist&quot;&gt; * High crush 1~ * Parry state 1~ &lt;/div&gt;"
     },
     {
         "command": "H.2+3",
@@ -47,7 +47,7 @@
         "block": "+8 LNH",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Heat Smash* Floor Break* Spike* Can cancel transition to LNH on block with B at -9* 14 Chip Damage on block* Alternate input: H.FLK.2+3 or H.PAB.2+3* Tracking notes:* Homing?"
+        "notes": "* Heat Smash * Floor Break * Spike * Can cancel transition to LNH on block with B at -9 * 7 chip damage on block * Alternate input: H.FLK.2+3 or H.PAB.2+3 * Tracking notes: * Homing?"
     },
     {
         "command": "R.df+1+2",
@@ -57,7 +57,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -77,17 +77,17 @@
         "block": "-3",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 4F delay* Jails from 1st block with 2F delay* Move can be delayed by 4F* Shift to LWV with 3 (-6/+0)* Shift to RWV with 4 (-6/+0)* Shift to SWY with b+3_4 (-6/+0)* Shift to r20? DCK with f+3_4 (-2/+4)* r22? DCK FC cancel?"
+        "notes": "* Combo from 1st hit with 4F delay * Jails from 1st block with 2F delay * Move can be delayed by 4F * Shift to LWV with 3 (-6/+0) * Shift to RWV with 4 (-6/+0) * Shift to SWY with b+3_4 (-6/+0) * Shift to r20? DCK with f+3_4 (-2/+4) * r22? DCK FC cancel?"
     },
     {
         "command": "1,1,2",
         "hit level": "h, h, h",
-        "damage": "5, 7, 15",
+        "damage": "5, 7, 13",
         "startup": "i10, ,i13-14",
         "block": "-7",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 3F delay* Jail from 1st block with 3F delay* Move can be delayed by 3F* Shift to LWV with 3 (-5/+6)* Shift to RWV with 4 (-5/+6)* Shift to SWY with b+3_4 (-5/+6)* Shift to r20? DCK with f+3_4 (-3/+8)* r22? DCK FC cancel?"
+        "notes": "* Combo from 1st hit with 3F delay * Jail from 1st block with 3F delay * Move can be delayed by 3F * Shift to LWV with 3 (-5/+6) * Shift to RWV with 4 (-5/+6) * Shift to SWY with b+3_4 (-5/+6) * Shift to r20? DCK with f+3_4 (-3/+8) * r22? DCK FC cancel?"
     },
     {
         "command": "1,1,d+1",
@@ -97,7 +97,7 @@
         "block": "-6",
         "hit": "+0",
         "counter hit": "+5",
-        "notes": "* Shift to r18? FLK with b (+0/+6/+11)* r18? FLK FC cancel?* Move can be delayed by 3F"
+        "notes": "* Shift to r18? FLK with b (+0/+6/+11) * r18? FLK FC cancel? * Move can be delayed by 3F"
     },
     {
         "command": "1,2",
@@ -107,7 +107,7 @@
         "block": "-3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block* Shift to LWV with 3 (-4/+7)* Shift to RWV with 4 (-4/+7)* Shift to SWY with b+3_4 (-4/+7)* Shift to r20? DCK with f+3_4 (-2/+9)* r22? DCK FC cancel?"
+        "notes": "* Combo from 1st hit * Jail from 1st block * Shift to LWV with 3 (-4/+7) * Shift to RWV with 4 (-4/+7) * Shift to SWY with b+3_4 (-4/+7) * Shift to r20? DCK with f+3_4 (-2/+9) * r22? DCK FC cancel?"
     },
     {
         "command": "1,2,1",
@@ -117,7 +117,7 @@
         "block": "-3",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Combo from 1st CH or 2nd CH* Jail from 1st block* Input f to r19? PAB (-2/+4)* Input b to r18? FLK (-1/+5)* r18? PAB/FLK FC cancel?"
+        "notes": "* Combo from 1st CH or 2nd CH * Jail from 1st block * Input f to r19? PAB (-2/+4) * Input b to r18? FLK (-1/+5) * r18? PAB/FLK FC cancel?"
     },
     {
         "command": "1,2,1,2",
@@ -127,7 +127,7 @@
         "block": "-10",
         "hit": "+16a (+7)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 3rd CH* Shift to LWV with 3 (-6/+20a (+11))* Shift to RWV with 4 (-6/+20a (+11))* Shift to SWY with b+3_4 (-6/+20a (+11))* Shift to r20? DCK with f+3_4 (-4/+22a (+13))* r22? DCK FC cancel?"
+        "notes": "* Balcony Break * Combo from 3rd CH * Shift to LWV with 3 (-6/+20a (+11)) * Shift to RWV with 4 (-6/+20a (+11)) * Shift to SWY with b+3_4 (-6/+20a (+11)) * Shift to r20? DCK with f+3_4 (-4/+22a (+13)) * r22? DCK FC cancel?"
     },
     {
         "command": "1,2,1,d+2",
@@ -137,7 +137,7 @@
         "block": "-12",
         "hit": "+1c",
         "counter hit": "+14d",
-        "notes": "* d or db to recover in r30 FCHigh crush 10~"
+        "notes": "* d or db to recover in r30 FC High crush 10~"
     },
     {
         "command": "1,d+1",
@@ -147,7 +147,7 @@
         "block": "-6",
         "hit": "+0",
         "counter hit": "+5",
-        "notes": "* Shift to r18? FLK with b (+0/+6/+11)* r18? FLK FC cancel?* Move can be delayed by 3F"
+        "notes": "* Shift to r18? FLK with b (+0/+6/+11) * r18? FLK FC cancel? * Move can be delayed by 3F"
     },
     {
         "command": "2",
@@ -167,7 +167,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block* Input f to r15? PAB (+2/+13g/+13)* Input b to r14? FLK (+3/+14g/+14)* r14? PAB/FLK FC cancel?"
+        "notes": "* Combo from 1st hit * Jail from 1st block * Input f to r15? PAB (+2/+13g/+13) * Input b to r14? FLK (+3/+14g/+14) * r14? PAB/FLK FC cancel?"
     },
     {
         "command": "2,1,2",
@@ -177,7 +177,7 @@
         "block": "-11",
         "hit": "+13a (+4)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd CH with 3?F delay* Move can be delayed by 10?F"
+        "notes": "* Balcony Break * Combo from 2nd CH with 3?F delay * Move can be delayed by 10?F"
     },
     {
         "command": "2,2",
@@ -187,7 +187,7 @@
         "block": "-14",
         "hit": "+6",
         "counter hit": "",
-        "notes": "*Tornado* Combo from 1st hit"
+        "notes": "* Tornado * Combo from 1st hit"
     },
     {
         "command": "3",
@@ -197,7 +197,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Actionable for 21F* Shift to r15 SWY with b+3_4 after 7F with 14F delay* Shift to r1 DCK with f+3_4 after 7F with 14F delay* Input d+3_4 to shift to r8 RWV (laterally evasive transition) after 20F* SWY transition notes:* Transition is t45? r15 cs1~36? and actionable for 21F.* Can transition from SWY into LWV/RWV after 10F with 10F delay?* Can transition from SWY into DCK after 25F* DCK transition notes:* Transition is t60? r15 cs1~35? and actionable for 35F.* Can transition from DCK into LWV/RWV after 25?F* Can transition from DCK into SWY after 35?F"
+        "notes": "* Actionable for 21F * Shift to r15 SWY with b+3_4 after 7F with 14F delay * Shift to r1 DCK with f+3_4 after 7F with 14F delay * Input d+3_4 to shift to r8 RWV (laterally evasive transition) after 20F * Can cancel into r1 block when transitioning from attacks that transition to LWV * SWY transition notes: * Transition is t45? r15 cs1~36? and actionable for 21F. * Can transition from SWY into LWV/RWV after 10F with 10F delay? * Can transition from SWY into DCK after 25F * DCK transition notes: * Transition is t60? r15 cs1~35? and actionable for 35F. * Can transition from DCK into LWV/RWV after 25?F * Can transition from DCK into SWY after 35?F"
     },
     {
         "command": "4",
@@ -207,7 +207,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Actionable for 21F* Shift to r15 SWY with b+3_4 after 7F with 14F delay* Shift to r1 DCK with f+3_4 after 7F with 14F delay* Input u+3_4 to shift to r8 LWV (laterally evasive transition) after 20F* SWY transition notes:* Transition is t45? r15 cs1~36? and actionable for 21F.* Can transition from SWY into LWV/RWV after 10F with 10F delay?* Can transition from SWY into DCK after 25F* DCK transition notes:* Transition is t60? r15 cs1~35? and actionable for 35F.* Can transition from DCK into LWV/RWV after 25?F* Can transition from DCK into SWY after 35?F"
+        "notes": "* Actionable for 21F * Shift to r15 SWY with b+3_4 after 7F with 14F delay * Shift to r1 DCK with f+3_4 after 7F with 14F delay * Input u+3_4 to shift to r8 LWV (laterally evasive transition) after 20F * Can cancel into r1 block when transitioning from attacks that transition to RWV * SWY transition notes: * Transition is t45? r15 cs1~36? and actionable for 21F. * Can transition from SWY into LWV/RWV after 10F with 10F delay? * Can transition from SWY into DCK after 25F * DCK transition notes: * Transition is t60? r15 cs1~35? and actionable for 35F. * Can transition from DCK into LWV/RWV after 25?F * Can transition from DCK into SWY after 35?F"
     },
     {
         "command": "1+2",
@@ -217,7 +217,7 @@
         "block": "-12",
         "hit": "+18a (+11)",
         "counter hit": "",
-        "notes": "Heat EngagerHeat Dash  (+5/+35d)"
+        "notes": "Heat Engager Heat Dash (+5/+35d)"
     },
     {
         "command": "1+2+4",
@@ -237,7 +237,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition into ALB* Input f into r10 PAB after 20F* Input u_d to shift into i13 ALB.d_u after 24F"
+        "notes": "* Transition into ALB * Input f into r10 PAB after 20F * Input u_d to shift into i13 ALB.d_u after 24F"
     },
     {
         "command": "f+2",
@@ -257,7 +257,7 @@
         "block": "-5",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 7F delay* Move can be delayed by 16F* Shift to r15? PAB with f (+0/+4)* Shift to r14? FLK with b (+1/+5)* r14? PAB/FLK FC cancel?"
+        "notes": "* Combo from 1st hit with 7F delay * Move can be delayed by 16F * Shift to r15? PAB with f (+0/+4) * Shift to r14? FLK with b (+1/+5) * r14? PAB/FLK FC cancel?"
     },
     {
         "command": "f+2,1~2",
@@ -277,7 +277,7 @@
         "block": "-6",
         "hit": "+11g",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 6F delay* Move can be delayed by 16F* Transistion to LNH* Input b to cancel LNH r29? (-10/+7)"
+        "notes": "* Combo from 1st hit with 6F delay * Move can be delayed by 16F * Transistion to LNH * Input b to cancel LNH r29? (-10/+7)"
     },
     {
         "command": "f+2,2,1+2",
@@ -287,7 +287,7 @@
         "block": "-12",
         "hit": "+5c",
         "counter hit": "",
-        "notes": "* Combo from 2nd CH* Spike* Floor Break"
+        "notes": "* Combo from 2nd CH * Spike * Floor Break"
     },
     {
         "command": "f+3",
@@ -297,7 +297,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to DCK* Actionable for 19F* Input u+3_4 to r25 cs1~25 LWV after 9F with 10F delay* Input d+3_4 to r25 cs1~25  RWV after 9F with 10F delay* Input b+3_4 to r10 SWY after 14F with 5F delay* Input f+3_4 to r6 EXD after 19F* Shift to r15 FC with db after 9F with 10F delay* WV transition notes:* Transition is t45 r25 cs1~25 and actionable for 14F.* Can immediately transition into r15 SWY with 14F delay?* Can immediately transition into r1 DCK with 14F delay?High crush 1~25"
+        "notes": "* Transition to DCK * Actionable for 19F * Input u+3_4 to r25 cs1~25 LWV after 9F with 10F delay * Input d+3_4 to r25 cs1~25 RWV after 9F with 10F delay * Input b+3_4 to r10 SWY after 14F with 5F delay * Input f+3_4 to r6 EXD after 19F * Shift to r15 FC with db after 9F with 10F delay * WV transition notes: * Transition is t45 r25 cs1~25 and actionable for 14F. * Can immediately transition into r15 SWY with 14F delay? * Can immediately transition into r1 DCK with 14F delay? High crush 1~25"
     },
     {
         "command": "f+1+2",
@@ -327,7 +327,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to PAB* i21? auto high/mid block* Can move forward with f after 20F* Can transition to r1 FC with db after 20F* Can transition to r1 standing with f+3+4 after 20F* Stance moves and the following transitions can be performed instantly after inputting f+3+4:* Input 3 to shift to r7? LWV (laterally evasive transition)* Input 4 to shift to r7? RWV (laterally evasive transition)* Input 3+4 to shift to r1? ALB* Input f+3_4 to shift to r6 DCK* Input b+3_4 to shift to r10 SWY"
+        "notes": "* Transition to PAB * i21? auto high/mid block * Can move forward with f after 20F * Can transition to r1 FC with db after 20F * Can transition to r1 standing with f+3+4 after 20F * Stance moves and the following transitions can be performed instantly after inputting f+3+4: * Input 3 to shift to r7? LWV (laterally evasive transition) * Input 4 to shift to r7? RWV (laterally evasive transition) * Input 3+4 to shift to r1? ALB * Input f+3_4 to shift to r6 DCK * Input b+3_4 to shift to r10 SWY"
     },
     {
         "command": "df+1",
@@ -337,7 +337,7 @@
         "block": "-2",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* Shift to LWV with 3 (-7/0)* Shift to RWV with 4 (-7/0)* Shift to SWY with b+3_4 (-7/0)* Shift to r20? DCK with f+3_4 (-5/+2)* r22? DCK FC cancel?"
+        "notes": "* Shift to LWV with 3 (-7/0) * Shift to RWV with 4 (-7/0) * Shift to SWY with b+3_4 (-7/0) * Shift to r20? DCK with f+3_4 (-5/+2) * r22? DCK FC cancel?"
     },
     {
         "command": "df+1,2",
@@ -347,7 +347,7 @@
         "block": "-6",
         "hit": "+3",
         "counter hit": "+5",
-        "notes": "* Combo from 1st hit* Cancel into r16? LWV with 3 to (-16/-9) at frame 17* Cancel into r16? RWV with 4 (-16/-9) at frame 17* Cancel into r16? SWY with b+3_4 (-16/-9) at frame 17* Cancel into r14? DCK with f+3_4 (-14/-7) at frame 17* r15? DCK FC cancel?"
+        "notes": "* Combo from 1st hit * Cancel into r16? LWV with 3 to (-16/-9) at frame 17 * Cancel into r16? RWV with 4 (-16/-9) at frame 17 * Cancel into r16? SWY with b+3_4 (-16/-9) at frame 17 * Cancel into r14? DCK with f+3_4 (-14/-7) at frame 17 * r15? DCK FC cancel?"
     },
     {
         "command": "df+1,2~1",
@@ -357,7 +357,7 @@
         "block": "-2",
         "hit": "+2",
         "counter hit": "+61a",
-        "notes": "* Shift to r14? FLK with b (+0/+4/+63a)* r14? FLK FC cancel?"
+        "notes": "* Shift to r14? FLK with b (+0/+4/+63a) * r14? FLK FC cancel?"
     },
     {
         "command": "df+1,2~2",
@@ -377,7 +377,7 @@
         "block": "-3",
         "hit": "+0",
         "counter hit": "+3",
-        "notes": "* Shift to r22? LWV with 3 (-4/-1/+2)* Shift to r22? RWV with 4 (-4/-1/+2)* Shift to r22? SWY with b+3_4 (-4/-1/+2)* Shift to r20? DCK with f+3_4 (-2/+1/+4)* r22? DCK FC cancel?"
+        "notes": "* Shift to r22? LWV with 3 (-4/-1/+2) * Shift to r22? RWV with 4 (-4/-1/+2) * Shift to r22? SWY with b+3_4 (-4/-1/+2) * Shift to r20? DCK with f+3_4 (-2/+1/+4) * r22? DCK FC cancel?"
     },
     {
         "command": "df+1,2~f+1+2,1",
@@ -426,8 +426,8 @@
         "startup": "i16",
         "block": "-11",
         "hit": "+6",
-        "counter hit": "+8c",
-        "notes": "* Shift to r22? LWV with 3 (-7/+10/+12c)* Shift to r22? RWV with 4 (-7/+10/+12c)* Shift to r22? SWY with b+3_4 (-7/+10/+12c)* Shift to r18? DCK with f+3_4 (-2/+15g/+17c)* r19? DCK FC cancel?"
+        "counter hit": "+10c",
+        "notes": "* Shift to r22? LWV with 3 (-7/+10/+14c) * Shift to r22? RWV with 4 (-7/+10/+14c) * Shift to r22? SWY with b+3_4 (-7/+10/+14c) * Shift to r18? DCK with f+3_4 (-2/+15g/+19c) * r19? DCK FC cancel?"
     },
     {
         "command": "d+1",
@@ -457,7 +457,7 @@
         "block": "-11",
         "hit": "-5",
         "counter hit": "+0",
-        "notes": "* Combo from 1st CH with 13F delay* Move can be delayed by 13F* Shift to r22 LWV with 3 (-6/+0/+5)* Shift to r22 RWV with 4 (-6/+0/+5)* Shift to r22 SWY with b+3_4 (-6/+0/+5)* Shift to r20 DCK with f+3_4 (-4/+2/+7)* r22? DCK FC cancel?"
+        "notes": "* Combo from 1st CH with 13F delay * Move can be delayed by 13F * Shift to r22 LWV with 3 (-6/+0/+5) * Shift to r22 RWV with 4 (-6/+0/+5) * Shift to r22 SWY with b+3_4 (-6/+0/+5) * Shift to r20 DCK with f+3_4 (-4/+2/+7) * r22? DCK FC cancel?"
     },
     {
         "command": "d+2,1,2",
@@ -467,7 +467,7 @@
         "block": "-2",
         "hit": "+27a (+18)",
         "counter hit": "+56a",
-        "notes": "* Balcony Break* Combo from 2nd CH"
+        "notes": "* Balcony Break * Combo from 2nd CH"
     },
     {
         "command": "db+1",
@@ -477,7 +477,7 @@
         "block": "-5",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Transition to Standing with fHigh crush 4~"
+        "notes": "* Transition to Standing with f High crush 4~"
     },
     {
         "command": "db+2",
@@ -487,7 +487,7 @@
         "block": "-12",
         "hit": "+1c",
         "counter hit": "+14d",
-        "notes": "* d or db to recover in r30 FCHigh crush 6~"
+        "notes": "* d or db to recover in r30 FC High crush 6~"
     },
     {
         "command": "db+3",
@@ -507,7 +507,7 @@
         "block": "-6",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* -27 on block after blocking first hit* Transition to r30 LNH* Input b to cancel into r34 LNH (-31/-10/+4)"
+        "notes": "* Combo from 1st hit * -27 on block after blocking first hit * Transition to r30 LNH * Input b to cancel into r34 LNH (-31/-10/+4)"
     },
     {
         "command": "db+1+2",
@@ -527,7 +527,7 @@
         "block": "-14",
         "hit": "+2",
         "counter hit": "+61a",
-        "notes": "* Input B to r16? FLK (-1/+10/+69)* r16? FLK FC cancel?"
+        "notes": "* Input B to r16? FLK (-1/+10/+69) * r16? FLK FC cancel?"
     },
     {
         "command": "b+1,2",
@@ -537,7 +537,7 @@
         "block": "+3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Homing* Strong Aerial Tailspin* Combo from 1st hit* Transitions to LNH* Input b to cancel LNH r34? (-1/+4)"
+        "notes": "* Homing * Strong Aerial Tailspin * Combo from 1st hit * Transitions to LNH * Input b to cancel LNH r34? (-1/+4)"
     },
     {
         "command": "b+1,2~1",
@@ -557,7 +557,7 @@
         "block": "-11",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Input F to r25? PAB (-9/+2)* r25? PAB FC cancel?High crush 13~"
+        "notes": "* Combo from 1st hit * Input F to r25? PAB (-9/+2) * r25? PAB FC cancel? High crush 13~"
     },
     {
         "command": "b+1,d+2,1",
@@ -567,7 +567,7 @@
         "block": "-9",
         "hit": "+35a (+20a)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 2nd CH"
+        "notes": "* Tornado * Combo from 2nd CH"
     },
     {
         "command": "b+1+3",
@@ -577,7 +577,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Parry h and m punches* Successful parry i14,30dmg (-12/+24a (+18)/+26a (+16))Parry state 5?"
+        "notes": "* Parry h and m punches * Successful parry i14,30dmg (-12/+24a (+18)/+26a (+16)) Parry state 5?"
     },
     {
         "command": "b+2",
@@ -597,7 +597,27 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to SWY* Actionable for 15F* Shift to r25 cs1?~25? LWV with u+3_4 after 5F with 10F delay* Shift to r25 cs1?~25? RWV with d+3_4 after 5F with 10F delay* Shift to r6 DCK with f+3_4 after 20F in SWY* WV transition notes:* Transition is t45 r25 cs1~25 and actionable for 14F.* Can immediately transition into r15 SWY with 14F delay?* Can immediately transition into r1 DCK with 14F delay?High crush 1~25"
+        "notes": "* Transition to SWY * Actionable for 15F * Shift to r25 cs1?~25? LWV with u+3_4 after 5F with 10F delay * Shift to r25 cs1?~25? RWV with d+3_4 after 5F with 10F delay * Shift to r6 DCK with f+3_4 after 20F in SWY * WV transition notes: * Transition is t45 r25 cs1~25 and actionable for 14F. * Can immediately transition into r15 SWY with 14F delay? * Can immediately transition into r1 DCK with 14F delay? High crush 1~25"
+    },
+    {
+        "command": "b+1+2",
+        "hit level": "m,h",
+        "damage": "8,20",
+        "startup": "i16,i12",
+        "block": "-8",
+        "hit": "+19d",
+        "counter hit": "",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "H.b+1+2,1+2",
+        "hit level": "m,h,m,h,m",
+        "damage": "8,4,3,3,20",
+        "startup": "i16,i12,i12,i12,i19",
+        "block": "-4",
+        "hit": "+36a (+10)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Transition to FLK (+3/+43a(+17)) with B * 8 chip damage on block * Partially uses remaining heat time"
     },
     {
         "command": "b+3+4",
@@ -607,17 +627,17 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to FLK* Actionable for 64F* Auto i5? high and mid neutral block high and mid?* Can cancel immediately into FC with db after b+3+4 input (3F iWS)* Can cancel immediately into r6 DCK with f+3_4* Can cancel immediately into r10 SWY with b+3_4* Input 3 to shift to r8 LWV (laterally evasive transition)* Input 4 to shift to r8 RWV (laterally evasive transition)"
+        "notes": "* Transition to FLK * Actionable for 64F * Auto i5? high and mid neutral block high and mid? * Can cancel immediately into FC with db after b+3+4 input (3F iWS) * Can cancel immediately into r6 DCK with f+3_4 * Can cancel immediately into r10 SWY with b+3_4 * Input 3 to shift to r8 LWV (laterally evasive transition) * Input 4 to shift to r8 RWV (laterally evasive transition)"
     },
     {
         "command": "ub+2",
         "hit level": "h",
         "damage": "17",
         "startup": "i17",
-        "block": "+3",
-        "hit": "+14",
+        "block": "+5",
+        "hit": "+14c",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Homing* Causes Strong Aerial Tailspin* Transition into LNH* Input b to cancel LNH r30? (+3/+14/+14)"
+        "notes": "* Strong Aerial Tailspin * Homing * 5 chip damage on block * Transition into LNH * Input b to cancel LNH r30? (+1/+10c)"
     },
     {
         "command": "ub+2~1",
@@ -637,7 +657,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to LNH* Actionable for 120F* Input 3 to shift to LWV (laterally evasive transition)* Input 4 to shift to RWV (laterally evasive transition)* Input f+3_4 to shift to DCK* Input b+3_4 to shift to SWY"
+        "notes": "* Transition to LNH * Actionable for 120F * Input 3 to shift to LWV (laterally evasive transition) * Input 4 to shift to RWV (laterally evasive transition) * Input f+3_4 to shift to DCK * Input b+3_4 to shift to SWY"
     },
     {
         "command": "ub+1+2",
@@ -650,6 +670,16 @@
         "notes": "* Balcony Break"
     },
     {
+        "command": "u+2",
+        "hit level": "",
+        "damage": "14",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "Low crush 12~35"
+    },
+    {
         "command": "uf+1",
         "hit level": "m",
         "damage": "18",
@@ -657,7 +687,7 @@
         "block": "-6",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* SpikeLow crush 9~"
+        "notes": "* Spike Low crush 9~"
     },
     {
         "command": "uf+2",
@@ -667,7 +697,7 @@
         "block": "-14",
         "hit": "+52a",
         "counter hit": "",
-        "notes": "* SpikeLow crush 9~"
+        "notes": "* Spike Low crush 9~"
     },
     {
         "command": "uf+3",
@@ -687,7 +717,7 @@
         "block": "-6",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* -27 on block after blocking 1st hit* Transition to r30? LNH* Input b to cancel into r34? LNH (-31/-10/+4)"
+        "notes": "* Combo from 1st hit * -27 on block after blocking 1st hit * Input b to cancel into r34? LNH (-31/-10/+4)"
     },
     {
         "command": "uf+4",
@@ -697,7 +727,7 @@
         "block": "-9",
         "hit": "+22a (+5)",
         "counter hit": "+36a (+26)",
-        "notes": "*Balcony BreakLow crush 9~"
+        "notes": "* Balcony Break Low crush 9~"
     },
     {
         "command": "1+2+3+4",
@@ -737,7 +767,7 @@
         "block": "-10",
         "hit": "+16a (+7)",
         "counter hit": "",
-        "notes": "Heat EngagerHeat Dash (+5/+36a (+26)/+36a (+26))* Balcony Break* Shift to r18? FLK with B (-3/+23a (+14)/+23a (+14))* r18? FLK FC cancel?"
+        "notes": "Heat Engager Heat Dash (+5/+36a (+26)/+36a (+26)) * Balcony Break * Shift to r18? FLK with B (-3/+23a (+14)/+23a (+14)) * r18? FLK FC cancel?"
     },
     {
         "command": "qcf+2",
@@ -747,7 +777,7 @@
         "block": "-18",
         "hit": "+2c",
         "counter hit": "",
-        "notes": "* Shift to r36? PAB with F (-18/+2c)* r36? FC cancel?High crush 10~"
+        "notes": "* Shift to r36? PAB with F (-18/+2c) * r36? FC cancel? High crush 10~"
     },
     {
         "command": "f,f,F+2",
@@ -757,7 +787,7 @@
         "block": "+6",
         "hit": "+10d",
         "counter hit": "",
-        "notes": "Heat EngagerHeat Dash (+5/+67a (+50)/-)* Balcony Break* Spike* 9 Chip Damage on block* 12 Chip Damage on block while in heatLow crush 9~"
+        "notes": "Heat Engager Heat Dash (+5/+67a (+50)/-) * Balcony Break * Spike * 9 chip damage on block Low crush 9~"
     },
     {
         "command": "WS.1",
@@ -777,17 +807,17 @@
         "block": "-3",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Combo from 1st CH with 11F delay* Move can be delayed by 11F* Shift to r22? LWV with 3 (-6/+0)* Shift to r22? RWV with 4 (-6/+0)* Shift to r22? SWY with b+3_4 (-6/+0)* Shift to r20? DCK with f+3_4 (-2/+4)* r22? DCK FC cancel?"
+        "notes": "* Combo from 1st hit * Combo from 1st CH with 11F delay * Move can be delayed by 11F * Shift to r22? LWV with 3 (-6/+0) * Shift to r22? RWV with 4 (-6/+0) * Shift to r22? SWY with b+3_4 (-6/+0) * Shift to r20? DCK with f+3_4 (-2/+4) * r22? DCK FC cancel?"
     },
     {
         "command": "WS.1,2",
         "hit level": "m, m",
-        "damage": "12, 20",
+        "damage": "12, 17",
         "startup": "i11~12, i13~14",
         "block": "-13",
         "hit": "+3c",
         "counter hit": "+23d",
-        "notes": "* Spike* Combo from 1st hit with 1F delay* Combo from 1st CH with 11F delay* Jail from 1st block with 3F delay* Move can be delayed by 11F"
+        "notes": "* Spike * Combo from 1st hit with 1F delay * Combo from 1st CH with 11F delay * Jail from 1st block with 3F delay * Move can be delayed by 11F"
     },
     {
         "command": "WS.2",
@@ -797,7 +827,7 @@
         "block": "-7",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Shift to r22? LWV with 3 (-7/+4)* Shift to r22? RWV with 4 (-7/+4)* Shift to r22? SWY with b+3_4 (-7/+4)* Shift to r20? DCK with f+3_4 (-5/+6)* r22? DCK FC cancel?"
+        "notes": "* Shift to r22? LWV with 3 (-7/+4) * Shift to r22? RWV with 4 (-7/+4) * Shift to r22? SWY with b+3_4 (-7/+4) * Shift to r20? DCK with f+3_4 (-5/+6) * r22? DCK FC cancel?"
     },
     {
         "command": "WS.2,2",
@@ -807,13 +837,13 @@
         "block": "-6",
         "hit": "+11",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 5F delay* Jail from 1st block with no delay* Move can be delayed by 5F* Transition to LNH* Input b to cancel LNH at r29? (-10/+7)"
+        "notes": "* Combo from 1st hit with 5F delay * Jail from 1st block with no delay * Move can be delayed by 5F * Transition to LNH * Input b to cancel LNH at r29? (-10/+7)"
     },
     {
         "command": "FC.df+2",
         "hit level": "m",
         "damage": "20",
-        "startup": "i16",
+        "startup": "i16~17",
         "block": "-15",
         "hit": "+34a (+24)",
         "counter hit": "",
@@ -827,7 +857,7 @@
         "block": "-3",
         "hit": "+16a (+7)",
         "counter hit": "",
-        "notes": "Heat EngagerHeat Dash (+5/+36a (+26)/-)* Balcony Break"
+        "notes": "Heat Engager Heat Dash (+5/+36a (+26)/-) * Balcony Break"
     },
     {
         "command": "ALB.d",
@@ -847,7 +877,7 @@
         "block": "-3",
         "hit": "+16a (+7)",
         "counter hit": "",
-        "notes": "* Balcony Break* ALB.d_u takes 37 frames, effective startup time is i49"
+        "notes": "* Balcony Break * ALB.d_u takes 37 frames, effective startup time is i49"
     },
     {
         "command": "ALB.d,d+1",
@@ -857,7 +887,7 @@
         "block": "-12",
         "hit": "+14d",
         "counter hit": "",
-        "notes": "* ALB.d_u takes 37 frames, effective startup time is i59High crush 6~"
+        "notes": "* ALB.d_u takes 37 frames, effective startup time is i59 High crush 6~"
     },
     {
         "command": "ALB.d+2",
@@ -907,7 +937,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block?"
+        "notes": "* Combo from 1st hit * Jail from 1st block?"
     },
     {
         "command": "DCK.1+2,1+2,1+2",
@@ -917,7 +947,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block?"
+        "notes": "* Combo from 1st hit * Jail from 1st block?"
     },
     {
         "command": "DCK.1+2,1+2,1+2,1+2",
@@ -927,17 +957,27 @@
         "block": "-12",
         "hit": "+32a (+22)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block?"
+        "notes": "* Combo from 1st hit * Jail from 1st block?"
     },
     {
         "command": "DCK.f+2",
         "hit level": "h",
         "damage": "21",
-        "startup": "i15",
-        "block": "-7",
-        "hit": "+9d",
-        "counter hit": "+49a",
-        "notes": "* Input 3 to LWV (+1/+17d/+57a)* Input 4 to RWV (+1/+17d/+57a)* Input b+3_4 to SWY (+1/+17d/+57a)* Input f+3_4 to DCK (+3/+19d/+59a)* 6 chip damage on block* 8 chip damage on block in heat"
+        "startup": "i15~16",
+        "block": "+5",
+        "hit": "+14c",
+        "counter hit": "+55a",
+        "notes": "* Strong Aerial Tailspin * Transition to standing (+1/+10c/+51a) with B * 6 chip damage on block"
+    },
+    {
+        "command": "DCK.f+2~1",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i28~29",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "+63a",
+        "notes": ""
     },
     {
         "command": "DCK.f+3",
@@ -947,7 +987,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Transition to EXD* Actionable for 19F* Input u+3_4 to r18 cs1~25 LWV after 9F with 10F delay* Input d+3_4 to r18 cs1~25 RWV after 9F with 10F delay* Input b+3_4 to r10 SWY after 14F with 5F delay* Input db to r15 FC with db after 9F with 10F delay* WV transition notes:* Transition is t38 r18 cs1~18 and actionable for 14F.* Can immediately transition into r15 SWY with 14F delay?* Can immediately transition into r1 DCK with 14F delay?"
+        "notes": "* Transition to EXD * Actionable for 19F * Input u+3_4 to r18 cs1~25 LWV after 9F with 10F delay * Input d+3_4 to r18 cs1~25 RWV after 9F with 10F delay * Input b+3_4 to r10 SWY after 14F with 5F delay * Input db to r15 FC with db after 9F with 10F delay * WV transition notes: * Transition is t38 r18 cs1~18 and actionable for 14F. * Can immediately transition into r15 SWY with 14F delay? * Can immediately transition into r1 DCK with 14F delay?"
     },
     {
         "command": "EXD.1",
@@ -957,7 +997,7 @@
         "block": "-7",
         "hit": "+44d (+36)",
         "counter hit": "+41a (+31)",
-        "notes": "* 8 chip damage on block* 9 chip damage on block in heat"
+        "notes": "* 8 chip damage on block"
     },
     {
         "command": "EXD.2",
@@ -967,17 +1007,27 @@
         "block": "-14",
         "hit": "+61a (+51)",
         "counter hit": "",
-        "notes": "* 6 chip damage on block* 8 chip damage on block in heat"
+        "notes": "* 6 chip damage on block"
     },
     {
         "command": "EXD.f+2",
         "hit level": "h",
         "damage": "28",
-        "startup": "i15",
-        "block": "+2",
-        "hit": "+49a",
+        "startup": "i15~16",
+        "block": "+5",
+        "hit": "+56a",
         "counter hit": "",
-        "notes": "* Input 3 to LWV (+10/+59a/-)* Input 4 to RWV (+10/+59a/-)* Input b+3_4 to SWY (+10/+57a/-)* Input f+3_4 to DCK (+12/+59a/-)* 11 chip damage on block* 12 chip damage on block in heat"
+        "notes": "* Strong Aerial Tailspin * Transition to standing (+1/+52a) with B * 11 chip damage on block"
+    },
+    {
+        "command": "EXD.f+2~1",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i28~29",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "+63a",
+        "notes": ""
     },
     {
         "command": "FLK.1",
@@ -987,7 +1037,7 @@
         "block": "-4",
         "hit": "+7",
         "counter hit": "",
-        "notes": "* Input b to stay in r18? FLK (-1/+10/+10)* Shift to r1? ALB with 3+4 (+17g/+28g/+28) with 2?F delay* r18? FLK FC cancel?"
+        "notes": "* Input b to stay in r18? FLK (-1/+10/+10) * Shift to r1? ALB with 3+4 (+17g/+28g/+28) with 2?F delay * r18? FLK FC cancel?"
     },
     {
         "command": "FLK.1,1",
@@ -997,7 +1047,7 @@
         "block": "-9",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Combo from 1st CH with 3F delay* Jail from 1st block with 3F delay* Move can be delayed by 3F* Input b to stay in r18? FLK (-4/+5/+5)* Shift to r1? ALB with 3+4 (+14g/+23g/+23)* r18? FLK FC cancel?"
+        "notes": "* Combo from 1st CH with 3F delay * Jail from 1st block with 3F delay * Move can be delayed by 3F * Input b to stay in r18? FLK (-4/+5/+5) * Shift to r1? ALB with 3+4 (+14g/+23g/+23) * r18? FLK FC cancel?"
     },
     {
         "command": "FLK.1,1,1",
@@ -1007,7 +1057,7 @@
         "block": "-9",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Combo from 2nd CH with 1F delay* Jail from 2nd block with 1F delay* Move can be delayed by 1F* Input b to stay in r18? FLK (-4/+5/+5)* Shift to r1 ALB with 3+4 (+14g/+23g/+23)"
+        "notes": "* Combo from 2nd CH with 1F delay * Jail from 2nd block with 1F delay * Move can be delayed by 1F * Input b to stay in r18? FLK (-4/+5/+5) * Shift to r1 ALB with 3+4 (+14g/+23g/+23)"
     },
     {
         "command": "FLK.1,1,1,2",
@@ -1017,7 +1067,7 @@
         "block": "-12",
         "hit": "+17a (+0)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 3rd hit"
+        "notes": "* Tornado * Combo from 3rd hit"
     },
     {
         "command": "FLK.1,1,2",
@@ -1027,7 +1077,7 @@
         "block": "-12",
         "hit": "+17a (+0)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 2nd CH* Same hit as (FLK.1,1,1),2"
+        "notes": "* Tornado * Combo from 2nd CH * Same hit as (FLK.1,1,1),2"
     },
     {
         "command": "FLK.1,1,d+1",
@@ -1037,7 +1087,7 @@
         "block": "+0",
         "hit": "+18g",
         "counter hit": "+42a",
-        "notes": "* Balcony Break* Combo from 2nd CH with 9F delay* Jail from 2nd block with no delay* Move can be delayed by 11F* Same hit as (FLK.1),d+1"
+        "notes": "* Balcony Break * Combo from 2nd CH with 9F delay * Jail from 2nd block with no delay * Move can be delayed by 11F * Same hit as (FLK.1),d+1"
     },
     {
         "command": "FLK.1,1,f+1",
@@ -1047,7 +1097,7 @@
         "block": "-5",
         "hit": "+0",
         "counter hit": "+10d",
-        "notes": "* Spike* Combo from 2nd CH with 9F delay* Jail from 2nd block with no delay* Move can be delayed by 11F* Same hit as (FLK.1),f+1"
+        "notes": "* Spike * Combo from 2nd CH with 9F delay * Jail from 2nd block with no delay * Move can be delayed by 11F * Same hit as (FLK.1),f+1"
     },
     {
         "command": "FLK.1,2",
@@ -1057,7 +1107,7 @@
         "block": "-12",
         "hit": "+17a (+0)",
         "counter hit": "",
-        "notes": "* Tornado* Combo from 1st CH* Same hit as (FLK.1,1,1),2"
+        "notes": "* Tornado * Combo from 1st CH * Same hit as (FLK.1,1,1),2"
     },
     {
         "command": "FLK.1,d+1",
@@ -1067,7 +1117,7 @@
         "block": "+0",
         "hit": "+18g",
         "counter hit": "+42a",
-        "notes": "* Balcony Break* Combo from 1st CH with 14F delay* Jail from 1st block with 3F delay* Move can be delayed by 14F"
+        "notes": "* Balcony Break * Combo from 1st CH with 14F delay * Jail from 1st block with 3F delay * Move can be delayed by 14F"
     },
     {
         "command": "FLK.1,f+1",
@@ -1077,7 +1127,7 @@
         "block": "-5",
         "hit": "+0",
         "counter hit": "+10d",
-        "notes": "* Spike* Combo from 1st CH with 14F delay* Jail from 1st block with 3F delay* Move can be delayed by 14F"
+        "notes": "* Spike * Combo from 1st CH with 14F delay * Jail from 1st block with 3F delay * Move can be delayed by 14F"
     },
     {
         "command": "FLK.2",
@@ -1087,7 +1137,7 @@
         "block": "-5c",
         "hit": "+7d",
         "counter hit": "+42a",
-        "notes": "* Spike* 6 chip damage on block* 8 chip damage on block in heat"
+        "notes": "* Spike * 6 chip damage on block"
     },
     {
         "command": "FLK.b+2",
@@ -1097,17 +1147,27 @@
         "block": "-9",
         "hit": "+35d (+27)",
         "counter hit": "",
-        "notes": "* Tornado* Balcony BreakPower crush 8~"
+        "notes": "* Tornado * Balcony Break Power crush 8~"
+    },
+    {
+        "command": "FLK.u+2",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i17~19",
+        "block": "-15",
+        "hit": "+34a (+24)",
+        "counter hit": "",
+        "notes": "* Tornado Low crush 12~35"
     },
     {
         "command": "LNH.1",
         "hit level": "m",
         "damage": "21",
         "startup": "i14-15",
-        "block": "-4",
-        "hit": "+9/HE",
+        "block": "-9",
+        "hit": "+15g",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5g +43a(+35)* Homing"
+        "notes": "* Balcony Break * Heat Engager * Heat Dash +5g +43a(+35) * Homing * Transition to r18 FLK (-3/+21g) with B"
     },
     {
         "command": "LNH.2",
@@ -1124,16 +1184,16 @@
         "hit level": "h",
         "damage": "24",
         "startup": "i18-19",
-        "block": "[[Steve combos#Mini-combos|+12]]",
+        "block": "+12",
         "hit": "+51a (+31)",
         "counter hit": "",
-        "notes": "* Guard Break* Reversal Break* Balcony Break* 9 chip damage on block* 11 chip damage on block in heat"
+        "notes": "* Guard Break * Reversal Break * Balcony Break * 9 chip damage on block"
     },
     {
         "command": "LWV.1",
         "hit level": "m",
         "damage": "14",
-        "startup": "i15",
+        "startup": "i14",
         "block": "-10",
         "hit": "+1",
         "counter hit": "",
@@ -1143,27 +1203,27 @@
         "command": "LWV.1,1",
         "hit level": "m, m",
         "damage": "14, 22",
-        "startup": "i15, i24~26",
+        "startup": "i14, i24~26",
         "block": "-13",
         "hit": "+28a (+19)",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Balcony Break* Combo from 1st hit with 5F delay* Move can be delayed by 10F"
+        "notes": "* Strong Aerial Tailspin * Balcony Break * Combo from 1st hit with 5F delay * Move can be delayed by 10F"
     },
     {
         "command": "LWV.1,2",
         "hit level": "m, h",
         "damage": "14, 14",
-        "startup": "i15, i22~23",
+        "startup": "i14, i22~23",
         "block": "+3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Homing* Combo from 1st hit with 7F delay* Move can be delayed by 10F* Transition to LNH* Input b to cancel LNH at r34? (-1/+4/+4)"
+        "notes": "* Strong Aerial Tailspin * Homing * Combo from 1st hit with 7F delay * Move can be delayed by 10F * Transition to LNH * Input b to cancel LNH at r34? (-1/+4/+4)"
     },
     {
         "command": "LWV.1,2~1",
         "hit level": "m, m",
         "damage": "14, 17",
-        "startup": "i15, i30~31",
+        "startup": "i14, i30~31",
         "block": "-8",
         "hit": "+4",
         "counter hit": "+63a",
@@ -1173,21 +1233,21 @@
         "command": "LWV.1,f+1",
         "hit level": "m, m",
         "damage": "14, 9",
-        "startup": "i15, i17",
+        "startup": "i14, i17",
         "block": "-3",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 10F delay* Jail from 1st block with 1F delay* Move can be delayed by 10F"
+        "notes": "* Combo from 1st hit with 10F delay * Jail from 1st block with 1F delay * Move can be delayed by 10F"
     },
     {
         "command": "LWV.1,f+1,1",
         "hit level": "m, m, h",
         "damage": "14, 9, 8",
-        "startup": "i15, ,i16",
+        "startup": "i14, ,i16",
         "block": "+3",
         "hit": "+7",
         "counter hit": "+68a",
-        "notes": "* Combo from 1st or 2nd hit* Shift to r14? FLK with b (+4/+8/+69a)* r14? FLK FC cancel?"
+        "notes": "* Combo from 1st or 2nd hit * Shift to r14? FLK with b (+4/+8/+69a) * r14? FLK FC cancel?"
     },
     {
         "command": "LWV.2",
@@ -1197,7 +1257,7 @@
         "block": "-5",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Shift to r10? PAB with f (-1/+8)* r10? PAB FC cancel?"
+        "notes": "* Shift to r10? PAB with f (-1/+8) * r10? PAB FC cancel?"
     },
     {
         "command": "LWV.2,1",
@@ -1207,7 +1267,7 @@
         "block": "-8",
         "hit": "+4c",
         "counter hit": "+7d",
-        "notes": "* Spike* Combo from 1st CH with 5F delay* Move can be delayed by 11F"
+        "notes": "* Spike * Combo from 1st CH with 5F delay * Move can be delayed by 11F"
     },
     {
         "command": "OTG.d+1+2",
@@ -1217,7 +1277,7 @@
         "block": "-11c",
         "hit": "+2",
         "counter hit": "+2",
-        "notes": "* Recovers in crouchHigh crush"
+        "notes": "* Recovers in crouch High crush"
     },
     {
         "command": "PAB.1",
@@ -1237,7 +1297,7 @@
         "block": "+0",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Jail from 1st block"
+        "notes": "* Combo from 1st hit * Jail from 1st block"
     },
     {
         "command": "PAB.1,2,1",
@@ -1247,17 +1307,27 @@
         "block": "-13",
         "hit": "+8c",
         "counter hit": "+44a",
-        "notes": "* Spike* Combo from 2nd CH with 8F delay* Jail from 1st block with no delay* Move can be delayed by 10F"
+        "notes": "* Spike * Combo from 2nd CH with 8F delay * Jail from 1st block with no delay * Move can be delayed by 10F"
     },
     {
         "command": "PAB.2",
         "hit level": "h",
         "damage": "19",
         "startup": "i14",
-        "block": "-3",
-        "hit": "+2",
-        "counter hit": "+58a",
-        "notes": "* Homing* Punch parry+0d and 25 damage on a successful parryParry state 7?-13"
+        "block": "+5",
+        "hit": "+14c",
+        "counter hit": "",
+        "notes": "* Homing * Transition to standing (+1/+10c) with B * Punch parry ** +0d and 25 damage on a successful parry * 5 chip damage on block Parry state 7?-13"
+    },
+    {
+        "command": "PAB.2~1",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i27~28",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "+63a",
+        "notes": ""
     },
     {
         "command": "PAB.b+1",
@@ -1277,7 +1347,7 @@
         "block": "-7",
         "hit": "-1",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 11F delay* Move can be delayed by 13F"
+        "notes": "* Combo from 1st hit with 11F delay * Move can be delayed by 13F"
     },
     {
         "command": "PAB.b+1,1,2",
@@ -1287,7 +1357,7 @@
         "block": "-11",
         "hit": "-5",
         "counter hit": "",
-        "notes": "* Combo from 2nd CH with 4F delay* Move can be delayed by 10F"
+        "notes": "* Combo from 2nd CH with 4F delay * Move can be delayed by 10F"
     },
     {
         "command": "PAB.b+1,1,2,1",
@@ -1297,7 +1367,7 @@
         "block": "-10",
         "hit": "+16a (+7)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 3rd hit* Jail from 3rd block* Shift to r18? FLK with b (-3/+23a (+14))* r18? FLK FC cancel?"
+        "notes": "* Balcony Break * Combo from 3rd hit * Jail from 3rd block * Shift to r18? FLK with b (-3/+23a (+14)) * r18? FLK FC cancel?"
     },
     {
         "command": "PAB.b+2",
@@ -1307,7 +1377,7 @@
         "block": "-13",
         "hit": "+11a (+2)",
         "counter hit": "",
-        "notes": "* Balcony Break* Backswing Blow"
+        "notes": "* Balcony Break * Backswing Blow"
     },
     {
         "command": "PAB.df+1",
@@ -1327,7 +1397,7 @@
         "block": "-10",
         "hit": "+1",
         "counter hit": "",
-        "notes": "* Combo from 1st hit with 7F delay* Move can be delayed by 12f"
+        "notes": "* Combo from 1st hit with 7F delay * Move can be delayed by 12f"
     },
     {
         "command": "PAB.df+1,1,2",
@@ -1337,7 +1407,7 @@
         "block": "-11",
         "hit": "-3",
         "counter hit": "",
-        "notes": "* Combo from 2nd CH with 5F delay* Move can be delayed by 10F"
+        "notes": "* Combo from 2nd CH with 5F delay * Move can be delayed by 10F"
     },
     {
         "command": "PAB.df+1,1,2,1",
@@ -1347,17 +1417,27 @@
         "block": "-13",
         "hit": "+17d",
         "counter hit": "",
-        "notes": "* Spike* Combo from 3rd hit with 2F delay* Jail from 3rd block with no delay* Move can be delayed by 2F"
+        "notes": "* Spike * Combo from 3rd hit with 2F delay * Jail from 3rd block with no delay * Move can be delayed by 2F"
     },
     {
         "command": "PAB.df+1,2",
         "hit level": "m, h",
         "damage": "12, 20",
-        "startup": "i15~16, i18-19",
-        "block": "-6",
-        "hit": "+10",
+        "startup": "i15~16, i17-18",
+        "block": "+3",
+        "hit": "+8",
         "counter hit": "",
-        "notes": "* Wall Crush +18g on hit* Combo from 1st hit with 8F delay* 6 Chip Damage on block* 8 Chip Damage on block in heat"
+        "notes": "* Strong Aerial Tailspin * Homing * Combo from 1st hit with 8F delay * Transitions to LNH * Transition to standing (-1/+4) with B"
+    },
+    {
+        "command": "PAB.df+1,2~1",
+        "hit level": "m, m",
+        "damage": "12, 17",
+        "startup": "i15~16, i30~31",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "+63a",
+        "notes": ""
     },
     {
         "command": "PAB.df+2",
@@ -1377,7 +1457,7 @@
         "block": "-12",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Alternate input: FC df1High crush 6~"
+        "notes": "* Alternate input: FC df1 High crush 6~"
     },
     {
         "command": "PAB.d+2",
@@ -1407,7 +1487,7 @@
         "block": "+1",
         "hit": "+24a (+14)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 1st hit* Interruptible by i16 or faster moves"
+        "notes": "* Balcony Break * Combo from 1st hit * Interruptible by i16 or faster moves"
     },
     {
         "command": "PAB.f+1+2",
@@ -1427,7 +1507,7 @@
         "block": "-15",
         "hit": "+34a (+24)",
         "counter hit": "",
-        "notes": "* TornadoLow crush 9~"
+        "notes": "* Tornado Low crush 9~"
     },
     {
         "command": "RWV.1",
@@ -1437,7 +1517,7 @@
         "block": "-5~-3",
         "hit": "+4~+6",
         "counter hit": "",
-        "notes": "* Shift to r10? PAB with f (-1~+1/+8~+10)* r10? PAB FC cancel?"
+        "notes": "* Shift to r10? PAB with f (-1~+1/+8~+10) * r10? PAB FC cancel?"
     },
     {
         "command": "RWV.1,2",
@@ -1447,7 +1527,7 @@
         "block": "+3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Homing* Combo from 1st hit with 2F delay* Move can be delayed by 11F* Transition into LNH* Input b to cancel LNH at r34? (-1/+4/+4)"
+        "notes": "* Strong Aerial Tailspin * Homing * Combo from 1st hit with 2F delay * Move can be delayed by 11F * Transition into LNH * Input b to cancel LNH at r34? (-1/+4/+4)"
     },
     {
         "command": "RWV.1,2~1",
@@ -1463,11 +1543,11 @@
         "command": "RWV.2",
         "hit level": "m",
         "damage": "22",
-        "startup": "i15",
+        "startup": "i14",
         "block": "-13",
         "hit": "+10a (+1)",
         "counter hit": "+31a (+5)",
-        "notes": "*Balcony Break"
+        "notes": "* Balcony Break"
     },
     {
         "command": "SWY.1",
@@ -1477,7 +1557,7 @@
         "block": "-1c~+0c",
         "hit": "+14c~+15c",
         "counter hit": "",
-        "notes": "* Can be +15c at farther ranges* 10 chip damage on block* 11 chip damage on block in heat"
+        "notes": "* Can be +15c at farther ranges * 10 chip damage on block"
     },
     {
         "command": "SWY.2",
@@ -1497,7 +1577,7 @@
         "block": "-6",
         "hit": "",
         "counter hit": "",
-        "notes": "*Homing* Throw break 1 or 2"
+        "notes": "* Homing * Throw break 1 or 2"
     },
     {
         "command": "2+4",
@@ -1507,7 +1587,7 @@
         "block": "-3",
         "hit": "",
         "counter hit": "",
-        "notes": "*Homing* Floor Break* Throw break 1 or 2"
+        "notes": "* Homing * Floor Break * Throw break 1 or 2"
     },
     {
         "command": "Back throw",
@@ -1567,7 +1647,7 @@
         "block": "-2",
         "hit": "+1 / +10~17wc",
         "counter hit": "",
-        "notes": "* 3 damage on wall crush* +10 when opponent hits the wall, if the throw is successful* Frame advantage on wall crush increases up to +17 the further the opponent is from the wall* Throw break 1+2* 10F throw break window for NH and CH SWY.1+2"
+        "notes": "* 3 damage on wall crush * +10 when opponent hits the wall, if the throw is successful * Frame advantage on wall crush increases up to +17 the further the opponent is from the wall * Throw break 1+2 * 10F throw break window for NH and CH SWY.1+2"
     },
     {
         "command": "SWY.1+2~b",
@@ -1577,7 +1657,7 @@
         "block": "-2",
         "hit": "+1 / +13~23?wc",
         "counter hit": "",
-        "notes": "* 3 damage on wall crush* +13 when opponent hits the wall after being rotated by < 90 degrees* +17 when opponent hits the wall after being rotated by > 90 degrees* +23? when opponent hits the wall after being rotated by 180 degrees?* Frame advantage on wall crush increases up to +23? the further the opponent is from the wall* Throw break 1+2* 10F throw break window for NH and CH SWY.1+2"
+        "notes": "* 3 damage on wall crush * +13 when opponent hits the wall after being rotated by < 90 degrees * +17 when opponent hits the wall after being rotated by > 90 degrees * +23? when opponent hits the wall after being rotated by 180 degrees? * Frame advantage on wall crush increases up to +23? the further the opponent is from the wall * Throw break 1+2 * 14F? throw break window for NH and CH SWY.1+2"
     },
     {
         "command": "TFA.1",
@@ -1587,7 +1667,7 @@
         "block": "+0",
         "hit": "+14",
         "counter hit": "",
-        "notes": "* Press 1 for throw break* Partially uses remaining heat time"
+        "notes": "* Press 1 for throw break * Partially uses remaining heat time"
     },
     {
         "command": "TFA.2",
@@ -1597,7 +1677,7 @@
         "block": "+0",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Press 2 for throw break* Partially uses remaining heat time"
+        "notes": "* Press 2 for throw break * Partially uses remaining heat time"
     },
     {
         "command": "qcb+2+4",

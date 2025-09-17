@@ -2,12 +2,12 @@
     {
         "command": "2+3",
         "hit level": "m",
-        "damage": "12",
+        "damage": "[12;12]",
         "startup": "i16",
         "block": "+1",
-        "hit": "+2",
+        "hit": "+2c",
         "counter hit": "",
-        "notes": "* Heat Burst* Alternate input: R1* Can be cancelled with input b,bPower crush 7"
+        "notes": "* Heat Burst * Cancel to r45 with b,b on frame 42 * 2 chip damage on block * 12 chip damage on hit * Only deals recoverable damage * Cannot cause a K.O. Power crush 7~16"
     },
     {
         "command": "H.IAI.d+2",
@@ -17,37 +17,37 @@
         "block": "+8",
         "hit": "+20 (+2)",
         "counter hit": "",
-        "notes": "* Transition to IAI* Deals 18 chip damage on block"
+        "notes": "* Transition to IAI * Deals 10 chip damage on block"
     },
     {
         "command": "H.db+1+2",
         "hit level": "m",
         "damage": "30",
         "startup": "i28~29",
-        "block": "+6",
+        "block": "+9",
         "hit": "+6a (-4)",
         "counter hit": "",
-        "notes": "* Transitions to IAI* Partially uses remaining Heat time"
+        "notes": "* Transitions to IAI * Partially uses remaining Heat time"
     },
     {
         "command": "H.u+1+2",
         "hit level": "m",
-        "damage": "51",
+        "damage": "46",
         "startup": "i31~32",
         "block": "-4",
         "hit": "+0a (-1)",
         "counter hit": "",
-        "notes": "* Balcony Break* Victor teleports overhead on frame 10 and descends downward for the rest of the startup; evades some highs and mids but vulnerable on descent (lows, throws, etc. hit)* Deals 23 chip damage on blockis10~? Low crush ?~"
+        "notes": "* Balcony Break * Victor teleports overhead on frame 10 and descends downward for the rest of the startup; evades some highs and mids but vulnerable on descent (lows, throws, etc. hit) * Deals 23 chip damage on block is10~? Low crush ?~"
     },
     {
         "command": "H.2+3",
         "hit level": "l,m",
         "damage": "39",
         "startup": "i20",
-        "block": "-15",
+        "block": "-14",
         "hit": "th",
         "counter hit": "",
-        "notes": "* Heat Smash* Alternate input: H.R1"
+        "notes": "* Heat Smash * Balcony Break * Alternate input: H.R1 * 8 chip damage on block"
     },
     {
         "command": "R.df+1+2",
@@ -57,7 +57,7 @@
         "block": "-15",
         "hit": "+0d",
         "counter hit": "",
-        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
     },
     {
         "command": "1",
@@ -72,22 +72,22 @@
     {
         "command": "1,1",
         "hit level": "h, h",
-        "damage": "5, 7",
+        "damage": "5, 5",
         "startup": "i10, i16",
         "block": "-3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit"
+        "notes": "* Combo from 1st hit with 2F delay * Jail from 1st block with 1F delay"
     },
     {
         "command": "1,1,2",
         "hit level": "h, h, h,h",
-        "damage": "5, 7, 5,10",
+        "damage": "5, 5, 5,7",
         "startup": "i10, ,i17~18,i9~10",
         "block": "-12",
         "hit": "+3",
         "counter hit": "",
-        "notes": "* Combo from 1st hit"
+        "notes": "* Combo from 1st hit * Jail from 1st block * Transition to PRF (-8/+7) with F"
     },
     {
         "command": "1,2",
@@ -97,7 +97,7 @@
         "block": "-3",
         "hit": "+8",
         "counter hit": "",
-        "notes": "* Combo from 1st hit"
+        "notes": "* Combo from 1st hit with 2F delay * Jail from 1st block with 2F delay"
     },
     {
         "command": "1,2,1",
@@ -107,7 +107,7 @@
         "block": "-12",
         "hit": "+18a (+1)",
         "counter hit": "+72a (+56a)",
-        "notes": "* Tornado* Balcony Break* Combo from 2nd CH"
+        "notes": "* Tornado * Balcony Break * Combo from 2nd CH with 3F delay * Move can be delayed by 12F"
     },
     {
         "command": "1,3",
@@ -127,7 +127,7 @@
         "block": "-3",
         "hit": "-2",
         "counter hit": "",
-        "notes": "* Throw break: 1 or 2* Opponent recovery on hit: FDFT"
+        "notes": "* Throw break: 1 or 2 * Opponent recovery on hit: FDFT"
     },
     {
         "command": "2",
@@ -147,17 +147,17 @@
         "block": "-6 / -4 PRF",
         "hit": "+5 / +7 PRF",
         "counter hit": "",
-        "notes": "* Transition to PRF with F* Combo from 1st hit"
+        "notes": "* Transition to PRF with F * Combo from 1st hit"
     },
     {
         "command": "2,2",
         "hit level": "h, m,m",
         "damage": "10, 5,5",
         "startup": "i12~13, i17~18,i7",
-        "block": "-12",
+        "block": "-10",
         "hit": "-2",
         "counter hit": "",
-        "notes": "*-10 if last hit whiffs* Combo from 1st hit"
+        "notes": "*-10 if last hit whiffs * Combo from 1st hit"
     },
     {
         "command": "2,2,2",
@@ -167,7 +167,7 @@
         "block": "-3",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Wall Crush +12g on hit* Combo from 1st hit* 4 chip damage on blocked gunshot* Transitions to IAI on hit or block"
+        "notes": "* Strong Aerial Tailspin * Wall Crush +12g on hit * Combo from 1st hit * 4 chip damage on blocked gunshot * Transitions to IAI on hit or block"
     },
     {
         "command": "2+4",
@@ -177,7 +177,7 @@
         "block": "-3",
         "hit": "-4",
         "counter hit": "",
-        "notes": "* Throw break: 1 or 2* Opponent recovery on hit: opp. side FDFT off-axis to the right"
+        "notes": "* Throw break: 1 or 2 * Opponent recovery on hit: opp. side FDFT off-axis to the right"
     },
     {
         "command": "3",
@@ -197,7 +197,7 @@
         "block": "-9",
         "hit": "+5",
         "counter hit": "",
-        "notes": "* Combo from 1st hit*delayable"
+        "notes": "* Combo from 1st hit *delayable"
     },
     {
         "command": "4",
@@ -227,14 +227,14 @@
         "block": "-13",
         "hit": "+34d (+13)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd CH* Deals 7 chip damage on block"
+        "notes": "* Balcony Break * Combo from 2nd CH * Deals 7 chip damage on block"
     },
     {
         "command": "1+2",
         "hit level": "m",
         "damage": "17",
         "startup": "i15",
-        "block": "-8",
+        "block": "-9",
         "hit": "+2",
         "counter hit": "+46a",
         "notes": ""
@@ -307,7 +307,7 @@
         "block": "-15",
         "hit": "+20 (+15)",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 3rd hit* Combo from 2nd CH* Hit confirmable if (f22)1 is ch"
+        "notes": "* Balcony Break * Combo from 3rd hit * Combo from 2nd CH * Hit confirmable if (f22)1 is ch"
     },
     {
         "command": "f+2,2,2",
@@ -317,7 +317,7 @@
         "block": "-13",
         "hit": "+20a",
         "counter hit": "",
-        "notes": "* Balcony Break* Combo from 2nd CH"
+        "notes": "* Balcony Break * Combo from 2nd CH"
     },
     {
         "command": "f+3",
@@ -327,17 +327,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Can transition to FC with df* Punch parry from frame 5 to 10"
-    },
-    {
-        "command": "f+3",
-        "hit level": "sp",
-        "damage": "",
-        "startup": "i20",
-        "block": "",
-        "hit": "",
-        "counter hit": "",
-        "notes": "* Can cancel into FC with df* Punch parry only* Successful parry puts Victor in PRF at +15Parry state 5-10"
+        "notes": "* Can cancel into r20 cs5~ FC with df * Punch parry only * +15 PRF on successful parry * Can perform Heat Burst and Heat Smash from stance Parry state 5-10"
     },
     {
         "command": "f+4",
@@ -357,7 +347,7 @@
         "block": "-4",
         "hit": "+18a (+9) / HE",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Heat Dash +5, +34a (+27)* Combo from 1st hit"
+        "notes": "* Balcony Break * Heat Engager * Heat Dash +5, +34a (+27) * Combo from 1st hit"
     },
     {
         "command": "f+4,2",
@@ -365,19 +355,19 @@
         "damage": "15, 20",
         "startup": "i14, i26~27",
         "block": "-12",
-        "hit": "+5",
+        "hit": "+5c",
         "counter hit": "+7a / +5",
-        "notes": "* Combo from 1st hit* CH on last hit or wallhit causes FDFA knockdown* Transition to IAI with d or 3+4"
+        "notes": "* Combo from 1st hit * CH on last hit or wallhit causes FDFA knockdown * Transition to IAI (-12/+5c/+7a) with D or 3+4"
     },
     {
         "command": "f+1+2",
         "hit level": "m",
-        "damage": "35",
+        "damage": "30",
         "startup": "i24~25",
-        "block": "-9",
+        "block": "+3",
         "hit": "+1a / HE",
         "counter hit": "",
-        "notes": "* Balcony Break* Heat Engager* Heat Dash +5, +67a (+50a)* Deals 10 chip damage on block* Partially restores Heat on hit"
+        "notes": "* Balcony Break * Heat Engager * Heat Dash +5, +67a (+50a) * Deals 10 chip damage on block * Partially restores Heat on hit"
     },
     {
         "command": "df+1",
@@ -427,7 +417,7 @@
         "block": "-9",
         "hit": "+2",
         "counter hit": "",
-        "notes": "* Knee* Combo from 1st CH"
+        "notes": "* Knee * Combo from 1st CH"
     },
     {
         "command": "df+3,4,2",
@@ -437,7 +427,7 @@
         "block": "-9",
         "hit": "+17a (+10)",
         "counter hit": "+35a",
-        "notes": "* Tornado* Deals 6 chip damage on block"
+        "notes": "* Tornado * Deals 6 chip damage on block"
     },
     {
         "command": "df+4",
@@ -457,12 +447,12 @@
         "block": "-3",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Wall Crush +12g on hit* Combo from 1st hit* Deals 6 chip damage on blocked gunshot* Transitions to IAI (cannot cancel)"
+        "notes": "* Strong Aerial Tailspin * Wall Crush +12g on hit * Combo from 1st hit * Deals 6 chip damage on blocked gunshot * Transitions to IAI (cannot cancel)"
     },
     {
         "command": "df+3+4",
         "hit level": "m",
-        "damage": "32",
+        "damage": "28",
         "startup": "i14~15",
         "block": "-17",
         "hit": "+16 (+11)",
@@ -487,7 +477,7 @@
         "block": "-7",
         "hit": "+6",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* -26 on 1st block"
+        "notes": "* Combo from 1st hit * -26 on 1st block"
     },
     {
         "command": "d+2",
@@ -497,7 +487,7 @@
         "block": "+0",
         "hit": "+4 / HE",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +67a (+50a)* 6 chip damage on block* 8 chip damage on block in heat"
+        "notes": "* Heat Engager * Heat Dash +5, +67a (+50a) * 6 chip damage on block"
     },
     {
         "command": "d+3",
@@ -514,8 +504,8 @@
         "hit level": "l",
         "damage": "10",
         "startup": "i16",
-        "block": "-14",
-        "hit": "-3",
+        "block": "-13",
+        "hit": "-2",
         "counter hit": "+0 (th)",
         "notes": ""
     },
@@ -527,7 +517,7 @@
         "block": "-9",
         "hit": "+17 (+10)",
         "counter hit": "+35a",
-        "notes": "* Tornado* Deals 6 chip damage on block"
+        "notes": "* Tornado * Deals 6 chip damage on block"
     },
     {
         "command": "db+1",
@@ -547,7 +537,7 @@
         "block": "-7 / -5 PRF",
         "hit": "+2 / +4 PRF",
         "counter hit": "",
-        "notes": "* Transition to PRF with F* Combo from 1st hit"
+        "notes": "* Transition to PRF with F * Combo from 1st hit"
     },
     {
         "command": "db+2",
@@ -564,10 +554,10 @@
         "hit level": "h",
         "damage": "20",
         "startup": "i19~20",
-        "block": "-8",
-        "hit": "+40d (-18d)",
-        "counter hit": "+67a (+57a)",
-        "notes": "* Tornado* Balcony BreakHigh crush 6"
+        "block": "-11",
+        "hit": "+67a (+51a)",
+        "counter hit": "",
+        "notes": "* Tornado * Balcony Break High crush 6"
     },
     {
         "command": "db+4",
@@ -597,17 +587,17 @@
         "block": "-8",
         "hit": "+0",
         "counter hit": "",
-        "notes": "* Side switch after attack throw connects* Hit Confirmable on counter hit* Combo from 1st CH"
+        "notes": "* Side switch after attack throw connects * Hit Confirmable on counter hit * Combo from 1st CH"
     },
     {
         "command": "b+2",
         "hit level": "h",
         "damage": "5",
-        "startup": "i12",
-        "block": "-9",
-        "hit": "+2",
+        "startup": "i10",
+        "block": "-6",
+        "hit": "+5",
         "counter hit": "+14",
-        "notes": ""
+        "notes": "* Deals recoverable damage only; cannot cause a K.O."
     },
     {
         "command": "b+3",
@@ -627,7 +617,7 @@
         "block": "-13",
         "hit": "+21a (+16)",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Hit Confirmable* Balcony Break"
+        "notes": "* Combo from 1st hit with 7F delay * Balcony Break"
     },
     {
         "command": "b+4",
@@ -635,9 +625,9 @@
         "damage": "20",
         "startup": "i18~19",
         "block": "-2",
-        "hit": "+13g",
-        "counter hit": "+14c",
-        "notes": "* Homing* Balcony Break"
+        "hit": "+13",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
     },
     {
         "command": "b+1+2",
@@ -645,9 +635,9 @@
         "damage": "25",
         "startup": "i19~20",
         "block": "-9",
-        "hit": "+42d (-16d) / HE",
-        "counter hit": "+42d (-16d) / HE",
-        "notes": "* Heat Engager* Heat Dash +5, +43d (+35d)* Balcony Break* Deals 7 chip damage on blockPower crush 7~"
+        "hit": "+16d",
+        "counter hit": "+16d",
+        "notes": "* Balcony Break * 7 chip damage on block Power crush 7~"
     },
     {
         "command": "b+1+4",
@@ -662,12 +652,12 @@
     {
         "command": "u+1+2",
         "hit level": "m",
-        "damage": "37",
+        "damage": "32",
         "startup": "i31~32",
         "block": "-20",
         "hit": "+1a",
         "counter hit": "",
-        "notes": "* Deals 11 chip damage on block* Victor teleports overhead on frame 10 and descends downward for the rest of the startup; evades some highs and mids but vulnerable on descent (lows, throws, etc. hit)is10~? Low crush ?~"
+        "notes": "* Deals 11 chip damage on block * Victor teleports overhead on frame 10 and descends downward for the rest of the startup; evades some highs and mids but vulnerable on descent (lows, throws, etc. hit) is10~? Low crush ?~"
     },
     {
         "command": "uf+1",
@@ -684,10 +674,10 @@
         "hit level": "m, m",
         "damage": "9, 21",
         "startup": "i13, i25~26",
-        "block": "-14 / -10 IAI",
-        "hit": "+15 / +3 IAI",
+        "block": "-14",
+        "hit": "+15gc",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Combo from 1st hit* Twitch confirmable* Cancel the second hit with down or 3+4 to go into IAI"
+        "notes": "* Tornado * Balcony Break * Combo from 1st hit with 8F delay * Opponent recovers crouching on hit * Transition to PRF (-10/+19gc) with F * Cancel into IAI (-10/+3) with D or 3+4"
     },
     {
         "command": "uf+2",
@@ -717,7 +707,7 @@
         "block": "-19",
         "hit": "+73a (+57a)",
         "counter hit": "",
-        "notes": "* Tornado* Followup available only on 1st hitLow crush 14"
+        "notes": "* Tornado * Followup available only on 1st hit Low crush 9"
     },
     {
         "command": "uf+1+2",
@@ -727,7 +717,7 @@
         "block": "-3",
         "hit": "-4",
         "counter hit": "",
-        "notes": "* Floor Break* Throw break: 1+2* Opponent recovery on hit: FUFA"
+        "notes": "* Floor Break * Throw break: 1+2 * Opponent recovery on hit: FUFA"
     },
     {
         "command": "1+2+3+4",
@@ -747,7 +737,7 @@
         "block": "",
         "hit": "-3",
         "counter hit": "",
-        "notes": "* Throw break: none* Opponent recovery on hit: FUFA"
+        "notes": "* Throw break: none * Opponent recovery on hit: FUFA"
     },
     {
         "command": "Left throw",
@@ -757,7 +747,7 @@
         "block": "-3",
         "hit": "-2",
         "counter hit": "",
-        "notes": "* Throw break: 1* Opponent recovery on hit: FDFT"
+        "notes": "* Throw break: 1 * Opponent recovery on hit: FDFT"
     },
     {
         "command": "Right throw",
@@ -767,7 +757,7 @@
         "block": "-3",
         "hit": "-4",
         "counter hit": "",
-        "notes": "* Throw break: 2* Opponent recovery on hit: opp. side FDFT off-axis to the right"
+        "notes": "* Throw break: 2 * Opponent recovery on hit: opp. side FDFT off-axis to the right"
     },
     {
         "command": "b,B+2+3",
@@ -787,7 +777,7 @@
         "block": "-16",
         "hit": "+33a (+23a)",
         "counter hit": "",
-        "notes": "* Tornado* Deals 7 chip damage on block"
+        "notes": "* Tornado * Deals 7 chip damage on block"
     },
     {
         "command": "qcf+2",
@@ -797,7 +787,7 @@
         "block": "-3",
         "hit": "+4",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin* Wall Crush +12g on hit* Transition to IAI* Deals 6 chip damage on block"
+        "notes": "* Strong Aerial Tailspin * Wall Crush +12g on hit * Transition to IAI * Deals 6 chip damage on block"
     },
     {
         "command": "ub,b",
@@ -817,7 +807,17 @@
         "block": "+2",
         "hit": "+34d (-24d)",
         "counter hit": "+61a (+45a)",
-        "notes": "* Balcony Break* Deals 6 chip damage on block* Transition to IAI with d or 3+4 at +5 / +37d (-21d) / +64a (+48a)"
+        "notes": "* Balcony Break * Deals 6 chip damage on block * Transition to IAI with d or 3+4 at +5 / +37d (-21d) / +64a (+48a)"
+    },
+    {
+        "command": "f,f,F+1+2",
+        "hit level": "L,L",
+        "damage": "10,14",
+        "startup": "i18, i14~15",
+        "block": "-14",
+        "hit": "+4 IAI",
+        "counter hit": "+15g",
+        "notes": "* Transition to r18 IAI at +4 on hit High crush 15~"
     },
     {
         "command": "ws1",
@@ -843,7 +843,7 @@
         "command": "ws3",
         "hit level": "h",
         "damage": "16",
-        "startup": "i15~16",
+        "startup": "i14~15",
         "block": "-14",
         "hit": "+6",
         "counter hit": "",
@@ -853,11 +853,11 @@
         "command": "ws3,2",
         "hit level": "h, sm",
         "damage": "16, 23",
-        "startup": "i15~16, i30~32",
+        "startup": "i14~15, i30~32",
         "block": "-9",
         "hit": "+17a (+10a)",
         "counter hit": "+35a",
-        "notes": "* Tornado* Combo from 1st hit* Deals 6 chip damage on block"
+        "notes": "* Tornado * Combo from 1st hit * Deals 6 chip damage on block"
     },
     {
         "command": "ws4",
@@ -872,12 +872,12 @@
     {
         "command": "ws1+2",
         "hit level": "m,m",
-        "damage": "10,17",
+        "damage": "10,12",
         "startup": "i13~14,i9~10",
-        "block": "-8 / -8 PRF",
-        "hit": "+8 / +8 PRF",
+        "block": "-8",
+        "hit": "+8",
         "counter hit": "",
-        "notes": "* Transition to PRF with F"
+        "notes": "* Transition to PRF (-8/+8) with F"
     },
     {
         "command": "SS.1+2",
@@ -897,7 +897,7 @@
         "block": "-23, -13",
         "hit": "+0",
         "counter hit": "",
-        "notes": "*Not parryable (weapon low)"
+        "notes": "*Not parryable (weapon low) *Transition to PRF (-17 / +6) with F"
     },
     {
         "command": "CH.db+4",
@@ -937,7 +937,7 @@
         "block": "-14 / -11 IAI",
         "hit": "+15g / +2 IAI",
         "counter hit": "",
-        "notes": "* Tornado* Balcony Break* Combo from 1st hit* Can cancel the second hit by holding down or pressing 3+4. Will transition to IAI* Hit confirmable 10F"
+        "notes": "* Tornado * Balcony Break * Combo from 1st hit with 9F delay * Move can be delayed by 10F * Input can be delayed by 11F * Opponent recovers crouching on hit * Transition to PRF (-10/+19gc) with F * Cancel into IAI (-11/+2) with D or 3+4"
     },
     {
         "command": "IAI.1,2",
@@ -947,7 +947,7 @@
         "block": "-19",
         "hit": "+25a (+10)",
         "counter hit": "+25a (+10)",
-        "notes": "* Combo from 1st hit* Hit Confirmable 11F* Deals 6 chip damage on blockLow crush"
+        "notes": "* Combo from 1st hit * Hit Confirmable 11F * Deals 6 chip damage on block Low crush"
     },
     {
         "command": "IAI.1,2,2",
@@ -957,7 +957,7 @@
         "block": "-18c",
         "hit": "+8a (-27)",
         "counter hit": "+8a (-27)",
-        "notes": "* Spike* Combo from 1st hit* Deals 15 (6+9) chip damage on blockis? Low crush ?"
+        "notes": "* Spike * Combo from 1st hit * Deals 15 (6+9) chip damage on block is? Low crush ?"
     },
     {
         "command": "IAI.1,1+2",
@@ -967,31 +967,31 @@
         "block": "+3",
         "hit": "+20a (-6)",
         "counter hit": "+21a",
-        "notes": "* Combo from 1st hit* Deals 9 chip damage on block* Hit confirmable 11F* Opponent is FUFA on CHLow crush"
+        "notes": "* Homing * Combo from 1st hit * Deals 9 chip damage on block * Hit confirmable 11F * Opponent is FUFA on CH Low crush"
     },
     {
         "command": "IAI.2",
         "hit level": "m",
         "damage": "23",
         "startup": "i16~17",
-        "block": "-7",
+        "block": "-9",
         "hit": "+15 (+5)",
-        "counter hit": "",
-        "notes": "* Balcony Break* Tornado* Deals 9 chip damage on block"
+        "counter hit": "+26a",
+        "notes": "* Balcony Break * Tornado * Deals 9 chip damage on block * FUFA knockdown on CH"
     },
     {
         "command": "IAI.3",
         "hit level": "m,th(m)",
         "damage": "13 (25)",
         "startup": "i17",
-        "block": "-14",
+        "block": "-13",
         "hit": "+25 (+10)",
         "counter hit": "",
-        "notes": "* KneePower crush 8?~"
+        "notes": "* Knee Power crush 8~16"
     },
     {
         "command": "IAI.4",
-        "hit level": "l",
+        "hit level": "L",
         "damage": "17",
         "startup": "i18~19",
         "block": "-13",
@@ -1001,13 +1001,13 @@
     },
     {
         "command": "IAI.4,2",
-        "hit level": "l, h",
+        "hit level": "L, h",
         "damage": "17, 20",
         "startup": "i18~19, i26~27",
         "block": "-5",
         "hit": "+26 (+0)",
         "counter hit": "+55a (+35a)",
-        "notes": "Strong Aerial Tailspin* Balcony Break* Combo from 1st hit* Deals 8 chip damage on block"
+        "notes": "Strong Aerial Tailspin * Balcony Break * Combo from 1st hit * Deals 8 chip damage on block"
     },
     {
         "command": "IAI.1+2",
@@ -1017,7 +1017,7 @@
         "block": "+3",
         "hit": "+20 (-6)",
         "counter hit": "+21a",
-        "notes": "* Deals 12 chip damage on block* Opponent is FUFA on CHLow crush 10"
+        "notes": "* Homing * Deals 12 chip damage on block * Opponent is FUFA on CH Low crush 10"
     },
     {
         "command": "IAI.P.f",
@@ -1027,7 +1027,7 @@
         "block": "",
         "hit": "+60 (+44)",
         "counter hit": "",
-        "notes": "* Balcony Break* Tornado"
+        "notes": "* Balcony Break * Tornado"
     },
     {
         "command": "IAI.b",
@@ -1050,6 +1050,16 @@
         "notes": "High crush 1~30"
     },
     {
+        "command": "IAI.d+1",
+        "hit level": "M",
+        "damage": "25",
+        "startup": "i18",
+        "block": "-2",
+        "hit": "+24a (+9)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +5, +42a (+27a) * Balcony Break * 7 chip damage on block"
+    },
+    {
         "command": "IAI.d+2",
         "hit level": "m",
         "damage": "31",
@@ -1057,7 +1067,7 @@
         "block": "+4",
         "hit": "0 (-7)",
         "counter hit": "",
-        "notes": "* Transition to IAI* Deals 11 chip damage on block"
+        "notes": "* Transition to IAI * Deals 6 chip damage on block"
     },
     {
         "command": "IAI.d+1+2",
@@ -1077,7 +1087,7 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "* Parries low attacksHigh crush 4~17"
+        "notes": "* Parries low attacks High crush 4~17"
     },
     {
         "command": "IAI.u",
@@ -1091,11 +1101,11 @@
     },
     {
         "command": "PRF.1",
-        "hit level": "l",
-        "damage": "17",
+        "hit level": "L",
+        "damage": "15",
         "startup": "i19~20",
         "block": "-12",
-        "hit": "+4",
+        "hit": "+4c",
         "counter hit": "+14g",
         "notes": ""
     },
@@ -1117,7 +1127,7 @@
         "block": "-4 IAI",
         "hit": "+5 IAI",
         "counter hit": "",
-        "notes": "* Combo from 1st hit* Transition to IAI (Cannot cancel)"
+        "notes": "* Combo from 1st hit * Transition to IAI (Cannot cancel)"
     },
     {
         "command": "PRF.2,2,1",
@@ -1127,7 +1137,7 @@
         "block": "-1",
         "hit": "+12",
         "counter hit": "+55a",
-        "notes": "* Strong Aerial Tailspin* Balcony Break* Combo from 2nd CH"
+        "notes": "* Strong Aerial Tailspin * Balcony Break * Combo from 2nd CH"
     },
     {
         "command": "PRF.2,2,1+2",
@@ -1147,17 +1157,7 @@
         "block": "-8",
         "hit": "+41d (-17d) / HE",
         "counter hit": "",
-        "notes": "* Heat Engager* Heat Dash +5, +36a (+26a)* Balcony Break* Knee"
-    },
-    {
-        "command": "PRF.4",
-        "hit level": "h",
-        "damage": "17",
-        "startup": "i18~19",
-        "block": "-2",
-        "hit": "+13g",
-        "counter hit": "+14c",
-        "notes": "* Homing* Balcony Break"
+        "notes": "* Heat Engager * Heat Dash +5, +36a (+26a) * Balcony Break * Knee"
     },
     {
         "command": "PRF.1+2",
@@ -1167,7 +1167,17 @@
         "block": "+6",
         "hit": "+14a",
         "counter hit": "",
-        "notes": "* Balcony Break* Deals 7 chip damage on block"
+        "notes": "* Balcony Break * Deals 7 chip damage on block * Transition to IAI (+6/+14a) on hit or block with D"
+    },
+    {
+        "command": "PRF.3+4",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* 10?f of intangibility on transition"
     },
     {
         "command": "PRF.df",
@@ -1177,6 +1187,6 @@
         "block": "",
         "hit": "",
         "counter hit": "",
-        "notes": "*Recovers crouched"
+        "notes": "* Recovers crouched High crush 5~"
     }
 ]
