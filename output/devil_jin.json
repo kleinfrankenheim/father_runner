@@ -34,7 +34,7 @@
         "hit level": "m,t",
         "damage": "10-15,3-5,42-60",
         "startup": "i20",
-        "block": "-15",
+        "block": "-18",
         "hit": "+0d",
         "counter hit": "",
         "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage * Opponent recovers FDFA on hit Power crush 8~"
@@ -957,7 +957,7 @@
         "block": "+11",
         "hit": "+16",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin * Balcony Break On air hit * Weapon * Combo from 1st CH with 1f delay * Transition to MCR on hit or block only * Only deals recoverable damage * 2 chip damage on block"
+        "notes": "* Strong Aerial Tailspin * Balcony Break On air hit * Weapon * Combo from 1st CH * Interrupt with i12 from 1st block * Transition to MCR on hit or block only * Only deals recoverable damage * 2 chip damage on block"
     },
     {
         "command": "ws1,2",
@@ -967,13 +967,13 @@
         "block": "-11",
         "hit": "+6",
         "counter hit": "+10",
-        "notes": "* Enter MCR +14 with F on hit * Enter MCR +17 with F on CH * Combos from 1st hit with 7f delay * Input can be delayed 10f * Move can be delayed 9f"
+        "notes": "* Enter MCR +14 with F on hit * Enter MCR +17 with F on CH * Combos from 1st hit with 7F delay * Combos from 1st CH with 11F delay * Interrupt with i4 from 1st block (trade with i5) * Input can be delayed 11F * Move can be delayed 9F"
     },
     {
         "command": "ws2",
         "hit level": "m",
         "damage": "20",
-        "startup": "i15~16",
+        "startup": "i14~15",
         "block": "-12~-11",
         "hit": "+72a (+56)",
         "counter hit": "",
@@ -1007,7 +1007,7 @@
         "block": "-16",
         "hit": "+7c",
         "counter hit": "",
-        "notes": "* Spike * Combo from 1st hit"
+        "notes": "* Spike * Combo from 1st hit with 1F delay * Interrupt with i8 from 1st block * Input can be delayed by 1F * Move cannot be delayed"
     },
     {
         "command": "SS.2",
@@ -1087,7 +1087,7 @@
         "block": "+1",
         "hit": "+71a (+51)",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin * 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit Low crush 1~"
+        "notes": "* Strong Aerial Tailspin * 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit * Interrupt with i19 from 1st block Low crush 1~"
     },
     {
         "command": "FLY.4,2",
@@ -1097,7 +1097,7 @@
         "block": "-27",
         "hit": "+52a (+7)",
         "counter hit": "",
-        "notes": "* 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit"
+        "notes": "* 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit * Interrupt with i1 from 1st block"
     },
     {
         "command": "FLY.4,2,1",
@@ -1107,7 +1107,7 @@
         "block": "-16",
         "hit": "+29a(+19a)",
         "counter hit": "",
-        "notes": "Low crush 22~"
+        "notes": "* Interrupt with i24 from 2nd block Low crush 22~"
     },
     {
         "command": "FLY.4,2,1,UF",
@@ -1187,7 +1187,7 @@
         "block": "-14c",
         "hit": "+2a",
         "counter hit": "",
-        "notes": "* Heat Engager * Heat Dash +5, +67a (+50) * Spike * 6 chip damage on blocked Heat Dash * Combo from 1st hit * Opponent recovers FDFA on hit &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 1~17 * ,fs18~20&lt;/div&gt;"
+        "notes": "* Heat Engager * Heat Dash +5, +67a (+50) * Spike * 6 chip damage on blocked Heat Dash * Combo from 1st hit with 2F delay * Opponent recovers FDFA on hit * Input can be delayed by 2F * Move cannot be delayed &lt;div class=&quot;plainlist&quot;&gt; * ,Low crush 1~17 * ,fs18~20&lt;/div&gt;"
     },
     {
         "command": "MCR.3",
@@ -1217,7 +1217,7 @@
         "block": "+1",
         "hit": "+71a (+51)",
         "counter hit": "",
-        "notes": "* Strong Aerial Tailspin * 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit Low crush 1~"
+        "notes": "* Strong Aerial Tailspin * 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit * Interrupt with i19 from 1st block Low crush 1~"
     },
     {
         "command": "MCR.4,2",
@@ -1227,7 +1227,7 @@
         "block": "-27",
         "hit": "+52a (+7)",
         "counter hit": "",
-        "notes": "* 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit"
+        "notes": "* 14 damage with combo scaling from 1st hit * 24 damage total from 1st hit * Interrupt with i1 from 1st block"
     },
     {
         "command": "MCR.4,2,1",
@@ -1237,7 +1237,7 @@
         "block": "-16",
         "hit": "+29a(+19a)",
         "counter hit": "",
-        "notes": "Low crush 22~"
+        "notes": "* Interrupt with i24 from 2nd block Low crush 22~"
     },
     {
         "command": "MCR.4,2,1,UF",
