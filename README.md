@@ -17,4 +17,11 @@ To do list:
 - ~~Implement receiving frame data 'on-fly'.~~ *Too inefficient.*
 - Blacklist (?)
 
+Not planned, but why not:
+- Implemented AI
+    - Only the administrator can add users to whom Fatherrunner will respond.
+    - By default, Fatherrunner ignores all users except the administrator.
+
+***Developing since March 2025. <3***
+
 All the data is primarily from tekkendocs.com <3
