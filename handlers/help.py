@@ -2,8 +2,6 @@ from aiogram import Router, F
 from aiogram.filters import Command
 from aiogram.types import Message, LinkPreviewOptions
 
-from keyboards.train import get_yes_no_kb
-
 router = Router()  # [1]
 
 
