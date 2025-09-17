@@ -57,7 +57,7 @@ Character_alias = {
     CharacterName.DEVIL_JIN: ['deviljin', 'dvj', 'dj', 'djin'],
     CharacterName.DRAGUNOV: ['drag', 'draga', 'sergei'],
     CharacterName.EDDY: ['capoeira'],
-    CharacterName.FAHKUMRAM: ['fahk, fakhumram', 'fakh'],
+    CharacterName.FAHKUMRAM: ['fahk', 'fakhumram', 'fakh'],
     CharacterName.FENG: ['fengwei'],
     CharacterName.HEIHACHI: ['heihach', 'hachi'],
     CharacterName.HWOARANG: ['hwo'],
