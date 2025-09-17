@@ -1,0 +1,1592 @@
+[
+    {
+        "command": "2+3",
+        "hit level": "m",
+        "damage": "12 (12)",
+        "startup": "i16",
+        "block": "+1",
+        "hit": "+2c",
+        "counter hit": "",
+        "notes": "* Heat BurstPower crush"
+    },
+    {
+        "command": "H.1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i16~17",
+        "block": "-8~-7",
+        "hit": "+66a (+50)",
+        "counter hit": "",
+        "notes": "* Tornado* Weapon* Partially uses remaining Heat Time* Alternate input DSS.1+2"
+    },
+    {
+        "command": "H.2+3",
+        "hit level": "m,t",
+        "damage": "24,4,5,5,5,7 (50)",
+        "startup": "i14",
+        "block": "+11g",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "* Heat Smash* Balcony Break* Automatically transitions to DSS on block"
+    },
+    {
+        "command": "R.df+1+2",
+        "hit level": "m,t",
+        "damage": "55+",
+        "startup": "i20",
+        "block": "-15",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+    },
+    {
+        "command": "1",
+        "hit level": "h",
+        "damage": "5",
+        "startup": "i10",
+        "block": "+1",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1,1",
+        "hit level": "h, h",
+        "damage": "5, 5",
+        "startup": "i10, i18",
+        "block": "-8",
+        "hit": "-6",
+        "counter hit": "+6",
+        "notes": ""
+    },
+    {
+        "command": "1,1,1",
+        "hit level": "h, h, m",
+        "damage": "5, 5, 20",
+        "startup": "i10, ,i20",
+        "block": "-12",
+        "hit": "+41d (-17)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Combos from 1st or 2nd hit CH* Balcony Break"
+    },
+    {
+        "command": "1,1,2",
+        "hit level": "h, h, h",
+        "damage": "5, 5, 12",
+        "startup": "i10, ,i17",
+        "block": "-6",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Transition to DSS with F** (-5 oB, +7 oH)"
+    },
+    {
+        "command": "1,2",
+        "hit level": "h, h",
+        "damage": "5, 8",
+        "startup": "i10, i12",
+        "block": "-3",
+        "hit": "+6",
+        "counter hit": "+6",
+        "notes": "* Jails from 1st attack* Combos from 1st hit"
+    },
+    {
+        "command": "1,2,2",
+        "hit level": "h, h, m",
+        "damage": "5, 8, 10",
+        "startup": "i10, ,i20",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "+4",
+        "notes": "Combos from 1st hit CH"
+    },
+    {
+        "command": "1,2,2,2",
+        "hit level": "h, h, m, h",
+        "damage": "5, 8, 10, 15",
+        "startup": "i10, ,i13",
+        "block": "-9",
+        "hit": "+4",
+        "counter hit": "+9d",
+        "notes": "* Combos from 1st or 3rd hit CH* Delay-able* Transition to DSS with F** (-3 oB, +10g oH, +15d CH)"
+    },
+    {
+        "command": "1,2,2,1+2",
+        "hit level": "h, h, m, m",
+        "damage": "5, 8, 10, 23",
+        "startup": "i10, ,i19",
+        "block": "-13",
+        "hit": "+5a (-4)",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "1,2,3",
+        "hit level": "h, h, m",
+        "damage": "5, 8, 10",
+        "startup": "i10, ,i15",
+        "block": "-5",
+        "hit": "+13",
+        "counter hit": "",
+        "notes": "* Wall Crush +24g on hit* Knee* Combos from 1st hit CH* Jails from 1st attack"
+    },
+    {
+        "command": "1,2,uf+3,4",
+        "hit level": "h,h,Special,m",
+        "damage": "20",
+        "startup": "i15",
+        "block": "-12",
+        "hit": "+31a (+21)",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "2",
+        "hit level": "h",
+        "damage": "8",
+        "startup": "i10",
+        "block": "+0",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "2,2",
+        "hit level": "h, m",
+        "damage": "8, 10",
+        "startup": "i10, i20",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "Delay-able"
+    },
+    {
+        "command": "2,2,2",
+        "hit level": "h, m, h",
+        "damage": "8, 10, 10",
+        "startup": "i10, ,i13",
+        "block": "-9",
+        "hit": "+4",
+        "counter hit": "+9d",
+        "notes": "* Combos from 2nd hit* Transition to DSS with F** (-3 oB, +10g oH, +15d)"
+    },
+    {
+        "command": "2,2,1+2",
+        "hit level": "h, m, m",
+        "damage": "8, 10, 20",
+        "startup": "i10, ,i19",
+        "block": "-13",
+        "hit": "+5a (-4)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos from 2nd hit CH* Delay-able"
+    },
+    {
+        "command": "2,b+2",
+        "hit level": "h, h",
+        "damage": "8, 8",
+        "startup": "i10, i17",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Delay-able"
+    },
+    {
+        "command": "2,b+2,1",
+        "hit level": "h, h, h",
+        "damage": "8, 8, 8",
+        "startup": "i10, ,i23",
+        "block": "-3",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Combos from 2nd hit CH* Delay-able"
+    },
+    {
+        "command": "2,b+2,1,2",
+        "hit level": "h, h, h, m",
+        "damage": "8, 8, 8, 21",
+        "startup": "i10, ,i20",
+        "block": "-3",
+        "hit": "+20a",
+        "counter hit": "+55a",
+        "notes": "* Combos from 3rd hit CH* Delay-able* Transition to FC with D"
+    },
+    {
+        "command": "3",
+        "hit level": "h",
+        "damage": "12",
+        "startup": "i12",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "3,3",
+        "hit level": "h, m",
+        "damage": "12, 17",
+        "startup": "i12, i27",
+        "block": "-14",
+        "hit": "-3",
+        "counter hit": "+53a (+22)",
+        "notes": "* Combos from 1st hit CH* Delay-able"
+    },
+    {
+        "command": "3,4",
+        "hit level": "h, h",
+        "damage": "12, 20",
+        "startup": "i12, i22",
+        "block": "-10",
+        "hit": "+19a (+10)",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Balcony Break"
+    },
+    {
+        "command": "4",
+        "hit level": "h",
+        "damage": "15",
+        "startup": "i13",
+        "block": "-9",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "4,3",
+        "hit level": "h, h",
+        "damage": "15, 12",
+        "startup": "i13, i18",
+        "block": "-8",
+        "hit": "+1",
+        "counter hit": "+23a",
+        "notes": "* Combos from 1st hit* Transition to DSS with F** (+8 oB, +17g, +39a (+32))** DSS allows full combo off of Magic 4"
+    },
+    {
+        "command": "4,3,4",
+        "hit level": "h, h, h",
+        "damage": "15, 12, 14",
+        "startup": "i13, ,i20",
+        "block": "-6",
+        "hit": "-1",
+        "counter hit": "+31a (+24)",
+        "notes": "* Combos off of 1st hit CH* Transition to DSS with F** (+8 oB, +13g, +45a (+38))** DSS allows full combo off of Magic 4"
+    },
+    {
+        "command": "4,u+3",
+        "hit level": "h, m",
+        "damage": "15, 23",
+        "startup": "i13, i33",
+        "block": "-1",
+        "hit": "+30a (+13)",
+        "counter hit": "",
+        "notes": "Combos off of 1st hit CHLow crush 23~"
+    },
+    {
+        "command": "1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i16~17",
+        "block": "-13~12",
+        "hit": "+12a (+5)",
+        "counter hit": "+66a (+50)",
+        "notes": "* Tornado* Weapon* Partially uses remaining Heat Time in heat* Instant Tornado on CH* Alternate input DSS.1+2"
+    },
+    {
+        "command": "2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "3+4",
+        "hit level": "m,m",
+        "damage": "5,10",
+        "startup": "i14~15, i11",
+        "block": "-13",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "Alternate input DSS.3+4Low crush 14~"
+    },
+    {
+        "command": "3+4,4",
+        "hit level": "m,m, h",
+        "damage": "5,10, 25",
+        "startup": "i14~15, i11, i30",
+        "block": "+7 (+10g w)",
+        "hit": "+31d (-27)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Wall Crush +10g on block* Combos from 1st hit* Chip damage on block* Alternate input DSS.3+4,4Low crush 22~"
+    },
+    {
+        "command": "f+2",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "+0",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Can route into:** Rave War Combo (f+2,2,2), or** Blazing Fist Combo (f+2,2,1+2)* Alternate input DSS.f+2"
+    },
+    {
+        "command": "f+2~1",
+        "hit level": "m",
+        "damage": "24",
+        "startup": "i19",
+        "block": "+2",
+        "hit": "+30a (+4)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Chip damage on block* Transition to DSS with F** (+5 oB, +33a (+7))* Alternate input DSS.f+2~1"
+    },
+    {
+        "command": "f+3",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i18",
+        "block": "-10",
+        "hit": "+1",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f+3,1",
+        "hit level": "m, m",
+        "damage": "10, 12",
+        "startup": "i18, i20",
+        "block": "-2",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "* Transition to DSS with F** (+4 oB, +14g)"
+    },
+    {
+        "command": "f+1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i20",
+        "block": "+3c",
+        "hit": "+8c",
+        "counter hit": "+55a",
+        "notes": "Transition to FC with D"
+    },
+    {
+        "command": "f+3+4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i25",
+        "block": "-2",
+        "hit": "+7c",
+        "counter hit": "+49a",
+        "notes": "Alternate input DSS.f+3+4Low crush 11~"
+    },
+    {
+        "command": "df+1",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i13",
+        "block": "-1",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "First hit of Law's 10 String"
+    },
+    {
+        "command": "df+1,3",
+        "hit level": "m, l",
+        "damage": "10, 6",
+        "startup": "i13, i20",
+        "block": "-16",
+        "hit": "-5",
+        "counter hit": "",
+        "notes": "Combos from 1st hit"
+    },
+    {
+        "command": "df+1,3,2",
+        "hit level": "m, l, m",
+        "damage": "10, 6, 6",
+        "startup": "i13, ,i28",
+        "block": "-12",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "Combos from 1st hit"
+    },
+    {
+        "command": "df+1,3,2,2,3,3,3,4,4,4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "First 3 hits are a natural combo"
+    },
+    {
+        "command": "df+2",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i15",
+        "block": "-7",
+        "hit": "+34a (+24)",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+3",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i21",
+        "block": "-13",
+        "hit": "+52a (+21)",
+        "counter hit": "",
+        "notes": "High crush 6~"
+    },
+    {
+        "command": "df+4",
+        "hit level": "m",
+        "damage": "15",
+        "startup": "i13",
+        "block": "-8",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+4,3",
+        "hit level": "m, m",
+        "damage": "15, 23",
+        "startup": "i13, i29~31",
+        "block": "-14",
+        "hit": "+68a (+52)",
+        "counter hit": "",
+        "notes": "* Tornado* Combos from 1st hit CHLow crush 14~"
+    },
+    {
+        "command": "df+3+4",
+        "hit level": "l",
+        "damage": "12",
+        "startup": "i18",
+        "block": "-15",
+        "hit": "+4c",
+        "counter hit": "+6a",
+        "notes": "High crush 6~"
+    },
+    {
+        "command": "d+1",
+        "hit level": "l",
+        "damage": "15",
+        "startup": "i21",
+        "block": "-12",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "Transition to Slide Step with DFHigh crush 6~"
+    },
+    {
+        "command": "d+1,3",
+        "hit level": "l, h",
+        "damage": "15, 21",
+        "startup": "i21, i24",
+        "block": "-9",
+        "hit": "+20a (+11)",
+        "counter hit": "+65a (+45)",
+        "notes": "* Balcony Break* Tornado on CH"
+    },
+    {
+        "command": "d+2",
+        "hit level": "s",
+        "damage": "8",
+        "startup": "i11",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "Alternate input FC.d+2High crush 4~"
+    },
+    {
+        "command": "d+2,3",
+        "hit level": "s, m",
+        "damage": "8, 21",
+        "startup": "i11, i23",
+        "block": "-15",
+        "hit": "+30a (+20)",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit CH* Tornado"
+    },
+    {
+        "command": "d+3",
+        "hit level": "l",
+        "damage": "8",
+        "startup": "i16",
+        "block": "-14",
+        "hit": "-3",
+        "counter hit": "",
+        "notes": "Transition to FC with D"
+    },
+    {
+        "command": "d+3,3",
+        "hit level": "l, h",
+        "damage": "8, 17",
+        "startup": "i16, i16",
+        "block": "-7",
+        "hit": "+20a",
+        "counter hit": "+46CS",
+        "notes": "* Combos from 1st hit CH* -30 on block from 1st block* Delay-able"
+    },
+    {
+        "command": "d+4",
+        "hit level": "l",
+        "damage": "7",
+        "startup": "i15",
+        "block": "-11",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "d+4,3",
+        "hit level": "l, h",
+        "damage": "7, 12",
+        "startup": "i15, i12",
+        "block": "-12",
+        "hit": "+0",
+        "counter hit": "+5",
+        "notes": "* Combos from 1st hit* -26 on 1st block* Nosebleed stunLow crush 5~9? fs10?~12?"
+    },
+    {
+        "command": "d+1+2",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Enters DSS* Transition to Slide Step with DF"
+    },
+    {
+        "command": "d+3+4",
+        "hit level": "l",
+        "damage": "7",
+        "startup": "i12",
+        "block": "-14",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": "Alternate input FC.d+4High crush 4~"
+    },
+    {
+        "command": "d+3+4,3",
+        "hit level": "l, m",
+        "damage": "7, 23",
+        "startup": "i12, i29",
+        "block": "-14",
+        "hit": "+14a",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos from 1st hit CH* Alternate input FC.d+4,3Low crush 19~"
+    },
+    {
+        "command": "db+1",
+        "hit level": "s",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "db+2",
+        "hit level": "m",
+        "damage": "15",
+        "startup": "i14",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "db+2,4",
+        "hit level": "m, m",
+        "damage": "15, 25",
+        "startup": "i14, i33",
+        "block": "-4",
+        "hit": "+1d",
+        "counter hit": "",
+        "notes": "Transition to FUFA with DLow crush"
+    },
+    {
+        "command": "db+3",
+        "hit level": "l",
+        "damage": "15",
+        "startup": "i17",
+        "block": "-13",
+        "hit": "+3c",
+        "counter hit": "+13g",
+        "notes": ""
+    },
+    {
+        "command": "db+4",
+        "hit level": "l",
+        "damage": "20",
+        "startup": "i26",
+        "block": "-37",
+        "hit": "+15a",
+        "counter hit": "",
+        "notes": "HomingHigh crush 6~"
+    },
+    {
+        "command": "db+4,4",
+        "hit level": "l, m",
+        "damage": "20, 27",
+        "startup": "i26, i37",
+        "block": "-8",
+        "hit": "+30a (+12)",
+        "counter hit": "",
+        "notes": "Low crush"
+    },
+    {
+        "command": "b+1",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i14",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "* Transition to DSS with F** (-3 oB, +8 oH)"
+    },
+    {
+        "command": "b+1,2",
+        "hit level": "m, m",
+        "damage": "12, 12",
+        "startup": "i14, i19",
+        "block": "-12",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Delay-able* Transition to DSS with F** (-9 oB, +5 oH)"
+    },
+    {
+        "command": "b+1,2,2",
+        "hit level": "m, m, m",
+        "damage": "12, 12, 22",
+        "startup": "i14, ,i18",
+        "block": "-14",
+        "hit": "+12a (+5)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash  +5, +42a (+27)* Balcony Break* Combos from 1st or 2nd hit CH* Delay-able"
+    },
+    {
+        "command": "b+1+3",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Transition to DSS on successful parry with F to be +14* Guarantees DSS.1, DSS.2, DSS.f+1Parry state 5?~11?"
+    },
+    {
+        "command": "b+2",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i16",
+        "block": "-8",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "b+2,1",
+        "hit level": "m, m",
+        "damage": "12, 16",
+        "startup": "i16, i26",
+        "block": "-15",
+        "hit": "+11a",
+        "counter hit": "",
+        "notes": "* Tornado* Balcony Break* Combos from 1st hit CH"
+    },
+    {
+        "command": "b+2,2",
+        "hit level": "m, h",
+        "damage": "12, 15",
+        "startup": "i16, i13",
+        "block": "-9",
+        "hit": "+4",
+        "counter hit": "+9d",
+        "notes": "* Combos from 1st hit* Delay-able* Transition to DSS with F** (-3 oB, +10 oH, +15d CH)"
+    },
+    {
+        "command": "b+2,3",
+        "hit level": "m, l",
+        "damage": "12, 10",
+        "startup": "i16, i23",
+        "block": "-12",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "Delay-able"
+    },
+    {
+        "command": "b+2,3,4",
+        "hit level": "m, l, m",
+        "damage": "12, 10, 23",
+        "startup": "i16, ,i23",
+        "block": "-7",
+        "hit": "+36a (+26)",
+        "counter hit": "",
+        "notes": "* Tornado* Combos from 2nd hit CH* Delay-able* Transition to DSS with F** (+6 oB, +49a (+39) oH)"
+    },
+    {
+        "command": "b+2,3,d+4",
+        "hit level": "m, l, l",
+        "damage": "12, 10, 23",
+        "startup": "i16, ,i34",
+        "block": "-37",
+        "hit": "+11a",
+        "counter hit": "",
+        "notes": "Delay-ableHigh crush"
+    },
+    {
+        "command": "b+3",
+        "hit level": "m",
+        "damage": "27",
+        "startup": "i23",
+        "block": "-12",
+        "hit": "+17a (+8)",
+        "counter hit": "",
+        "notes": "* Homing* Balcony Break* Transition to BT with B** (-11 oB, +18a (+9) oH)"
+    },
+    {
+        "command": "b+4",
+        "hit level": "m",
+        "damage": "13",
+        "startup": "i14",
+        "block": "-7",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Homing* Transition to BT with B** (-4 oB, +6 oH)"
+    },
+    {
+        "command": "b+4,3",
+        "hit level": "m, h",
+        "damage": "13, 21",
+        "startup": "i14, i32",
+        "block": "-5",
+        "hit": "+24a (+15)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos from 1st hit"
+    },
+    {
+        "command": "b+1+2",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i20",
+        "block": "-14",
+        "hit": "+31a (+23)",
+        "counter hit": "",
+        "notes": "Balcony BreakPower crush 7~"
+    },
+    {
+        "command": "b+3+4",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i23",
+        "block": "-18",
+        "hit": "+16a (+6)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Can be done from DSSHigh crush 6~10?"
+    },
+    {
+        "command": "ub+1,2,1,2",
+        "hit level": "h,h,h,h",
+        "damage": "8,8,8,28",
+        "startup": "i12,i6,i6,i13",
+        "block": "-7",
+        "hit": "+13a (-4)",
+        "counter hit": "",
+        "notes": "* Jails from 1st to 3rd attack* Last hit delay-able* Frame data for 1st, 2nd and 3rd hits:** (-9 oB, -3 oH)"
+    },
+    {
+        "command": "ub+2",
+        "hit level": "h",
+        "damage": "17",
+        "startup": "i15",
+        "block": "-12",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ub+3",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Transition to Slide Step with DF* Alternate input u+3Low crush 9~"
+    },
+    {
+        "command": "ub+3,4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i15",
+        "block": "-12",
+        "hit": "+31a (+21)",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "u+4",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i15",
+        "block": "-13",
+        "hit": "+19a (+9)",
+        "counter hit": "+33a (+23)",
+        "notes": "Low crush"
+    },
+    {
+        "command": "UF+4",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i18",
+        "block": "-17",
+        "hit": "+28a (+18)",
+        "counter hit": "",
+        "notes": "* Alternate input** UB+4, U+4, FC.ub+4, FC.u+4, FC.uf+4Low crush 9~"
+    },
+    {
+        "command": "UF+4,3",
+        "hit level": "m, m",
+        "damage": "23, 16",
+        "startup": "i18, i19",
+        "block": "-14",
+        "hit": "+78a (+62)",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Tornado* 2nd hit Instant Tornado** (+68a (+52) oH)* Alternate input** UB+4,3 U+4,3** FC.ub+4,3 FC.u+4,3 FC.uf+4,3Low crush"
+    },
+    {
+        "command": "uf+1",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Alternate input:** Ki Charge~1** b,B+2+3~1,3"
+    },
+    {
+        "command": "uf+1,3",
+        "hit level": "h, l",
+        "damage": "10, 10",
+        "startup": "i12, i19",
+        "block": "-13",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Alternate input:** Ki Charge~1,3** b,B+2+3~1,3"
+    },
+    {
+        "command": "uf+3",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i18",
+        "block": "-8",
+        "hit": "+42d (-16)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +36d (+26)* Balcony BreakLow crush 9~"
+    },
+    {
+        "command": "uf+4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i15",
+        "block": "-13",
+        "hit": "+33a (+23)",
+        "counter hit": "",
+        "notes": "Low crush 9~"
+    },
+    {
+        "command": "uf+3+4",
+        "hit level": "l",
+        "damage": "27",
+        "startup": "i29",
+        "block": "-24",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "Alternate input DSS.uf+3+4Low crush 8~30?"
+    },
+    {
+        "command": "1+2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1+2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1+2+3+4,2",
+        "hit level": "h",
+        "damage": "24",
+        "startup": "i14",
+        "block": "+1",
+        "hit": "+50a",
+        "counter hit": "",
+        "notes": "* Chip damage on block* Alternate input DSS.2"
+    },
+    {
+        "command": "1+2+3+4~1",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Alternate input:** uf+1** b,B+2+3~1,3"
+    },
+    {
+        "command": "1+2+3+4~1,3",
+        "hit level": "h, l",
+        "damage": "10, 10",
+        "startup": "i12, i19",
+        "block": "-13",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Alternate input:** uf+1,3** b,B+2+3~1,3"
+    },
+    {
+        "command": "(While down, facing up) 1+2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "b,B+2+3",
+        "hit level": "m!",
+        "damage": "60",
+        "startup": "i78",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Can cancel and transition to DSS with b,b"
+    },
+    {
+        "command": "f,F+2",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i14",
+        "block": "-6",
+        "hit": "+2",
+        "counter hit": "+7",
+        "notes": ""
+    },
+    {
+        "command": "f,F+2,1",
+        "hit level": "m, h",
+        "damage": "12, 12",
+        "startup": "i14, i22",
+        "block": "-4",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "Delayable"
+    },
+    {
+        "command": "f,F+2,1,3",
+        "hit level": "m, h, m",
+        "damage": "12, 12, 23",
+        "startup": "i14, ,i28",
+        "block": "-13",
+        "hit": "+11a",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos off 2nd hit CH* Delayable"
+    },
+    {
+        "command": "f,F+2,3",
+        "hit level": "m, h",
+        "damage": "12, 20",
+        "startup": "i14, i16",
+        "block": "-14",
+        "hit": "+37a (-21)",
+        "counter hit": "",
+        "notes": "* Tornado* Balcony Break* Combos from 1st hit* Jails from 1st block with ?F delay* Delayable"
+    },
+    {
+        "command": "f,F+2,f+1+2",
+        "hit level": "m, m",
+        "damage": "12, 24",
+        "startup": "i14, i31",
+        "block": "+2",
+        "hit": "+30a (+4)",
+        "counter hit": "",
+        "notes": "* Chip damage on block* Transition to DSS with F** (+5 oB,+33a (+7))"
+    },
+    {
+        "command": "f,F+3",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i20",
+        "block": "-13",
+        "hit": "+18d (+8)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +43d (+35)* Balcony Break* Alternate input DSS.f+3Power crush 6~"
+    },
+    {
+        "command": "f,F+4",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i20",
+        "block": "-11",
+        "hit": "+18a (+1)",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "uf,n,4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i19",
+        "block": "-15",
+        "hit": "+30a (+20)",
+        "counter hit": "",
+        "notes": "Low crush"
+    },
+    {
+        "command": "f,f,F+3",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i20~28",
+        "block": "+6",
+        "hit": "+35d (-23)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Chip damage on block* Alternate input wr3Low crush"
+    },
+    {
+        "command": "ws1",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i13",
+        "block": "-7",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "* Transition to DSS with F** (-4 oB, +2 oH)"
+    },
+    {
+        "command": "ws1,2",
+        "hit level": "m, h",
+        "damage": "10, 25",
+        "startup": "i13, i16",
+        "block": "-9",
+        "hit": "+40d (-18)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Delayable"
+    },
+    {
+        "command": "ws2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i15",
+        "block": "-18",
+        "hit": "+31a (+21)",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ws3",
+        "hit level": "h",
+        "damage": "16",
+        "startup": "i16",
+        "block": "+17g",
+        "hit": "+19",
+        "counter hit": "",
+        "notes": "* Automatically transitions to DSS on hit and block** On hit, guaranteed DSS.1, DSS.f+1, DSS.2, DSS.f+2, DSS.3+4,4"
+    },
+    {
+        "command": "ws4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i11",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Transition to DSS with F** (+5 oB, +16 oH)"
+    },
+    {
+        "command": "ws4,3",
+        "hit level": "m, m",
+        "damage": "14, 23",
+        "startup": "i11, i27",
+        "block": "-14",
+        "hit": "+68a (+52)",
+        "counter hit": "",
+        "notes": "* Tornado** Combos from 1st hit CHLow crush"
+    },
+    {
+        "command": "ws3+4",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i14",
+        "block": "-21",
+        "hit": "+0a (-17)",
+        "counter hit": "",
+        "notes": "Balcony BreakLow crush"
+    },
+    {
+        "command": "ss2",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i18",
+        "block": "+0",
+        "hit": "+16d (+6)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Chip damage on block"
+    },
+    {
+        "command": "ss3",
+        "hit level": "l",
+        "damage": "17",
+        "startup": "i18",
+        "block": "-13",
+        "hit": "+7",
+        "counter hit": "+16c",
+        "notes": "* Automatically transitions to DSS on hit** CH guarantees DSS.f+1, DSS.3+4,4"
+    },
+    {
+        "command": "ss1+2",
+        "hit level": "m,h,m",
+        "damage": "8,8,8",
+        "startup": "i17",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "Automatically transitions to DSS on hit and block"
+    },
+    {
+        "command": "ss1+2,1",
+        "hit level": "m,h,m, m",
+        "damage": "8,8,8, 25",
+        "startup": "i17, i22",
+        "block": "-16",
+        "hit": "+16d (+6)",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ss3+4",
+        "hit level": "m,h",
+        "damage": "9,10",
+        "startup": "i15",
+        "block": "-12",
+        "hit": "+63a (+43)",
+        "counter hit": "",
+        "notes": "Balcony BreakLow crush"
+    },
+    {
+        "command": "FC.1",
+        "hit level": "s",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "FC.2",
+        "hit level": "s",
+        "damage": "8",
+        "startup": "i11",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "Alternate input d+2High crush 4~"
+    },
+    {
+        "command": "FC.3",
+        "hit level": "l",
+        "damage": "10",
+        "startup": "i16",
+        "block": "-17",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "FC.3,4",
+        "hit level": "l, m",
+        "damage": "10, 27",
+        "startup": "i16, i29",
+        "block": "-14",
+        "hit": "+14a (-3)",
+        "counter hit": "",
+        "notes": "Combo from 1st hit CHLow crush"
+    },
+    {
+        "command": "FC.4",
+        "hit level": "l",
+        "damage": "7",
+        "startup": "i12",
+        "block": "-14",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": "Alternate input d+3+4High crush 4~"
+    },
+    {
+        "command": "FC.4,3",
+        "hit level": "l, m",
+        "damage": "7, 23",
+        "startup": "i12, i29",
+        "block": "-14",
+        "hit": "+14a",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit CH* Alternate input d+3+4,3Low crush"
+    },
+    {
+        "command": "FC.UF+3+4",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i46~49",
+        "block": "-4",
+        "hit": "+17a (+7)",
+        "counter hit": "",
+        "notes": "Low crush"
+    },
+    {
+        "command": "FC.df,d,df+3",
+        "hit level": "l",
+        "damage": "20",
+        "startup": "i16~20",
+        "block": "-23",
+        "hit": "+13",
+        "counter hit": "",
+        "notes": "* Alternate input df+3 in Slide Step"
+    },
+    {
+        "command": "(Back to wall).b,b,ub",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i29-33",
+        "block": "-1",
+        "hit": "+45d (-13)",
+        "counter hit": "",
+        "notes": "Low crush 5~7 is8~13 Low crush 14~"
+    },
+    {
+        "command": "BT.1",
+        "hit level": "h",
+        "damage": "7",
+        "startup": "i10",
+        "block": "+1",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "Can route into the same strings as his normal 1"
+    },
+    {
+        "command": "BT.2",
+        "hit level": "m",
+        "damage": "17",
+        "startup": "i15",
+        "block": "-14",
+        "hit": "-1",
+        "counter hit": "+52a",
+        "notes": ""
+    },
+    {
+        "command": "BT.2,2",
+        "hit level": "m, m",
+        "damage": "17, 20",
+        "startup": "i15, i14",
+        "block": "-14",
+        "hit": "+31d (-27)",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit* Delay-able"
+    },
+    {
+        "command": "BT.3",
+        "hit level": "h",
+        "damage": "18",
+        "startup": "i10",
+        "block": "-8",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "BT.4",
+        "hit level": "h",
+        "damage": "14",
+        "startup": "i11",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "BT.4,3",
+        "hit level": "h, m",
+        "damage": "14, 24",
+        "startup": "i11, i24",
+        "block": "-12",
+        "hit": "+12a (+3)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combos from 1st hit CH"
+    },
+    {
+        "command": "BT.1+2",
+        "hit level": "h",
+        "damage": "20",
+        "startup": "i15",
+        "block": "+1",
+        "hit": "+16g",
+        "counter hit": "",
+        "notes": "* Balcony BreakHoming"
+    },
+    {
+        "command": "BT.d+3",
+        "hit level": "l",
+        "damage": "6",
+        "startup": "i12",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "BT.d+4",
+        "hit level": "l",
+        "damage": "17",
+        "startup": "i23",
+        "block": "-13",
+        "hit": "+6c",
+        "counter hit": "+26d",
+        "notes": ""
+    },
+    {
+        "command": "BT.d+3+4",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i26",
+        "block": "-15",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": "* Transition to FUFA with D** (-2 oB, +13d oH)"
+    },
+    {
+        "command": "DSS.1",
+        "hit level": "h",
+        "damage": "14",
+        "startup": "i12",
+        "block": "+0",
+        "hit": "+8",
+        "counter hit": "+18c",
+        "notes": "* Chip damage on block* Automatically transitions to DSS on hit and block* CH guarantees DSS.f+1, DSS.3+4,4"
+    },
+    {
+        "command": "DSS.2",
+        "hit level": "h",
+        "damage": "20",
+        "startup": "i14",
+        "block": "+1",
+        "hit": "+15d",
+        "counter hit": "+50a",
+        "notes": "* Balcony Break* Chip damage on block"
+    },
+    {
+        "command": "DSS.3",
+        "hit level": "h",
+        "damage": "30",
+        "startup": "i19",
+        "block": "+3",
+        "hit": "+40a",
+        "counter hit": "",
+        "notes": "* Homing* Balcony Break* Chip damage on block"
+    },
+    {
+        "command": "DSS.4",
+        "hit level": "l",
+        "damage": "21",
+        "startup": "i21",
+        "block": "-13",
+        "hit": "+6c",
+        "counter hit": "+38d",
+        "notes": ""
+    },
+    {
+        "command": "DSS.1+2",
+        "hit level": "m",
+        "damage": "",
+        "startup": "i16",
+        "block": "-13",
+        "hit": "+12a (+5)",
+        "counter hit": "+66a (+50)",
+        "notes": "* Tornado* Weapon* Partially uses remaining Heat time* Instant Tornado on CH* Alternate input 1+2"
+    },
+    {
+        "command": "DSS.f+1",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i14",
+        "block": "-9",
+        "hit": "+39d (-19)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Balcony Break* Chip damage on block"
+    },
+    {
+        "command": "DSS.f+2~1",
+        "hit level": "m",
+        "damage": "24",
+        "startup": "i19",
+        "block": "+2",
+        "hit": "+30a (+4)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Chip damage on block* Transition to DSS with F** (+5 oB, +33a (+7))* Alternate input f+2~1"
+    },
+    {
+        "command": "DSS.f+3",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i20",
+        "block": "-13",
+        "hit": "+18d (+8)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +43d (+35)* Balcony Break* Chip damage on block* Alternate input f,F+3* While transitioning to DSS from other moves, it is possible to input DSS.f+3 as a Just Frame (ex; 4,3~F:DSS.f+3) for 4 more damage.Power crush 8~"
+    },
+    {
+        "command": "DSS.f+4",
+        "hit level": "h",
+        "damage": "40",
+        "startup": "i19",
+        "block": "+7 (+10g w)",
+        "hit": "+31d (-27)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Wall Crush +10g on block* Chip damage on block* While transitioning to DSS from other moves, it is possible to input DSS.f+4 as a Just Frame (ex; 4,3~F:DSS.f+4) for 4 more damage."
+    },
+    {
+        "command": "1+3",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Throw break 1 or 2"
+    },
+    {
+        "command": "2+4",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Throw break 1 or 2* Side swap* Transition to BT with D** (+5 BT)"
+    },
+    {
+        "command": "Back Throw",
+        "hit level": "t",
+        "damage": "50",
+        "startup": "i12~14",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Unbreakable"
+    },
+    {
+        "command": "DSS.uf+1+2",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12",
+        "block": "-2",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Throw break 1+2"
+    },
+    {
+        "command": "H.DSS,P",
+        "hit level": "t",
+        "damage": "38",
+        "startup": "",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Punches only* Heat only* Partially restores remaining Heat TimeParry state 1?"
+    },
+    {
+        "command": "Left Throw",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12~14",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Throw break 1"
+    },
+    {
+        "command": "Right Throw",
+        "hit level": "t",
+        "damage": "42",
+        "startup": "i12~14",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "Throw break 2"
+    },
+    {
+        "command": "b+2+4",
+        "hit level": "t",
+        "damage": "34 (38 Heat)",
+        "startup": "",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Punches only* Partially restores remaining Heat Time* Does 38 damage in HeatParry state 5?"
+    },
+    {
+        "command": "f,F+3+4",
+        "hit level": "t",
+        "damage": "10",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+55a (+28)",
+        "counter hit": "",
+        "notes": "Throw break 1+2"
+    },
+    {
+        "command": "f+2+3",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12",
+        "block": "-2",
+        "hit": "+6d",
+        "counter hit": "",
+        "notes": "Throw break 1"
+    },
+    {
+        "command": "uf+1+2",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12",
+        "block": "-6",
+        "hit": "+3d",
+        "counter hit": "",
+        "notes": "Throw break 1+2"
+    },
+    {
+        "command": "uf+1+2,2,1,1+2",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12",
+        "block": "-6",
+        "hit": "-6d",
+        "counter hit": "",
+        "notes": "* Throw break 1+2* Floor Break"
+    }
+]

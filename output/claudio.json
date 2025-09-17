@@ -1,0 +1,942 @@
+[
+    {
+        "command": "2+3",
+        "hit level": "m",
+        "damage": "[12;12]",
+        "startup": "i16",
+        "block": "+1",
+        "hit": "+2c",
+        "counter hit": "",
+        "notes": "* Heat Burst* Cancel to r45 with b,b* 3 chip damage on block* 12 chip damage on hit* Only deals recoverable damage* Cannot cause a K.O.Power crush 7~16"
+    },
+    {
+        "command": "H.2+3",
+        "hit level": "L,M",
+        "damage": "40",
+        "startup": "i18~19",
+        "block": "-14",
+        "hit": "+11d",
+        "counter hit": "",
+        "notes": "* Heat Smash* Reversal Break* Balcony Break* Transition to attack throw on hit* Chip damage on block* Tracking notes:* Can be sidewalked left at -4, -3, -1, and +2 onwards (difficult to sidewalk)* Tracks SSL/SSR/SWR completely?* Pseudo homing low"
+    },
+    {
+        "command": "R.df+1+2",
+        "hit level": "m,t",
+        "damage": "55+",
+        "startup": "i20",
+        "block": "-15",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Rage Art* Removes Recoverable Health* Reversal Break* Damage increases with lower health, maximum 82* Freezes match timer on activation and on hit* Restores recoverable health on hit* Transition to attack throw on hit* Consumes RagePower crush 8~"
+    },
+    {
+        "command": "1",
+        "hit level": "h",
+        "damage": "5",
+        "startup": "i10",
+        "block": "+1",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "Recovers 2f faster on hit or block (t27 r17)"
+    },
+    {
+        "command": "1,2",
+        "hit level": "h, h",
+        "damage": "5, 12",
+        "startup": "i10, i13~14",
+        "block": "-3",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "* Jail from 1st attack with 5f delay* Input can be delayed 5f* Move can be delayed 4f"
+    },
+    {
+        "command": "1,3",
+        "hit level": "h, l",
+        "damage": "5, 11",
+        "startup": "i10, i22",
+        "block": "-12",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "* Combo from 1st CH with 3f delay* Input can be delayed 5f* Move can be delayed 4f"
+    },
+    {
+        "command": "2",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "2,1",
+        "hit level": "h, m",
+        "damage": "10, 13",
+        "startup": "i12, i20",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "Combo from 1st hit with 2f delay"
+    },
+    {
+        "command": "2,1,2",
+        "hit level": "h, m, m",
+        "damage": "10, 13, 25",
+        "startup": "i12, ,i16~18",
+        "block": "-13",
+        "hit": "+12a (+3)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +62a (+42)* Strong Aerial Tailspin* Balcony Break* Combo from 2nd CH with 14f delay* Input can be delayed 15f* Move can be delayed 10f* Transition to r65 STB on hit without STB* -10a (-1) upon STB gain on an airborne hit* Interrupt with i1 from 1st block"
+    },
+    {
+        "command": "3",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i14",
+        "block": "-10",
+        "hit": "+1",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidewalked left at +1* Tracks sidestep right and sidewalk right completely?"
+    },
+    {
+        "command": "3,2",
+        "hit level": "m, h",
+        "damage": "14, 22",
+        "startup": "i14, i22~23",
+        "block": "-6",
+        "hit": "+25a (+16)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +34a (+27)* Balcony Break* Transition to r55 STB on hit without STB* -6a (-13) upon STB gain on an airborne hit"
+    },
+    {
+        "command": "4",
+        "hit level": "h",
+        "damage": "13",
+        "startup": "i12",
+        "block": "-11",
+        "hit": "+5",
+        "counter hit": "+9s",
+        "notes": "* Tracking notes:* Can be sidestepped right at -7* Can be sidewalked left at +0 (difficult)?* Pseudo homing to SSL/SWL side?"
+    },
+    {
+        "command": "4,3",
+        "hit level": "h, h",
+        "damage": "13, 14",
+        "startup": "i12, i25~26",
+        "block": "+0",
+        "hit": "+15g",
+        "counter hit": "",
+        "notes": "* Homing* Balcony Break* Combo from 1st hit with 1f delay* +22a (+15) if the 1st hit counterhits,Low crush 17~30"
+    },
+    {
+        "command": "STB.4,2",
+        "hit level": "h, sm",
+        "damage": "13, 32",
+        "startup": "i12, i28-36",
+        "block": "-19~-11",
+        "hit": "+27a (+1)",
+        "counter hit": "",
+        "notes": "* Tornado* Balcony Break* Weapon* Combo from 1st hit with 1f delay* 6 chip damage on block* 12 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead"
+    },
+    {
+        "command": "1+2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i17",
+        "block": "-14",
+        "hit": "+2c",
+        "counter hit": "",
+        "notes": "Spike"
+    },
+    {
+        "command": "1+2,1+2",
+        "hit level": "m, t",
+        "damage": "20, 10",
+        "startup": "i17, i17",
+        "block": "",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": "* Combo from 1st hit* Only comes out on standing hit* Doesn't work at tip range* Doesn't work in the side or back* Not a timed input"
+    },
+    {
+        "command": "1+2,1+2,2",
+        "hit level": "m, t, t",
+        "damage": "20, 10, 18",
+        "startup": "i17, ,i17",
+        "block": "",
+        "hit": "-5d or +0d",
+        "counter hit": "",
+        "notes": "* Combo from 1st hit* Gain STB on hit* -5d vs FUFT when gaining STB* +0d vs FUFA if already STB* Deals 20 damage with input b,f+2* Not a timed input"
+    },
+    {
+        "command": "3+4",
+        "hit level": "M",
+        "damage": "20",
+        "startup": "i24~26",
+        "block": "-11c",
+        "hit": "+9a",
+        "counter hit": "",
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 13~22* fs23~25&lt;/div&gt;"
+    },
+    {
+        "command": "f+2",
+        "hit level": "h",
+        "damage": "9",
+        "startup": "i12",
+        "block": "+0",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidestepped right at -7* Homing to SSL/SWL side?"
+    },
+    {
+        "command": "f+2,1",
+        "hit level": "h, m",
+        "damage": "9, 12",
+        "startup": "i12, i15~16",
+        "block": "-10",
+        "hit": "+6c",
+        "counter hit": "",
+        "notes": "* Spike* Combo from 1st hit"
+    },
+    {
+        "command": "f+2,1,1+2",
+        "hit level": "h, m, m",
+        "damage": "9, 12, 25",
+        "startup": "i12, ,i21~22",
+        "block": "-18",
+        "hit": "+7a (-2)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Shoulder* Combo from 1st CH with 13f delay* Input can be delayed 13f* Move can be delayed 10f"
+    },
+    {
+        "command": "f+2,2",
+        "hit level": "h, m",
+        "damage": "9, 20",
+        "startup": "i12, i14",
+        "block": "-26",
+        "hit": "+18a (-13)",
+        "counter hit": "",
+        "notes": "* Balcony break on airborne hit* Combo from 1st hit* Transition to r67 STB on hit without STB* Tremendous backstep on block"
+    },
+    {
+        "command": "f+3",
+        "hit level": "h",
+        "damage": "18",
+        "startup": "i18",
+        "block": "+0",
+        "hit": "+15g",
+        "counter hit": "+14",
+        "notes": "* Homing* Balcony Break* +22a (+13) on BT hitLow crush 9~24"
+    },
+    {
+        "command": "f+4",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i22~23",
+        "block": "+4c",
+        "hit": "+4c",
+        "counter hit": "+28d",
+        "notes": ""
+    },
+    {
+        "command": "f+1+2",
+        "hit level": "m",
+        "damage": "8",
+        "startup": "i16",
+        "block": "-18",
+        "hit": "-7",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidewalked left at -4 or -5 or -2?* Can be sidestepped left at -3* Can be sidestepped right at -7"
+    },
+    {
+        "command": "f+1+2,1+2",
+        "hit level": "m, m",
+        "damage": "8, 16",
+        "startup": "i16, i18",
+        "block": "-14",
+        "hit": "+4a",
+        "counter hit": "",
+        "notes": "* Combo from 1st hit with 11f delay* Input can be delayed 11f* Move can be delayed 10f"
+    },
+    {
+        "command": "STB.f+1+2,1+2",
+        "hit level": "m, m",
+        "damage": "8, 16",
+        "startup": "i16, i18",
+        "block": "-9",
+        "hit": "+64a",
+        "counter hit": "",
+        "notes": "* Balcony Break* Jail from 1st attack with 1f delay* Combo from 1st hit with 11f delay* Input can be delayed 11f* Move can be delayed 10f* 3 chip damage on block* 6 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead"
+    },
+    {
+        "command": "f+3+4",
+        "hit level": "h",
+        "damage": "18",
+        "startup": "i17~18",
+        "block": "-8",
+        "hit": "+19a",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+1",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i15",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidestepped left from -5 to -6 and -2 only?* Can be sidewalked left at -4* Cannot be sidestepped or sidewalked right?"
+    },
+    {
+        "command": "df+1,2",
+        "hit level": "m, m",
+        "damage": "10, 15",
+        "startup": "i15, i23~24",
+        "block": "-15",
+        "hit": "+31a (+21)",
+        "counter hit": "",
+        "notes": "* Combo from 1st hit with 1f delay"
+    },
+    {
+        "command": "df+2",
+        "hit level": "m",
+        "damage": "19",
+        "startup": "i14",
+        "block": "-13",
+        "hit": "+5",
+        "counter hit": "+59a",
+        "notes": "* Tracking notes:* Can be sidestepped right at -3 or -5 (but not -4?)* Completely homing to SSL/SWL?"
+    },
+    {
+        "command": "df+3",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i14",
+        "block": "-7",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidestepped left at -6* Completely homing to SSR/SWR?"
+    },
+    {
+        "command": "df+3,1",
+        "hit level": "m, m",
+        "damage": "12, 18",
+        "startup": "i14, i17~19",
+        "block": "-12",
+        "hit": "+29a (+14)",
+        "counter hit": "",
+        "notes": "* Tornado* Combo from 1st hit with 14f delay* Input can be delayed 14f* Move can be delayed 8f"
+    },
+    {
+        "command": "df+3,2",
+        "hit level": "m, h",
+        "damage": "12, 10",
+        "startup": "i14, i15",
+        "block": "-2",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "* Combo from 1st hit with 14f delay* Input can be delayed 14f* Move can be delayed 9f"
+    },
+    {
+        "command": "df+4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i13",
+        "block": "-8",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "d+1",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i17~18",
+        "block": "-8",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "STB.d+1,2",
+        "hit level": "m, M",
+        "damage": "14, 23",
+        "startup": "i17~18, i28",
+        "block": "+6",
+        "hit": "+28a (+13)",
+        "counter hit": "",
+        "notes": "* Tornado* Combo from 1st hit* 4 chip damage on block* 8 chip damage on block in heat* Interrupt with i8 from 1st block* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead"
+    },
+    {
+        "command": "d+2",
+        "hit level": "L",
+        "damage": "6",
+        "startup": "i20",
+        "block": "-11",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidewalked left at -5* Can be sidewalked right at -3* Can be sidestepped right at -2High crush 6~"
+    },
+    {
+        "command": "d+2,2",
+        "hit level": "L, L",
+        "damage": "6, 8",
+        "startup": "i20, i16~17",
+        "block": "-13",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "Jail from 1st attack,High crush 1~"
+    },
+    {
+        "command": "d+3",
+        "hit level": "L",
+        "damage": "10",
+        "startup": "i16",
+        "block": "-17",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "d+4",
+        "hit level": "l",
+        "damage": "6",
+        "startup": "i12",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "",
+        "notes": "High crush 4~"
+    },
+    {
+        "command": "d+1+2",
+        "hit level": "m",
+        "damage": "28",
+        "startup": "i13~14",
+        "block": "-18",
+        "hit": "+7a (-2)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Shoulder"
+    },
+    {
+        "command": "db+1",
+        "hit level": "sl",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Returns to standing when input FHigh crush 4~"
+    },
+    {
+        "command": "db+2",
+        "hit level": "sl",
+        "damage": "8",
+        "startup": "i11",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidewalked left at -1* Can be sidestepped right at -4High crush 4~"
+    },
+    {
+        "command": "db+2,1",
+        "hit level": "sl, m",
+        "damage": "8, 12",
+        "startup": "i11, i18",
+        "block": "-9",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Combo from 1st CH,High crush 1~"
+    },
+    {
+        "command": "db+3",
+        "hit level": "L",
+        "damage": "23",
+        "startup": "i24~25",
+        "block": "-14~15",
+        "hit": "+3c",
+        "counter hit": "+27a",
+        "notes": "* Tracking notes:* Can be sidewalked at -7* Can be sidestepped right at -6* Can be sidestepped left at -5High crush 6~"
+    },
+    {
+        "command": "db+4",
+        "hit level": "L",
+        "damage": "7",
+        "startup": "i15",
+        "block": "-13",
+        "hit": "-2",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidestepped right at -7* Pseudo homing to SSL/SWL side?"
+    },
+    {
+        "command": "db+4,3",
+        "hit level": "L, h",
+        "damage": "7, 10",
+        "startup": "i15, i18",
+        "block": "-11",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": "Combo from 1st hit with 1f delay"
+    },
+    {
+        "command": "db+1+2",
+        "hit level": "M",
+        "damage": "20",
+        "startup": "i17~18",
+        "block": "-12",
+        "hit": "+8a (-9)",
+        "counter hit": "+62a (+46)",
+        "notes": "* Tornado* Balcony Break* Tracking notes:* Can be sidewalked left at -7* Can be sidewalked right at -5* Can be sidestepped right at -4* Can be sidestepped left at +1&lt;div class=&quot;plainlist&quot;&gt;* Low crush 20~32* fs33~35&lt;/div&gt;"
+    },
+    {
+        "command": "b+1",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i18~19",
+        "block": "-5",
+        "hit": "+12a",
+        "counter hit": "",
+        "notes": "* Homing* Balcony Break"
+    },
+    {
+        "command": "b+2",
+        "hit level": "h",
+        "damage": "25",
+        "startup": "i14",
+        "block": "-9",
+        "hit": "+9a",
+        "counter hit": "",
+        "notes": "* Tornado* Tracking notes:* Effectively homing?* Can be sidewalked right at +2 only?* Can be sidewalked left at +6 and +8 only?"
+    },
+    {
+        "command": "b+3",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i13",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Knee* Tracking notes:* Can be sidewalked left at -4* Completely homing to SSL/SSR/SWR?"
+    },
+    {
+        "command": "b+3,n,3",
+        "hit level": "m, m",
+        "damage": "14, 21",
+        "startup": "i13, i24~25",
+        "block": "-12",
+        "hit": "+7c",
+        "counter hit": "+22d",
+        "notes": "* Spike* Combo from 1st CH with 6f delay* Input can be delayed 9f* Move can be delayed 8f"
+    },
+    {
+        "command": "b+4",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i17",
+        "block": "-14",
+        "hit": "-3",
+        "counter hit": "",
+        "notes": "* Tracking notes:* Can be sidestepped left at -7* Can be sidewalked right at -6* Can be sidestepped right at -4* Increased tracking when b4,1 is input?* Cannot be sidestepped/sidewalked right when b4,1 is input at +1 onwards?"
+    },
+    {
+        "command": "b+4,1",
+        "hit level": "m, h",
+        "damage": "10, 18",
+        "startup": "i17, i20~21",
+        "block": "+1",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "* Tornado* Balcony break on airborne hit* Combo from 1st hit with no delay* Combo from 1st CH with 10f delay* Input can be delayed 12F* 5 chip damage on block* 7 chip damage on block in heat"
+    },
+    {
+        "command": "b+4,2",
+        "hit level": "m, m",
+        "damage": "10, 20",
+        "startup": "i17, i20",
+        "block": "-11",
+        "hit": "+29a (+3)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Balcony Break* Combo from 1st hit with no delay* Combo from 1st CH with 10f delay* Input can be delayed 12F* Transition to r45 STB on hit without STB and Heat"
+    },
+    {
+        "command": "b+4,3",
+        "hit level": "m, h",
+        "damage": "10, 14",
+        "startup": "i17, i22~23",
+        "block": "-12",
+        "hit": "-4",
+        "counter hit": "+1",
+        "notes": "* Homing* Combo from 1st hit with no delay* Combo from 1st CH with 8f delay* Input can be delayed 12F"
+    },
+    {
+        "command": "b+4,3,2",
+        "hit level": "m, h, M",
+        "damage": "10, 14, 20",
+        "startup": "i17, ,i31~32",
+        "block": "-13",
+        "hit": "+16a",
+        "counter hit": "",
+        "notes": "* Balcony Break* Spike* Combo from 2nd CH* Interrupt with i5 from 2nd block,Low crush 1~31"
+    },
+    {
+        "command": "STB.b+4,3,2",
+        "hit level": "m, h, M",
+        "damage": "10, 14, 38",
+        "startup": "i17, ,i31~32",
+        "block": "-1c",
+        "hit": "43a (+33)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Spike* Combo from 2nd CH* Interrupt with i5 from 2nd block* 7 chip damage on block* 14 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead,Low crush 1~31"
+    },
+    {
+        "command": "b+4,4",
+        "hit level": "m, m",
+        "damage": "10, 16",
+        "startup": "i17, i28~29",
+        "block": "-13",
+        "hit": "+30a (+20)",
+        "counter hit": "",
+        "notes": "* Tornado* Combo from 1st CH with 2f delay* Input can be delayed 12F* Interrupt with i8 from 1st block&lt;div class=&quot;plainlist&quot;&gt;* Low crush 22~37* fs38~40&lt;/div&gt;"
+    },
+    {
+        "command": "b+1+2",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i22",
+        "block": "-13",
+        "hit": "+15a",
+        "counter hit": "",
+        "notes": "* Balcony Break* Spike* -9 on block after absorbing an attack and chip damage on blockPower crush 7~21"
+    },
+    {
+        "command": "b+2+3",
+        "hit level": "m!",
+        "damage": "60",
+        "startup": "i72",
+        "block": "",
+        "hit": "+15a (-11)",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "b+3+4",
+        "hit level": "m",
+        "damage": "24",
+        "startup": "i29~30",
+        "block": "-15",
+        "hit": "+9a (+0)",
+        "counter hit": "",
+        "notes": "* Homing* Balcony Break* Backswing blow* Max distance from opponent when performed from tip range: 3.07-3.09 (frames 10-13?)"
+    },
+    {
+        "command": "u+2",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i21~22",
+        "block": "-8",
+        "hit": "+16a",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +67a (+50)* Balcony Break* Spike* Transition to r49 STB on hit without STB and Heat* Linear moveLow crush 9~22"
+    },
+    {
+        "command": "uf+3",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i23~25",
+        "block": "+2c",
+        "hit": "+7c",
+        "counter hit": "",
+        "notes": "* 20 damage with input ub+3* 21 damage with input u+3* 6 chip damage on block* 9 chip damage on block in heat* Range notes:* Assuming uf+3 input* Tracking notes:* Linear move* No tracking to SSL/SWL side?&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~26* fs27~29&lt;/div&gt;"
+    },
+    {
+        "command": "uf+4",
+        "hit level": "m",
+        "damage": "13",
+        "startup": "i15~17",
+        "block": "-13",
+        "hit": "+33a (+23)",
+        "counter hit": "",
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~30* fs31~33&lt;/div&gt;"
+    },
+    {
+        "command": "uf+3+4",
+        "hit level": "m,m",
+        "damage": "10,14",
+        "startup": "i20 i13~14",
+        "block": "-11",
+        "hit": "+14a (+5)",
+        "counter hit": "",
+        "notes": "* Balcony Break* First hit can be parriedLow crush 21~38"
+    },
+    {
+        "command": "1+2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Can't block for 5 seconds* CH state for 5 seconds"
+    },
+    {
+        "command": "f,F+2",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i14~16",
+        "block": "-18",
+        "hit": "-7",
+        "counter hit": "",
+        "notes": "* Elbow* i15 fastest startup when buffered during blockstun. i17 fastest startup when unbuffered"
+    },
+    {
+        "command": "f,F+2,2",
+        "hit level": "m, h",
+        "damage": "14, 20",
+        "startup": "i14~16, i14~15",
+        "block": "-2c",
+        "hit": "+6c",
+        "counter hit": "",
+        "notes": "* Spike* Combo from 1st hit with 13f delay* Input can be delayed 13f* Move can be delayed 6f"
+    },
+    {
+        "command": "f,F+2,1+2",
+        "hit level": "m, m,m",
+        "damage": "14, 14,20",
+        "startup": "i14~16, i14~16",
+        "block": "-13",
+        "hit": "+10a (+1)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combo from 1st hit with 10f delay* Input can be delayed 13f* Move can be delayed 10f* Transition to r57 STB on hit without STB* Frame advantage -14a (-23) on STB gain"
+    },
+    {
+        "command": "f,F+4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i15~17",
+        "block": "-1~+1",
+        "hit": "+6~+8",
+        "counter hit": "+13~+15",
+        "notes": "* Knee* i16 startup when buffering f,n. i18 fastest startup when unbuffered* Tracking notes:* Assuming i18 startup (f,n,f,f+4)* Can be sidestepped right at -11* Can be sidewalked left at -9* Can be sidestepped left at -7&lt;div class=&quot;plainlist&quot;&gt;* Low crush 11~28* fs29~31&lt;/div&gt;"
+    },
+    {
+        "command": "uf,n,4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i23~i25",
+        "block": "-13",
+        "hit": "+32a (+22a)",
+        "counter hit": "",
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* Low crush 9~30* fs31~33&lt;/div&gt;"
+    },
+    {
+        "command": "f,f,F+2",
+        "hit level": "h",
+        "damage": "40",
+        "startup": "i13~16",
+        "block": "+6",
+        "hit": "+24a (+19)",
+        "counter hit": "",
+        "notes": "* Heat Engager* Heat Dash +5, +36a (+26)* Balcony Break* Transition to r51 STB without STB and Heat* Frame advantage +1a (-4) on STB gain* 8 chip damage on block* 15 chip damage on block in heat* Cannot be buffered* Tracking notes:* Assuming i18 startup (f,n,f,n,f+2)* Can be sidestepped left at -10* Can be sidewalked right at -7* Can be sidestepped right from -5 to -2&lt;div class=&quot;plainlist&quot;&gt;* Low crush 3~26* fs27~29&lt;/div&gt;"
+    },
+    {
+        "command": "ws1",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i12~13",
+        "block": "-4",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ws1,1",
+        "hit level": "m, h",
+        "damage": "12, 15",
+        "startup": "i12~13, i20",
+        "block": "-12",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "Combo from 1st hit with 1f delay"
+    },
+    {
+        "command": "ws1,2",
+        "hit level": "m, M",
+        "damage": "12, 12",
+        "startup": "i12~13, i28~29",
+        "block": "-9",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "* Tornado* Combo from 1st hit with 1f delay* Interrupt with i10 from 1st block"
+    },
+    {
+        "command": "STB.ws1,2",
+        "hit level": "m, M",
+        "damage": "12, 23",
+        "startup": "i12~13, i28~29",
+        "block": "+6",
+        "hit": "+28a (+13)",
+        "counter hit": "",
+        "notes": "* Tornado* Combo from 1st hit with 1f delay* Interrupt with i10 from 1st block* 4 chip damage on block* 8 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead"
+    },
+    {
+        "command": "ws2",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i15~16",
+        "block": "-14",
+        "hit": "+26a (+16)",
+        "counter hit": "",
+        "notes": "* Transition to r39 STB on hit without STB* Frame advantage +24a (+14) on STB gain"
+    },
+    {
+        "command": "ws3",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i16",
+        "block": "-8",
+        "hit": "+15a (+6)",
+        "counter hit": "",
+        "notes": "Balcony Break"
+    },
+    {
+        "command": "ws4",
+        "hit level": "m",
+        "damage": "18",
+        "startup": "i11~12",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "SS.4",
+        "hit level": "L",
+        "damage": "20",
+        "startup": "i20~21",
+        "block": "-12",
+        "hit": "+6c",
+        "counter hit": "+27d",
+        "notes": "* Side step takes 9f, effective startup i29* Range notes:* Assuming i29 startup (9f sidestep)* SSL4 range: 2.45* SSR4 range: 2.39* Range increases with sidestep delay* Tracking notes:* Assuming i29 startup (9f sidestep)* Can be sidewalked left from -11 to +2 (SSL4)* Can be sidewalked left from -6 to -5 and -2 (SSR4)* Tracks SSR/SWR completely?* Pseudo homing low?"
+    },
+    {
+        "command": "FC.df+2",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i14~16",
+        "block": "-18",
+        "hit": "-7",
+        "counter hit": "",
+        "notes": "* Elbow"
+    },
+    {
+        "command": "FC.df+2,2",
+        "hit level": "m, h",
+        "damage": "14, 20",
+        "startup": "i14~16, i14~15",
+        "block": "-2c",
+        "hit": "+6c",
+        "counter hit": "",
+        "notes": "* Spike* Combo from 1st hit with 13f delay* Input can be delayed 13f* Move can be delayed 6f"
+    },
+    {
+        "command": "FC.df+2,1+2",
+        "hit level": "m,m",
+        "damage": "14,20",
+        "startup": "i14~16",
+        "block": "-13",
+        "hit": "+10a (+1)",
+        "counter hit": "",
+        "notes": "* Balcony Break* Combo from 1st hit with 10f delay* Input can be delayed 13f* Move can be delayed 10f* Transition to r57 STB on hit without STB"
+    },
+    {
+        "command": "(back to wall).b,b,ub",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i36~38",
+        "block": "+0c",
+        "hit": "+8a",
+        "counter hit": "",
+        "notes": "&lt;div class=&quot;plainlist&quot;&gt;* fs5~13* Low crush 14~32* fs33~35&lt;/div&gt;"
+    },
+    {
+        "command": "STB.db+1+2",
+        "hit level": "M",
+        "damage": "25",
+        "startup": "i17~18",
+        "block": "-2",
+        "hit": "+62a (+46)",
+        "counter hit": "",
+        "notes": "* Tornado* 5 chip damage on block* 9 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead* Tracking notes:* Can be sidewalked left at -6* Can be sidewalked right at -5* Can be sidestepped right at -4* Can be sidestepped left at +1&lt;div class=&quot;plainlist&quot;&gt;* Low crush 20~32* fs33~35&lt;/div&gt;"
+    },
+    {
+        "command": "STB.f,f,F+1+2",
+        "hit level": "h",
+        "damage": "45",
+        "startup": "i13~16",
+        "block": "+8g~+11g +8w",
+        "hit": "+28a (+18)",
+        "counter hit": "",
+        "notes": "* Wall Crush +8g on block* Balcony Break* 7 chip damage on block* 19 chip damage on block in heat* Consumes STB, but if in Heat, partially depletes the remaining Heat time instead* Tracking notes:* Assuming i19 startup from buffered manual input (temporary tracking score result)* Can be sidestepped and sidewalked left at -12* Tracks SSR/SWR completely?&lt;div class=&quot;plainlist&quot;&gt;* Low crush 3~26* fs27~29&lt;/div&gt;"
+    },
+    {
+        "command": "1+3",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "-3",
+        "hit": "+1d",
+        "counter hit": "",
+        "notes": "* Homing* Throw Break 1 or 2"
+    },
+    {
+        "command": "2+4",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12~14",
+        "block": "-6",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Throw break 1 or 2* Side switch on hit* both players recover in FUFA on hit"
+    },
+    {
+        "command": "Back throw",
+        "hit level": "t",
+        "damage": "50",
+        "startup": "",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Unbreakable* Can side switch on hit* Opponent recovers in FDFT"
+    },
+    {
+        "command": "Left throw",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "",
+        "block": "-3",
+        "hit": "+1d",
+        "counter hit": "",
+        "notes": "* Break: 1* Opponent recovers in off-axis FUFT"
+    },
+    {
+        "command": "Right throw",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "",
+        "block": "-3",
+        "hit": "+1d",
+        "counter hit": "",
+        "notes": "* Throw break 2* Can side switch on hit* Opponent recovers in FUFT"
+    },
+    {
+        "command": "uf+1+2",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12",
+        "block": "-6",
+        "hit": "+1d",
+        "counter hit": "",
+        "notes": "* Throw break 1+2* Side switch on hit* Can be buffered* Opponent recovers in FUFA"
+    }
+]
