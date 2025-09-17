@@ -1,0 +1,1382 @@
+[
+    {
+        "command": "H.2+3",
+        "hit level": "m,m (t)",
+        "damage": "50",
+        "startup": "i16",
+        "block": "+7",
+        "hit": "0d",
+        "counter hit": "",
+        "notes": "* Heat Smash * Balcony Break * Transition to Attack Throw on hit * 2nd hit damage 25 * +27a (+1) If only last hit connects on standing opponent * 5 chip damage on block Low crush"
+    },
+    {
+        "command": "R.df+1+2",
+        "hit level": "m,t",
+        "damage": "55+",
+        "startup": "i20",
+        "block": "-18",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
+    },
+    {
+        "command": "1",
+        "hit level": "h",
+        "damage": "5",
+        "startup": "i10",
+        "block": "+1",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1,1",
+        "hit level": "h, m",
+        "damage": "5, 20",
+        "startup": "i10, i20",
+        "block": "-9",
+        "hit": "+8c",
+        "counter hit": "",
+        "notes": "* Elbow * Combo from 1st CH with 2F delay * Input can be delayed by 2F * Move cannot be delayed"
+    },
+    {
+        "command": "1,2",
+        "hit level": "h, h",
+        "damage": "5, 8",
+        "startup": "i10, i10",
+        "block": "-3",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit"
+    },
+    {
+        "command": "1,2,1",
+        "hit level": "h, h, m",
+        "damage": "5, 8, 15",
+        "startup": "i10, ,i17",
+        "block": "-10",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Delayable"
+    },
+    {
+        "command": "1,2,1,4",
+        "hit level": "h, h, m, m",
+        "damage": "5, 8, 15, 23",
+        "startup": "i10, ,i21",
+        "block": "-14",
+        "hit": "+13a (+4)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Knee * Combos from 3rd hit * Delayable"
+    },
+    {
+        "command": "1,2,4",
+        "hit level": "h, h, h",
+        "damage": "5, 8, 10",
+        "startup": "i10, ,i17",
+        "block": "-9",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "1,2,4,3",
+        "hit level": "h, h, h, h",
+        "damage": "5, 8, 10, 14",
+        "startup": "i10, ,i19",
+        "block": "-7",
+        "hit": "+6",
+        "counter hit": "+29a",
+        "notes": "* Combos from 3rd hit"
+    },
+    {
+        "command": "1,2,4,3~4",
+        "hit level": "h, h, h, m",
+        "damage": "5, 8, 10, 20",
+        "startup": "i10, ,i21",
+        "block": "-5",
+        "hit": "+9",
+        "counter hit": "+44a",
+        "notes": "* Knee * Effective startup i36 * Interrupt with i17 from 3rd block * Interrupt with i5 from 3rd hit * Can be charged * Move can be delayed by 2F"
+    },
+    {
+        "command": "1,2,4,3~4*",
+        "hit level": "h, h, h, m",
+        "damage": "5, 8, 10, 25",
+        "startup": "i10, ,i36",
+        "block": "+9",
+        "hit": "+73a (+57)",
+        "counter hit": "",
+        "notes": "* Tornado * Knee * Effective startup i51 * Interrupt with i32 from 3rd block * Interrupt with i20 from 3rd hit * Cancel into r20 FC with F at frames 16-24 (frames 31-39 from 3rd attack) ** Interrupt with i33? mid/low from 3rd block ** Interrupt with i21? mid/low from 3rd hit * Move can be delayed by 2F * Powered up with GRF"
+    },
+    {
+        "command": "1,2,4,3~4*~B",
+        "hit level": "h, h, h, m",
+        "damage": "5, 8, 10, 25",
+        "startup": "i10, ,i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break * Effective startup i53 * Interrupt with i34 from 3rd block * Interrupt with i22 from 3rd hit * Input B during frames 16-24 of Eruption Maw (charged) * Move can be delayed by 8F from Eruption Maw (charged)"
+    },
+    {
+        "command": "1,2,4,4",
+        "hit level": "h, h, h, L",
+        "damage": "5, 8, 10, 15",
+        "startup": "i10, ,i25",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "+0d",
+        "notes": "* Combos from 3rd hit * Shift to attack throw Murderous Sweep on counterhit"
+    },
+    {
+        "command": "1,4",
+        "hit level": "h, h",
+        "damage": "5, 17",
+        "startup": "i10, i17",
+        "block": "-8",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit"
+    },
+    {
+        "command": "2",
+        "hit level": "h",
+        "damage": "13",
+        "startup": "i12",
+        "block": "-8",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Elbow"
+    },
+    {
+        "command": "2,1",
+        "hit level": "h, h",
+        "damage": "13, 20",
+        "startup": "i12, i20",
+        "block": "-12",
+        "hit": "+15a (+6)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Elbow * Combo from 1st hit * r29 on hit"
+    },
+    {
+        "command": "2,3",
+        "hit level": "h, m",
+        "damage": "13, 22",
+        "startup": "i12, i31",
+        "block": "-4",
+        "hit": "+27a (+17)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 1st hit CH"
+    },
+    {
+        "command": "3",
+        "hit level": "m",
+        "damage": "11",
+        "startup": "i13",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "+9",
+        "notes": ""
+    },
+    {
+        "command": "3,1",
+        "hit level": "m, h",
+        "damage": "11, 12",
+        "startup": "i13, i18",
+        "block": "-3",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit"
+    },
+    {
+        "command": "3,1,2",
+        "hit level": "m, h, h",
+        "damage": "11, 12, 20",
+        "startup": "i13, ,i21",
+        "block": "-0",
+        "hit": "+38d (+30)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Tornado * Combos from 2nd hit CH"
+    },
+    {
+        "command": "3,1,4",
+        "hit level": "m, h, m",
+        "damage": "11, 12, 23",
+        "startup": "i13, ,i21",
+        "block": "-14",
+        "hit": "+8d (-1)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 2nd hit CH"
+    },
+    {
+        "command": "3,1,d+4",
+        "hit level": "m, h, L",
+        "damage": "11, 12, 15",
+        "startup": "i13, ,i20",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "+0d",
+        "notes": "* Shift to attack throw Murderous Sweep on counterhit * Combos from 2nd hit CH"
+    },
+    {
+        "command": "3,4",
+        "hit level": "m, m",
+        "damage": "11, 18",
+        "startup": "i13, i19",
+        "block": "-12",
+        "hit": "+24g",
+        "counter hit": "+34d (+26)",
+        "notes": "* Knee * Wallbreak on CH * Combos from 1st hit CH * Input can be delayed by 2F"
+    },
+    {
+        "command": "3,4~3",
+        "hit level": "m, m",
+        "damage": "11, 20",
+        "startup": "i13, i18",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "+37d (+29)",
+        "notes": "* Tornado * Balcony Break on CH * Effective startup i34 * Interrupt with i16 from 1st block * Interrupt with i5 from 1st hit * Combo from 1st hit CH * Can be charged"
+    },
+    {
+        "command": "3,4~3*",
+        "hit level": "m, m",
+        "damage": "11, 23",
+        "startup": "i13, i36",
+        "block": "+9",
+        "hit": "+70a (+54)",
+        "counter hit": "",
+        "notes": "* Tornado * Balcony Break * Effective startup i52 * Interrupt with i34 from 1st block * Interrupt with i23 from 1st hit * Cancel into r20 FC with F at frames 20-24 (frames 36-40 from 1st attack) ** Interrupt with i39? from 1st block ** Interrupt with i28? from 1st attack * 9 chip damage on block * Powered up with GRF"
+    },
+    {
+        "command": "3,4~3*~B",
+        "hit level": "m, m",
+        "damage": "11, 25",
+        "startup": "i13, i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break * Effective startup i54 * Interrupt with i36 from 3rd block * Interrupt with i25 from 3rd hit * Input B during frames 16-24 of Tornado Maw (charged) * Move can be delayed by 8F from Tornado Maw (charged)"
+    },
+    {
+        "command": "3,4~4",
+        "hit level": "m, h",
+        "damage": "11, 20",
+        "startup": "i13, i16",
+        "block": "+3",
+        "hit": "+13g",
+        "counter hit": "+30a",
+        "notes": "* Homing * Balcony Break * Strong Aerial Tailspin * Effective startup i29 * Interrupt with i11 from 1st block * 6 chip damage on block * Combos from 1st hit CH * Just frame input 3,4:4; effective startup i32 ** Input 4 during frames 14~16 of 3,4 ** Interrupt with i14 from 1st block ** Interrupt with i3? from 1st hit ** 24 damage, 7 chip damage, slightly different juggle properties"
+    },
+    {
+        "command": "4",
+        "hit level": "h",
+        "damage": "10",
+        "startup": "i12",
+        "block": "-12",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* r27 on hit"
+    },
+    {
+        "command": "4,3",
+        "hit level": "h, h",
+        "damage": "10, 14",
+        "startup": "i12, i19",
+        "block": "-7",
+        "hit": "+6",
+        "counter hit": "+29a",
+        "notes": "* Combos from 1st hit"
+    },
+    {
+        "command": "4,3~4",
+        "hit level": "h, m",
+        "damage": "10, 20",
+        "startup": "i12, i21",
+        "block": "-5",
+        "hit": "+9",
+        "counter hit": "+44a",
+        "notes": "* Knee * Can be charged * r25 on block"
+    },
+    {
+        "command": "4,3~4*",
+        "hit level": "h, m",
+        "damage": "10, 25",
+        "startup": "i12, i36",
+        "block": "+9",
+        "hit": "+73a (+57)",
+        "counter hit": "",
+        "notes": "* Tornado * Knee * Powered up with GRF Cancel into FC with F"
+    },
+    {
+        "command": "4,3~4*~B",
+        "hit level": "h, m",
+        "damage": "10, 25",
+        "startup": "i12, i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
+    },
+    {
+        "command": "4,4",
+        "hit level": "h, L",
+        "damage": "10, 15",
+        "startup": "i12, i25",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "+0d",
+        "notes": "* Combos from 3rd hit * Shift to attack throw Murderous Sweep on counterhit"
+    },
+    {
+        "command": "3+4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i18",
+        "block": "-9",
+        "hit": "+18a (+9)",
+        "counter hit": "+58cs",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "f+2",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i15",
+        "block": "-9",
+        "hit": "+0",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f+2,1",
+        "hit level": "m, m",
+        "damage": "14, 22",
+        "startup": "i15, i20",
+        "block": "-14",
+        "hit": "+33a (+18)",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit"
+    },
+    {
+        "command": "f+2,1,GRF.2",
+        "hit level": "m, m, m",
+        "damage": "14, 22, 20",
+        "startup": "i15, ,i29",
+        "block": "+2",
+        "hit": "+15d",
+        "counter hit": "",
+        "notes": "* Floor Break * Elbow * Consumes GRF * Partially consumes remaining Heat Time * Combos from 1st hit * 6 chip damage on block Low crush"
+    },
+    {
+        "command": "f+3",
+        "hit level": "m",
+        "damage": "16",
+        "startup": "i17",
+        "block": "-8",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": "* Knee"
+    },
+    {
+        "command": "f+3,2",
+        "hit level": "m, m",
+        "damage": "16, 13",
+        "startup": "i17, i20",
+        "block": "-12",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f+3,2,1",
+        "hit level": "m, m, h",
+        "damage": "16, 13, 20",
+        "startup": "i17, ,i19",
+        "block": "-5",
+        "hit": "+24a (+15)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 2nd hit CH * Delayable"
+    },
+    {
+        "command": "f+3,2,4",
+        "hit level": "m, m, m",
+        "damage": "16, 13, 20",
+        "startup": "i17, ,i20",
+        "block": "-12",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Knee * Combos from 2nd hit CH * Delayable"
+    },
+    {
+        "command": "f+3,2,4~3",
+        "hit level": "m, m, m",
+        "damage": "16, 13, 20",
+        "startup": "i17, ,i18",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "+37d (+29)",
+        "notes": "* Tornado * Wallbreak on CH * Combos from 1st hit CH * Can be charged"
+    },
+    {
+        "command": "f+3,2,4~3*",
+        "hit level": "m, m, m",
+        "damage": "16, 13, 23",
+        "startup": "i17, ,i36",
+        "block": "+9",
+        "hit": "+70a (+54)",
+        "counter hit": "",
+        "notes": "* Tornado * Balcony Break * 9 chip damage on block * Powered up with GRF Cancel into FC with F"
+    },
+    {
+        "command": "f+3,2,4~3*~B",
+        "hit level": "m, m, m",
+        "damage": "16, 13, 25",
+        "startup": "i17, ,i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
+    },
+    {
+        "command": "f+3,2,4~4",
+        "hit level": "m, m, h",
+        "damage": "16, 13, 20",
+        "startup": "i17, ,i16",
+        "block": "+3",
+        "hit": "+13g",
+        "counter hit": "+30a",
+        "notes": "* Homing * Balcony Break * Strong Aerial Tailspin * 6 chip damage on block * Combos from 1st hit CH * Just frame input 3,4:4 * 24 damage, 7 chip damage, slightly different juggle properties"
+    },
+    {
+        "command": "f+4",
+        "hit level": "m",
+        "damage": "26",
+        "startup": "i25",
+        "block": "+3c",
+        "hit": "+8c",
+        "counter hit": "+14c",
+        "notes": "* Floor Break"
+    },
+    {
+        "command": "f+1+2",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i21",
+        "block": "-4",
+        "hit": "+24a (+14)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +36a (+26) * Balcony Break * 7 chip damage on block"
+    },
+    {
+        "command": "f+3+4",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i22",
+        "block": "-14",
+        "hit": "+19a (+14)",
+        "counter hit": "",
+        "notes": "* Knee * Grants GRF on hit Power crush"
+    },
+    {
+        "command": "df+1",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i15",
+        "block": "-3",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+1,2",
+        "hit level": "m, M",
+        "damage": "12, 20",
+        "startup": "i15, i27",
+        "block": "-13",
+        "hit": "+12d",
+        "counter hit": "",
+        "notes": "* Floor Break * Elbow * Combos from 1st hit * Grants GRF on hit Low crush"
+    },
+    {
+        "command": "df+1,4",
+        "hit level": "m, h",
+        "damage": "12, 23",
+        "startup": "i15, i25",
+        "block": "-5",
+        "hit": "+20a (+11)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +62a (+42) * Knee"
+    },
+    {
+        "command": "df+1,4~3",
+        "hit level": "m, m",
+        "damage": "12, 20",
+        "startup": "i15, i18",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "+37d (+29)",
+        "notes": "* Tornado * Wallbreak on CH * Combos from 1st hit CH * Can be charged"
+    },
+    {
+        "command": "df+1,4~3*",
+        "hit level": "m, m",
+        "damage": "12, 23",
+        "startup": "i15, i36",
+        "block": "+9",
+        "hit": "+70a (+54)",
+        "counter hit": "",
+        "notes": "* Tornado * Balcony Break * 9 chip damage on block * Powered up with GRF Cancel into FC with F"
+    },
+    {
+        "command": "df+1,4~3*~B",
+        "hit level": "m, m",
+        "damage": "12, 25",
+        "startup": "i15, i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
+    },
+    {
+        "command": "df+1,4~4",
+        "hit level": "m, h",
+        "damage": "12, 20",
+        "startup": "i15, i16",
+        "block": "+3",
+        "hit": "+13g",
+        "counter hit": "+30a",
+        "notes": "* Homing * Balcony Break * Strong Aerial Tailspin * 6 chip damage on block * Combos from 1st hit CH * Just frame input 3,4:4 * 24 damage, 7 chip damage, slightly different juggle properties"
+    },
+    {
+        "command": "df+2",
+        "hit level": "m",
+        "damage": "10",
+        "startup": "i15",
+        "block": "-7",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+2,1",
+        "hit level": "m, m",
+        "damage": "10, 22",
+        "startup": "i15, i24",
+        "block": "-13",
+        "hit": "+13d",
+        "counter hit": "",
+        "notes": "* Balcony Break * Floor Break * Elbow * Combos from 1st hit"
+    },
+    {
+        "command": "df+2,3",
+        "hit level": "m, h",
+        "damage": "10, 11",
+        "startup": "i15, i21",
+        "block": "-13",
+        "hit": "+52cs",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 1st hit"
+    },
+    {
+        "command": "df+3",
+        "hit level": "l",
+        "damage": "15",
+        "startup": "i20",
+        "block": "-13",
+        "hit": "-1c",
+        "counter hit": "+28g",
+        "notes": ""
+    },
+    {
+        "command": "df+3~3",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i17",
+        "block": "+2",
+        "hit": "+12d",
+        "counter hit": "",
+        "notes": "* 6 chip damage on block"
+    },
+    {
+        "command": "df+3~4",
+        "hit level": "M",
+        "damage": "20",
+        "startup": "i25",
+        "block": "-10",
+        "hit": "+21a (+4)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Knee * Just frame input df+3:4 for 6 more damage"
+    },
+    {
+        "command": "df+4",
+        "hit level": "m",
+        "damage": "15",
+        "startup": "i16",
+        "block": "-6",
+        "hit": "+3",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+4,1",
+        "hit level": "m, h",
+        "damage": "15, 25",
+        "startup": "i16, i22",
+        "block": "-6",
+        "hit": "+14a (+5)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 1st hit"
+    },
+    {
+        "command": "df+4,3",
+        "hit level": "m, m",
+        "damage": "15, 23",
+        "startup": "i16, i25",
+        "block": "-12",
+        "hit": "+9d",
+        "counter hit": "",
+        "notes": "* Tornado * Knee * Combos from 1st hit Low crush"
+    },
+    {
+        "command": "df+3+4",
+        "hit level": "m,m",
+        "damage": "8,16",
+        "startup": "i13",
+        "block": "-10",
+        "hit": "+8",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "df+3+4,GRF.3",
+        "hit level": "m,m, m",
+        "damage": "8,16, 23",
+        "startup": "i13, i26",
+        "block": "-9",
+        "hit": "+13g",
+        "counter hit": "",
+        "notes": "* Consumes GRF * Partially consumes remaining Heat Time * Transition to +13g RAM on hit * Combos from 1st hit * 9 chip damage on block"
+    },
+    {
+        "command": "d+1",
+        "hit level": "M",
+        "damage": "20",
+        "startup": "i18",
+        "block": "-5",
+        "hit": "+8c",
+        "counter hit": "+13c",
+        "notes": "* Elbow"
+    },
+    {
+        "command": "d+2",
+        "hit level": "sl",
+        "damage": "13",
+        "startup": "i12",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "* Elbow High crush"
+    },
+    {
+        "command": "d+3",
+        "hit level": "L",
+        "damage": "11",
+        "startup": "i16",
+        "block": "-16",
+        "hit": "-5",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "d+3,4",
+        "hit level": "L, h",
+        "damage": "11, 10",
+        "startup": "i16, i20",
+        "block": "-9",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Combos from 1st hit CH"
+    },
+    {
+        "command": "d+3,4,3",
+        "hit level": "L, h, h",
+        "damage": "11, 10, 14",
+        "startup": "i16, ,i19",
+        "block": "-7",
+        "hit": "+6",
+        "counter hit": "+29a",
+        "notes": "* Combos from 1st hit CH"
+    },
+    {
+        "command": "d+3,4,3~4",
+        "hit level": "L, h, m",
+        "damage": "11, 10, 20",
+        "startup": "i16, ,i21",
+        "block": "-5",
+        "hit": "+9",
+        "counter hit": "+44a",
+        "notes": "* Knee * Can be charged"
+    },
+    {
+        "command": "d+3,4,3~4*",
+        "hit level": "L, h, m",
+        "damage": "11, 10, 25",
+        "startup": "i16, ,i36",
+        "block": "+9",
+        "hit": "+73a (+57)",
+        "counter hit": "",
+        "notes": "* Tornado * Knee * Powered up with GRF * Cancel into FC with F"
+    },
+    {
+        "command": "d+3,4,3~4*~B",
+        "hit level": "L, h, m",
+        "damage": "11, 10, 25",
+        "startup": "i16, ,i22",
+        "block": "-7",
+        "hit": "+9",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
+    },
+    {
+        "command": "d+3,4,4",
+        "hit level": "L, h, L",
+        "damage": "11, 10, 15",
+        "startup": "i16, ,i25",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "+0d",
+        "notes": "* Combos from 3rd hit * Shift to attack throw Murderous Sweep on counterhit"
+    },
+    {
+        "command": "d+4",
+        "hit level": "L",
+        "damage": "18",
+        "startup": "i14",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "+0d",
+        "notes": "* Shift to attack throw Murderous Sweep on counterhit"
+    },
+    {
+        "command": "d+4 (counterhit)",
+        "hit level": "l (t)",
+        "damage": "41",
+        "startup": "i14",
+        "block": "",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Shifts to throw on front gounded CH"
+    },
+    {
+        "command": "db+1",
+        "hit level": "sl",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "db+2",
+        "hit level": "m",
+        "damage": "16",
+        "startup": "i16",
+        "block": "-10",
+        "hit": "+1",
+        "counter hit": "",
+        "notes": "* High evasion"
+    },
+    {
+        "command": "db+2,2",
+        "hit level": "m, m",
+        "damage": "16, 16",
+        "startup": "i16, i25",
+        "block": "-13",
+        "hit": "+1",
+        "counter hit": "",
+        "notes": "* Elbow * Combos from 1st hit"
+    },
+    {
+        "command": "db+4",
+        "hit level": "h",
+        "damage": "23",
+        "startup": "i20",
+        "block": "-6",
+        "hit": "+35d",
+        "counter hit": "",
+        "notes": "* Balcony Break * Strong Aerial Tailspin"
+    },
+    {
+        "command": "db+3+4",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i30",
+        "block": "-9",
+        "hit": "+15a",
+        "counter hit": "",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "b+1",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i14",
+        "block": "-13",
+        "hit": "+34d",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "b+1+3",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Parries high and mid kicks Parry state 5~12"
+    },
+    {
+        "command": "b+1+3,P",
+        "hit level": "m,m,h",
+        "damage": "40",
+        "startup": "i19",
+        "block": "",
+        "hit": "+19a (+10)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Only occurs upon successful b+1+3 Parry"
+    },
+    {
+        "command": "b+2",
+        "hit level": "h",
+        "damage": "17",
+        "startup": "i14",
+        "block": "-15",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "b+2,1",
+        "hit level": "h, h",
+        "damage": "17, 25",
+        "startup": "i14, i21",
+        "block": "-9",
+        "hit": "+15a (+6)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 1st hit"
+    },
+    {
+        "command": "b+2+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Parries high and mid punches * Grants GRF on successful parry * Regains recoverable health on successful parry Parry state 5~12"
+    },
+    {
+        "command": "b+3",
+        "hit level": "h",
+        "damage": "27",
+        "startup": "i16",
+        "block": "-7",
+        "hit": "+15a (+6)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +62a (+42) * Homing * 5 chip damage on block"
+    },
+    {
+        "command": "b+4",
+        "hit level": "m",
+        "damage": "14",
+        "startup": "i14",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "* Knee"
+    },
+    {
+        "command": "b+4,3",
+        "hit level": "m, m",
+        "damage": "14, 14",
+        "startup": "i14, i24",
+        "block": "-10",
+        "hit": "-1",
+        "counter hit": "",
+        "notes": "* Knee * Combos from 1st hit"
+    },
+    {
+        "command": "b+4,3,2",
+        "hit level": "m, m, m",
+        "damage": "14, 14, 21",
+        "startup": "i14, ,i31",
+        "block": "-12",
+        "hit": "+16d",
+        "counter hit": "",
+        "notes": "* Knee * Elbow * Grants GRF on hit"
+    },
+    {
+        "command": "b+1+4",
+        "hit level": "m!",
+        "damage": "50",
+        "startup": "i60",
+        "block": "!",
+        "hit": "+9d",
+        "counter hit": "",
+        "notes": "* Unblockable"
+    },
+    {
+        "command": "b+3+4",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i17",
+        "block": "-13",
+        "hit": "+3",
+        "counter hit": "+33d (+25)",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "uf+1",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i28",
+        "block": "+6",
+        "hit": "+24d",
+        "counter hit": "",
+        "notes": "* Floor Break * Elbow * 4 chip damage on block Low crush"
+    },
+    {
+        "command": "uf+2",
+        "hit level": "h",
+        "damage": "20",
+        "startup": "i18",
+        "block": "-7",
+        "hit": "+22a (+13)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Elbow Power crush"
+    },
+    {
+        "command": "uf+3",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i14",
+        "block": "-14",
+        "hit": "+9a (+0)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +43d (+35) * Knee Low crush"
+    },
+    {
+        "command": "uf+4",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i20",
+        "block": "-16",
+        "hit": "+66a (+55)",
+        "counter hit": "",
+        "notes": "* Tornado * Balcony Break Low crush"
+    },
+    {
+        "command": "1+2+3+4",
+        "hit level": "",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "b,f+4",
+        "hit level": "h",
+        "damage": "25",
+        "startup": "i18",
+        "block": "+6",
+        "hit": "+47cs",
+        "counter hit": "",
+        "notes": "* Reversal Break * 10 chip damage on block"
+    },
+    {
+        "command": "f,F+3",
+        "hit level": "L",
+        "damage": "20",
+        "startup": "i21",
+        "block": "-14",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f,F+4",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i22",
+        "block": "-13",
+        "hit": "+33a",
+        "counter hit": "",
+        "notes": "* Homing * Balcony Break"
+    },
+    {
+        "command": "f,F+4~1",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i21",
+        "block": "-3c",
+        "hit": "+8c",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f,F+4~3",
+        "hit level": "L",
+        "damage": "15",
+        "startup": "i19",
+        "block": "-23",
+        "hit": "-1c",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "f,F+4~3,2",
+        "hit level": "L, m",
+        "damage": "15, 20",
+        "startup": "i19, i25",
+        "block": "+0",
+        "hit": "+13d (-4)",
+        "counter hit": "",
+        "notes": "* Elbow * Powered up in GRF * Combos from 1st hit CH * 6 chip damage on block"
+    },
+    {
+        "command": "f,F+1+2",
+        "hit level": "m",
+        "damage": "22",
+        "startup": "i18",
+        "block": "-14",
+        "hit": "+43a (+33)",
+        "counter hit": "",
+        "notes": "* Grants GRF on hit"
+    },
+    {
+        "command": "uf,n,4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i23",
+        "block": "-13",
+        "hit": "+32a (+22)",
+        "counter hit": "",
+        "notes": "Low crush"
+    },
+    {
+        "command": "f,f,F+3",
+        "hit level": "m",
+        "damage": "30",
+        "startup": "i19",
+        "block": "+6",
+        "hit": "+15a (+5)",
+        "counter hit": "",
+        "notes": "* Knee * 9 chip damage on block Low crush"
+    },
+    {
+        "command": "ws1",
+        "hit level": "m",
+        "damage": "12",
+        "startup": "i13",
+        "block": "-4",
+        "hit": "+4",
+        "counter hit": "",
+        "notes": "* Elbow"
+    },
+    {
+        "command": "ws1,2",
+        "hit level": "m, h",
+        "damage": "12, 25",
+        "startup": "i13, i18",
+        "block": "-9",
+        "hit": "+20a (11)",
+        "counter hit": "",
+        "notes": "* Heat Engager * Heat Dash +43d (+35) * Elbow * Delayable * Combos from 1st hit"
+    },
+    {
+        "command": "ws2",
+        "hit level": "m",
+        "damage": "13",
+        "startup": "i14",
+        "block": "-9",
+        "hit": "+7",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "ws2,4",
+        "hit level": "m, m",
+        "damage": "13, 20",
+        "startup": "i14, i22",
+        "block": "-13",
+        "hit": "+34d",
+        "counter hit": "",
+        "notes": "* Balcony Break * Homing * Can cancel into the same options as f,F+4 (f,F+4~1 etc)"
+    },
+    {
+        "command": "ws3",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i15",
+        "block": "-14",
+        "hit": "+55cs",
+        "counter hit": "",
+        "notes": "* Knee"
+    },
+    {
+        "command": "ws4",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i11",
+        "block": "-6",
+        "hit": "+5",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "SS.4",
+        "hit level": "m",
+        "damage": "23",
+        "startup": "i15",
+        "block": "-11",
+        "hit": "+38a",
+        "counter hit": "",
+        "notes": "* Tornado * Knee Low crush"
+    },
+    {
+        "command": "FC.1",
+        "hit level": "sl",
+        "damage": "5",
+        "startup": "i10",
+        "block": "-5",
+        "hit": "+6",
+        "counter hit": "",
+        "notes": "High crush"
+    },
+    {
+        "command": "FC.2",
+        "hit level": "sl",
+        "damage": "13",
+        "startup": "i12",
+        "block": "-9",
+        "hit": "+2",
+        "counter hit": "",
+        "notes": "* Elbow High crush"
+    },
+    {
+        "command": "FC.3",
+        "hit level": "L",
+        "damage": "10",
+        "startup": "i16",
+        "block": "-17",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": "High crush"
+    },
+    {
+        "command": "FC.4",
+        "hit level": "l",
+        "damage": "6",
+        "startup": "i12",
+        "block": "-15",
+        "hit": "-4",
+        "counter hit": "",
+        "notes": "High crush"
+    },
+    {
+        "command": "FC.df+2",
+        "hit level": "L",
+        "damage": "22",
+        "startup": "i19",
+        "block": "-14",
+        "hit": "+4",
+        "counter hit": "+12d",
+        "notes": "* Elbow High crush"
+    },
+    {
+        "command": "...GRF.3*",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i36",
+        "block": "!",
+        "hit": "+58cs",
+        "counter hit": "",
+        "notes": "* Tornado * Reversal Break * Consumes GRF * Partially consumes remaining Heat time * Transition to +13 RAM on block * Cancel into FC with F * Cancel into Surendrajit with D at frames 16-24? of Tornado Kick * 10 chip damage on block"
+    },
+    {
+        "command": "...GRF.3*~d",
+        "hit level": "L,h",
+        "damage": "15,17",
+        "startup": "i27,i23",
+        "block": "-12",
+        "hit": "+11a (+10)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Consumes GRF * Partially consumes remaining Heat time * +31a (+5) if only the 2nd hit hits"
+    },
+    {
+        "command": "...GRF.4*",
+        "hit level": "m",
+        "damage": "25",
+        "startup": "i36",
+        "block": "!",
+        "hit": "+42a (+32)",
+        "counter hit": "",
+        "notes": "* Tornado * Reversal Break * Consumes GRF * Partially consumes remaining Heat time * Transition to +13 RAM on block * Cancel into FC with F * Cancel into Surendrajit with D at frames 16-24? of Tornado Kick * 10 chip damage on block"
+    },
+    {
+        "command": "GRF.1+2",
+        "hit level": "sp",
+        "damage": "",
+        "startup": "",
+        "block": "",
+        "hit": "",
+        "counter hit": "",
+        "notes": "* Consumes GRF * Partially consumes remaining Heat time Power crush 5~19"
+    },
+    {
+        "command": "GRF.1+2,P",
+        "hit level": "sp, m",
+        "damage": "20",
+        "startup": "i21",
+        "block": "",
+        "hit": "+13g",
+        "counter hit": "",
+        "notes": "* Transitions to +13g RAM * Only occurs when GRF.1+2 absorbs an attack"
+    },
+    {
+        "command": "RAM.1",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i19",
+        "block": "+1",
+        "hit": "+20a (+3)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Elbow * 6 chip damage on block"
+    },
+    {
+        "command": "RAM.2",
+        "hit level": "m!",
+        "damage": "43",
+        "startup": "i40",
+        "block": "!",
+        "hit": "+18a (+8)",
+        "counter hit": "",
+        "notes": "* Balcony Break * Unblockable"
+    },
+    {
+        "command": "RAM.3",
+        "hit level": "m",
+        "damage": "20",
+        "startup": "i21",
+        "block": "-11",
+        "hit": "-6",
+        "counter hit": "",
+        "notes": ""
+    },
+    {
+        "command": "RAM.3,4",
+        "hit level": "m, h",
+        "damage": "20, 25",
+        "startup": "i21, i24",
+        "block": "-9",
+        "hit": "+13a",
+        "counter hit": "",
+        "notes": "* Balcony Break * Combos from 1st hit * 10 chip damage on block"
+    },
+    {
+        "command": "RAM.4",
+        "hit level": "l",
+        "damage": "31",
+        "startup": "i21",
+        "block": "-13",
+        "hit": "+11a",
+        "counter hit": "",
+        "notes": "* Balcony Break"
+    },
+    {
+        "command": "f,F+4~3,GRF.2",
+        "hit level": "L, m (t)",
+        "damage": "15, 30",
+        "startup": "i19, i25",
+        "block": "+0",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Balcony Break * Consumes GRF * Partially consumes remaining Heat Time * Shift to attack throw on hit * Combos from 1st hit * 6 chip damage on block"
+    },
+    {
+        "command": "1+3",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Homing * Throw break 1 or 2"
+    },
+    {
+        "command": "2+4",
+        "hit level": "t",
+        "damage": "35",
+        "startup": "i12",
+        "block": "-6",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Homing * Throw break 1 or 2 * Sideswaps on hit"
+    },
+    {
+        "command": "Back Throw",
+        "hit level": "t!",
+        "damage": "50",
+        "startup": "i12",
+        "block": "!",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Homing * Unbreakable throw"
+    },
+    {
+        "command": "Left Throw",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Homing * Throw break 1"
+    },
+    {
+        "command": "RAM.1+3",
+        "hit level": "t!",
+        "damage": "40",
+        "startup": "i23",
+        "block": "!",
+        "hit": "-3d",
+        "counter hit": "",
+        "notes": "* Homing * Floor Break * Unbreakable throw * Grants GRF on hit * Partially restores remaining Heat time"
+    },
+    {
+        "command": "Right Throw",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Homing * Throw break 2 * Sideswaps on hit"
+    },
+    {
+        "command": "uf+1+2",
+        "hit level": "t",
+        "damage": "40",
+        "startup": "i12",
+        "block": "-3",
+        "hit": "+0d",
+        "counter hit": "",
+        "notes": "* Balcony Break * Throw break 1+2"
+    }
+]

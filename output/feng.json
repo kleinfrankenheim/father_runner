@@ -34,7 +34,7 @@
         "hit level": "m",
         "damage": "30",
         "startup": "i39",
-        "block": "+12",
+        "block": "+11",
         "hit": "+22a (+12)",
         "counter hit": "",
         "notes": "* Balcony Break * Guard Break * Partially uses remaining Heat Time"
@@ -64,7 +64,7 @@
         "hit level": "m,t",
         "damage": "55+",
         "startup": "i20",
-        "block": "-15",
+        "block": "-18",
         "hit": "+0d",
         "counter hit": "",
         "notes": "* Rage Art * Removes Recoverable Health * Reversal Break * Damage increases with lower health, maximum 82 * Freezes match timer on activation and on hit * Restores recoverable health on hit * Transition to attack throw on hit * Consumes Rage Power crush 8~"
@@ -900,16 +900,6 @@
         "notes": ""
     },
     {
-        "command": "B,B,U/B",
-        "hit level": "m",
-        "damage": "21",
-        "startup": "i39~41",
-        "block": "+4c",
-        "hit": "+22",
-        "counter hit": "+22",
-        "notes": "* The move only can be do it near the wall with the back at the wall allowing to escape from the corner and on hit starts combo, similar to a launcher and without tornado. Low crush 5"
-    },
-    {
         "command": "b1+3",
         "hit level": "",
         "damage": "25",
@@ -1210,6 +1200,16 @@
         "notes": "* Combo from 1st attack"
     },
     {
+        "command": "(back to wall).b,b,ub",
+        "hit level": "m",
+        "damage": "21",
+        "startup": "i39~41",
+        "block": "+4c",
+        "hit": "+22",
+        "counter hit": "+22",
+        "notes": "Low crush 5"
+    },
+    {
         "command": "BT.1",
         "hit level": "h",
         "damage": "12",
@@ -1277,7 +1277,7 @@
         "block": "-3~0",
         "hit": "+28d (+18)",
         "counter hit": "",
-        "notes": "* Balcony Break"
+        "notes": "* Balcony Break &lt;div class=&quot;plainlist&quot;&gt; * fs1~27 * Low crush 28~ &lt;/div&gt;"
     },
     {
         "command": "KNP.1",
