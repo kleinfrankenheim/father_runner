@@ -14,6 +14,9 @@ MONGO_DB_STRING = os.getenv('MONGO_DB_STRING')
 async def database_init():
 
     client = AsyncMongoClient(MONGO_DB_STRING)
-    db_name = client['fatherrunner']
 
-    await init_beanie(database=db_name, document_models=[AllowedUsersDocument])
+    # TODO
+    # Look into init_beanie function. Provide custom database name.
+    # Custom database name that has been provided only stores 2 documents.
+
+    await init_beanie(database=client.db_name, document_models=[AllowedUsersDocument])
