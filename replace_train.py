@@ -217,22 +217,3 @@ def get_character_by_name(character_input):
 
     return None
 
-# # Used for debugging purposes
-# user_input = "kaz"
-# filtered_input = filter_input('qcf1+2')
-# character_name_gotten = get_character_by_name('byron')
-# print(filter_moves('sls1+2', 'bryan'))
-#
-# data = open_frame_data('./output/bryan.json')
-# printable_junk = compare_inputs(data, character_name_gotten, 'qcf1+2')
-#
-# print(printable_junk)
-
-# text_try = '!fd dvj 1+2'.split()[1]
-# print(text_try)
-# getchar = get_character_by_name(text_try)
-# print(getchar)
-
-# data = open_frame_data('./output/jin.json')
-# printable_junk = compare_inputs(data, 'jin', 'f3+4,2')
-# print(printable_junk)

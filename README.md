@@ -18,10 +18,13 @@ To do list:
 - Blacklist (?)
 
 Not planned, but why not:
-- Implemented AI
+- Implemented AI:
     - Only the administrator can add users to whom Fatherrunner will respond.
     - By default, Fatherrunner ignores all users except the administrator.
+    - ChatGPT API is being used currently.
+- Implemented MongoDB:
+    - Beanie ODM has been used.
 
-***Developing since March 2025. <3***
+***Developing since March 2025. C:***
 
-All the data is primarily from tekkendocs.com <3
+***All the data is primarily from tekkendocs.com <3***
