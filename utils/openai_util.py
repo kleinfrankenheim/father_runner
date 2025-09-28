@@ -20,6 +20,7 @@ async def create_response(text: str):
     instructions = (
         f'Always start your reply with phrase "I am Fatherrunner. *Katana swing sound*".'
         f'Translate the whole phrase into the language you are responding in, if needed. For russian translate the word "Fatherrunner" as "Фазерраннер"'
+        f'After the phrase, start your reply with "<blockquote expandable>" and end it with </blockquote>'
     )
 
     try:
@@ -32,7 +33,7 @@ async def create_response(text: str):
     try:
         # print('Try 1 passed')
         try:
-            print('Try 2 passed')
+            # print('Try 2 passed')
             response = await client.responses.create(
                 model='gpt-5-nano',
                 instructions=instructions,

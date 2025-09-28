@@ -2,6 +2,7 @@ import re
 
 from aiogram import Router, F
 from aiogram.types import Message
+from aiogram.enums.parse_mode import ParseMode
 
 # Database module import
 from database.models.models import AllowedUsersDocument
@@ -87,4 +88,5 @@ async def answer_to_him(message: Message):
     except Exception as e:
         await message.reply(text=f'Ошибка: {e}')
     else:
-        await message.reply(response)
+        await message.reply(text=response,
+                            parse_mode=ParseMode.HTML)
