@@ -35,7 +35,7 @@ async def create_response(text: str):
         try:
             # print('Try 2 passed')
             response = await client.responses.create(
-                model='gpt-5-mini',
+                model='gpt-5-nano',
                 instructions=instructions,
                 input=text,
             )
