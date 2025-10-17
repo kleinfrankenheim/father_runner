@@ -8,6 +8,7 @@ from database.database_async import database_init
 
 from handlers import help, frame_bot, feedback, characters_list
 from handlers.ai_implementation import ai_implementation
+from handlers.higem import itak_message
 
 load_dotenv()
 
@@ -23,7 +24,9 @@ async def main():
                        help.router,
                        feedback.router,
                        characters_list.router,
+                       itak_message.router,
                        ai_implementation.router,
+
                        )
 
     await database_init()

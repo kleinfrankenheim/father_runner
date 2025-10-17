@@ -5,7 +5,6 @@ from aiogram.filters import Command, StateFilter
 from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import StatesGroup, State
 from aiogram.types import Message, ReplyKeyboardRemove
-from aiogram.methods import SendMessage
 from dotenv import load_dotenv
 
 load_dotenv()

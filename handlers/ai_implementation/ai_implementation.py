@@ -9,7 +9,7 @@ from database.models.models import AllowedUsersDocument
 
 # AI module Imports
 from middlewares.ai.users_middleware import AIFilterMiddleware, PermissionException
-from utils.ai_filters import AuthorizationFilter
+from utils.general import GeneralInputMatchCheck
 from utils.openai_util import create_response
 
 router = Router()
@@ -20,8 +20,12 @@ middleware_instance = AIFilterMiddleware()
 
 router.message.middleware(middleware_instance)
 
+add_command = GeneralInputMatchCheck('Фазерраннер добавь')
+delete_command = GeneralInputMatchCheck('Фазерраннер удали')
+check_command = GeneralInputMatchCheck('Фазерраннер проверь')
 
-@router.message(AuthorizationFilter('Фазерраннер добавь'))
+
+@router.message(add_command)
 async def user_add(message: Message):
     try:
         await message.reply(await middleware_instance.SetObject.add_user(caller_id=message.from_user.id,
@@ -32,7 +36,7 @@ async def user_add(message: Message):
         await message.reply(e.__str__())
 
 
-@router.message(AuthorizationFilter('Фазерраннер удали'))
+@router.message(delete_command)
 async def user_remove(message: Message):
     try:
         await message.reply(await middleware_instance.SetObject.remove_user(caller_id=message.from_user.id,
@@ -41,7 +45,7 @@ async def user_remove(message: Message):
         await message.reply(e.__str__())
 
 
-@router.message(AuthorizationFilter('Фазерраннер проверь'))
+@router.message(check_command)
 async def user_check(message: Message):
     # Has been modified so user can check if he can talk to the bot or not.
 

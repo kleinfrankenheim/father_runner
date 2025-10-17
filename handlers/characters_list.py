@@ -10,6 +10,7 @@ router = Router()  # [1]
 async def characters_list(message: Message):
     text = (f'`Alisa` \n'
             f'`Anna` \n'
+            f'`ArmorKing` \n'
             f'`Asuka` \n'
             f'`Azucena` \n'
             f'`Bryan` \n'

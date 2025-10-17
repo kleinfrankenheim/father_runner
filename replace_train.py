@@ -6,6 +6,7 @@ from typing import List, Dict, Callable
 
 class CharacterName(enum.Enum):
     ANNA = 'anna'
+    ARMOR_KING = 'armor_king'
     ALISA = 'alisa'
     ASUKA = 'asuka'
     AZUCENA = 'azucena'
@@ -48,6 +49,7 @@ class CharacterName(enum.Enum):
 Character_alias = {
     CharacterName.ALISA: [],
     CharacterName.ANNA: [],
+    CharacterName.ARMOR_KING: ['ak', 'armor_king', 'armorking', 'armor'],
     CharacterName.ASUKA: ['oscar'],
     CharacterName.AZUCENA: ['azu', 'azuc', 'cafe'],
     CharacterName.BRYAN: ['byron', 'bry', 'bestchar'],
